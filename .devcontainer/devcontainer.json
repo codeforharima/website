@@ -1,0 +1,228 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/debian
+{
+  "name": "c4h-website",
+  // Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
+  "image": "mcr.microsoft.com/devcontainers/base:trixie",
+  "features": {
+    "ghcr.io/devcontainers/features/python:1": {},
+    "ghcr.io/devcontainers-extra/features/uv:1": {}
+  },
+  // Features to add to the dev container. More info: https://containers.dev/features.
+  // "features": {},
+  // Use 'forwardPorts' to make a list of ports inside the container available locally.
+  // "forwardPorts": [],
+  // Configure tool-specific properties.
+  // "customizations": {},
+  // Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
+  // "remoteUser": "root"
+  "remoteUser": "vscode",
+  "postCreateCommand": "sudo apt-get -y update && sudo apt-get -y install build-essential rust-all && uv sync",
+  // VS Code extensions and settings
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "anbuselvanrocky.bootstrap5-vscode",
+        "bierner.markdown-preview-github-styles",
+        "bradgashler.htmltagwrap",
+        "christian-kohler.path-intellisense",
+        "DavidAnson.vscode-markdownlint",
+        "ecmel.vscode-html-css",
+        "esbenp.prettier-vscode",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-complete-tag",
+        "formulahendry.auto-rename-tag",
+        "htmlhint.vscode-htmlhint",
+        "kevinrose.vsc-python-indent",
+        "michelemelluso.code-beautifier",
+        "mrmlnc.vscode-duplicate",
+        "ms-azuretools.vscode-docker",
+        "ms-ceintl.vscode-language-pack-ja",
+        "ms-python.black-formatter",
+        "ms-python.debugpy",
+        "ms-python.flake8",
+        "ms-python.isort",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-vscode-remote.remote-containers",
+        "ms-vscode-remote.remote-ssh-edit",
+        "ms-vscode-remote.remote-ssh",
+        "ms-vscode-remote.vscode-remote-extensionpack",
+        "ms-vscode.live-server",
+        "ms-vscode.remote-explorer",
+        "ms-vscode.remote-server",
+        "ms-vsliveshare.vsliveshare",
+        "noxiz.jinja-snippets",
+        "oderwat.indent-rainbow",
+        "pkief.material-icon-theme",
+        "samuelcolvin.jinjahtml",
+        "wholroyd.jinja",
+        "yzhang.markdown-all-in-one",
+      ],
+      // VS Code全体設定
+      "settings": {
+        // 括弧に色付け
+        "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+        // カーソルはブロック型
+        "editor.cursorStyle": "block",
+        // フォント
+        "editor.fontFamily": "Hack, Inconsolata, 'IBM Plex Mono', 'Noto Sans Mono', 'Noto Sans Mono JP', 'Noto Sans CJK Mono JP', monospace",
+        // フォントサイズ
+        "editor.fontSize": 18,
+        // 貼り付けたものをは整形する
+        "editor.formatOnPaste": true,
+        // 保存すると整形する
+        "editor.formatOnSave": true,
+        // コードの書式設定する
+        "editor.formatOnType": true,
+        // 括弧のペアを可視化
+        "editor.guides.bracketPairs": true,
+        "editor.guides.bracketPairsHorizontal": true,
+        // マウスオーバーのポップアップを有効
+        "editor.hover.enabled": "on",
+        // ミニマップは非表示
+        "editor.minimap.enabled": false,
+        // 選択範囲の角を丸める
+        "editor.roundedSelection": false,
+        // タブサイズの基本は2文字
+        "editor.tabSize": 2,
+        // 行折り返し有効
+        "editor.wordWrap": "on",
+        // 半角スペース表示無効
+        "editor.renderWhitespace": "selection",
+        // 全角スペース表示
+        "editor.unicodeHighlight.invisibleCharacters": true,
+        // 入力中のヒントを出さない
+        "editor.parameterHints.enabled": false,
+        // インデントはスペース
+        "editor.insertSpaces": true,
+        // おすすめ拡張機能を表示しない
+        // "extensions.ignoreRecommendations": true,
+        // 拡張子htmlは、ファイルをjinja-htmlで開く
+        "files.associations": {
+          "*.j2": "jinja-html",
+          "*.jinja2": "jinja-html",
+          "*.html": "jinja-html",
+        },
+        // 改行コードは\n
+        "files.eol": "\n",
+        // エクスプローラーで設定関連を非表示にする
+        "files.exclude": {
+          "**/.devcontainer": true,
+          "**/.vscode": true,
+          "**/.venv": true,
+          "**/.git": true,
+          "**/.gitignore": true,
+        },
+        // ファイル最後に空行を追加
+        "files.insertFinalNewline": true,
+        // ファイル最後の空行を削除。上と合わせて最後に空行1行入る
+        "files.trimFinalNewlines": true,
+        // ファイル最後のスペースは削除
+        "files.trimTrailingWhitespace": true,
+        // ターミナルのフォントサイズ
+        "terminal.integrated.fontSize": 18,
+        // Linuxでタイトルバーを表示しない
+        "window.titleBarStyle": "custom",
+        // HTMLの行折り返し無効
+        "html.format.wrapLineLength": 0,
+        // ディレクトリパスを展開
+        "explorer.compactFolders": false,
+        // アイコンテーマはmaterial icon
+        "workbench.iconTheme": "vs-seti",
+        // jinja2もHTMLアイコンにする
+        "material-icon-theme.languages.associations": {
+          "jinja2": "html",
+          "jinja-html": "html"
+        },
+        // notebookの出力を折り返す
+        "notebook.output.wordWrap": true,
+        // github copilotを無効にする
+        "github.copilot.enable": {
+          "*": false,
+        },
+        // Windows PowerShell向け設定 https://zenn.dev/nekocodex/articles/eb3403961ad9b966ff6e
+        "terminal.integrated.env.windows": {
+          "PSExecutionPolicyPreference": "RemoteSigned"
+        },
+        // ターミナルで出力が見えなくなるスティッキースクロールを無効にする
+        "terminal.integrated.stickyScroll.enabled": false,
+        // ターミナルでVS Codeがコマンド補完することを無効にする
+        "terminal.integrated.suggest.enabled": false,
+        // Python isort設定
+        "isort.args": [
+          "--profile",
+          "black",
+        ],
+        // jinja2でもemmetを使えるようにする
+        "emmet.includeLanguages": {
+          //  "jinja2": "html",
+          "jinja-html": "html"
+        },
+        // emmetのHTMLを日本語に設定
+        "emmet.variables": {
+          "lang": "ja"
+        },
+        // Flake8で長い行をエラーにしない
+        "flake8.args": [
+          "--ignore=E501",
+          "--max-line-length",
+          "160"
+        ],
+        // blackフォーマッター設定
+        "black-formatter.args": [
+          "--line-length",
+          "160"
+        ],
+        // HTML/jinja2拡張機能設定
+        "[html][jinja-html][jinja]": {
+          // "editor.defaultFormatter": "monosans.djlint",
+          "editor.defaultFormatter": "vscode.html-language-features",
+          "editor.tabSize": 2
+        },
+        "[jinja-html][jinja]": {
+          // jinja2テンプレートの場合、貼り付け、保存時に整形しない
+          "editor.formatOnPaste": false,
+          "editor.formatOnSave": false,
+        },
+        // CSS拡張機能設定
+        "[css]": {
+          "editor.defaultFormatter": "michelemelluso.code-beautifier",
+          "editor.tabSize": 2
+        },
+        // JSON拡張機能設定
+        "[json][jsonc]": {
+          "editor.defaultFormatter": "vscode.json-language-features",
+          "editor.tabSize": 4
+        },
+        // Python拡張機能設定
+        "[python]": {
+          "editor.defaultFormatter": "ms-python.black-formatter",
+          "editor.tabSize": 4,
+          "editor.codeActionsOnSave": {
+            "source.organizeImports": "explicit"
+          }
+        },
+        // Markdown拡張機能設定
+        "[markdown]": {
+          "editor.defaultFormatter": "yzhang.markdown-all-in-one",
+          "editor.tabSize": 4
+        },
+        // JavaScript拡張機能設定
+        "[javascript]": {
+          "editor.defaultFormatter": "esbenp.prettier-vscode",
+          "editor.tabSize": 2
+        },
+        // TypeScript拡張機能設定
+        "[typescript]": {
+          "editor.defaultFormatter": "esbenp.prettier-vscode",
+          "editor.tabSize": 2
+        },
+        // bootstrap css参照用
+        "css.styleSheets": [
+          "https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+[project]
+name = "c4h-website"
+version = "0.1.0"
+description = "Code for Harimaのウェブサイトです"
+requires-python = ">=3.13"
+dependencies = [
+    "pelican-read-more>=1.0.0",
+    "pelican-related-posts>=1.0.0",
+    "pelican-search>=1.1.0",
+    "pelican-seo>=1.4.0",
+    "pelican-series>=3.1.0",
+    "pelican-share-post>=1.2.1",
+    "pelican-sitemap>=1.2.2",
+    "pelican-tag-cloud>=1.0.1",
+    "pelican-thumbnailer>=1.0.2",
+    "pelican[markdown]>=4.11.0.post0",
+]
