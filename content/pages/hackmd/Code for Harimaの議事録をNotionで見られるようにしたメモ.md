@@ -1,14 +1,12 @@
----
-title: Code for Harimaの議事録をNotionで見られるようにしたメモ
-tags: [memo]
----
-
----
-
-title: Code for Harimaの議事録をNotionで見られるようにしたメモrobots: noindex,
-nofollow lang: ja breaks: true tags: memo
-
----
+Title: Code for Harimaの議事録をNotionで見られるようにしたメモ
+Date: 2023-05-13 19:00:00
+Category: events
+Tags: memo
+Summary:
+lang: ja
+Slug: how-to-convert-notion
+Save_as: events/how-to-convert-notion.html
+Template: page
 
 # Code for Harimaの議事録をNotionで見られるようにしたメモ
 
@@ -41,10 +39,10 @@ Markdownテキストファイルを取り込めばNotionのメモになる、と
 結論から書くと、置き換えるものではありません。NotionとHackMDは役割が違うので、今までどおりHackMDは使います。NotionとHackMDの良い点と悪い点をまとめるとこうなります。
 
 - HackMDの良い点、悪い点
-  - ○1つのドキュメントをみんな一斉にリアルタイムで書ける
-  - ×貯めたドキュメントを整理するのは不得意
+  - ○: 1つのドキュメントをみんな一斉にリアルタイムで書ける
+  - ×: 貯めたドキュメントを整理するのは不得意
 - Notionの良い点、悪い点
-  - ○ドキュメントを貯めて整理できる
-  - ×リアルタイムでドキュメントを書くのは不得意。無料プランは人数制限もある
+  - ○: ドキュメントを貯めて整理できる
+  - ×: リアルタイムでドキュメントを書くのは不得意。無料プランは人数制限もある
 
 と、見事な補完関係になっているので、議事録はHackMDでみんなで書いて、終わったらNotionに移す（HackMDのテキストをCtrl+Aで全選択してコピー、Notionに貼り付けできる）のが良いと思います。

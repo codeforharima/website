@@ -3,15 +3,14 @@ lang: ja
 Category: memo
 Tags: openstreetmap, plateau, memo
 Summary:
-Slug:201807
+Slug: plateau-kakogawa-2020
 Save_as: events/plateau-kakogawa-2020.html
 Template: page
 
 # 3D都市モデル（Project PLATEAU）加古川市（2020年度）取込
 
 - OpenStreetMapの全体的なインポート方針
-  - JA:MLIT PLATEAU/imports outline - OpenStreetMap Wiki:
-    <https://wiki.openstreetmap.org/wiki/JA:MLIT_PLATEAU/imports_outline>
+  - JA:MLIT PLATEAU/imports outline - OpenStreetMap Wiki: <https://wiki.openstreetmap.org/wiki/JA:MLIT_PLATEAU/imports_outline>
 
 全体の作業スケジュールとしては5月下旬から6月にかけてから始まりますが、建物が少ない地域から始めて様子を見ながら広げていくそうなので、加古川は少し遅くなりそうです。
 

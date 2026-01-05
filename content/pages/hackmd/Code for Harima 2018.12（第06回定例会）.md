@@ -1,10 +1,10 @@
 Title: Code for Harima 2018.12（第6回定例会）
-Date: 2018-12-10
+Date: 2018-12-10 19:00:00
 Category: minutes
 Tags: 2018
 Summary:
 lang: ja
-Slug:201812
+Slug: 201812
 Save_as: history/201812.html
 Template: page
 

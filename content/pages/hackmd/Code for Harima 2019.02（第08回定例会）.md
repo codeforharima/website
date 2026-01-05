@@ -1,10 +1,10 @@
 Title: Code for Harima 2019.02（第8回定例会）
-Date: 2019-02-12
+Date: 2019-02-12 19:00:00
 Category: minutes
 Tags: 2019
 Summary:
 lang: ja
-Slug:201902
+Slug: 201902
 Save_as: history/201902.html
 Template: page
 

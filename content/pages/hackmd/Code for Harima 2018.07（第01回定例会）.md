@@ -1,10 +1,10 @@
 Title: Code for Harimaキックオフ
-Date: 2018-07-29
+Date: 2018-07-29 19:00:00
 lang: ja
 Category: minutes
 Tags: 2018
 Summary:
-Slug:201807
+Slug: 201807
 Save_as: history/201807.html
 Template: page
 

@@ -1,10 +1,10 @@
 Title: Code for Harima 2018.08（第2回定例会）
-Date: 2018-08-21
+Date: 2018-08-21 19:00:00
 Category: minutes
 Tags: 2018
 Summary:
 lang: ja
-Slug:201808
+Slug: 201808
 Save_as: history/201808.html
 Template: page
 

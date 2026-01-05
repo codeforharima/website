@@ -1,10 +1,10 @@
 Title: Code for Harima 2019.05（第11回定例会）
-Date: 2019-05-13
+Date: 2019-05-13 19:00:00
 Category: minutes
 Tags: 2019
 Summary:
 lang: ja
-Slug:201905
+Slug: 201905
 Save_as: history/201905.html
 Template: page
 

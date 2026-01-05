@@ -1,22 +1,20 @@
----
-title: Code for Harima 2019.07（第13回定例会）
-tags: [code for harima]
----
-
----
-
-robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
-
----
+Title: Code for Harima 2019.07（第13回定例会）
+Date: 2019-07-10 19:00:00
+Category: minutes
+Tags: 2019
+Summary:
+lang: ja
+Slug: 201907
+Save_as: history/201907.html
+Template: page
 
 # Code for Harima 2019.07（第13回定例会）
 
 - 2019/07/10 19:00-21:00
 - 加古川 びぃぷらす
 - [行動規範](https://github.com/codeforharima/codeofconduct)
-
-司会: のがた参加者:のがた、福田、小山、園田、長峰、萬野、川上、川井、水野
-
+- 司会: のがた
+- 参加者:のがた、福田、小山、園田、長峰、萬野、川上、川井、水野
 - 次回開催: 8月21日(水) 19:00-21:00
 - 開催場所：びぃぷらす
 
@@ -29,12 +27,12 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
 ## 水辺プロジェクト進捗報告（水野）
 
 - 6/21 中間報告会
-- 7/1　 的形地区打合せ
-- 7/9　 畑地区行常地区打合せ @ガスト 19:00~24:00
-- 7/12　水入れ研修 @成井　7:00~12:00
-- 7/12　自治会との打合せ　@畑　10:00~12:00
-- 7/17　自治会との打合せ　@行常　午前中
-- 7/28　キャンプ　@東播磨フィールドステーション
+- 7/01 的形地区打合せ
+- 7/09 畑地区行常地区打合せ @ガスト 19:00~24:00
+- 7/12 水入れ研修 @成井　7:00~12:00
+- 7/12 自治会との打合せ　@畑　10:00~12:00
+- 7/17 自治会との打合せ　@行常　午前中
+- 7/28 キャンプ　@東播磨フィールドステーション
 
 興味がある方は福田、小山、三宅、水野までお知らせください！
 
