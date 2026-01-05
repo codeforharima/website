@@ -92,7 +92,51 @@ a:hover {
   text-justify: inter-character;
   word-break: break-all;
   overflow-wrap: break-word;
-  line-height: 1.8;
+  line-height: 1.6;
+}
+
+/* ページ見出し */
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6 {
+  font-family: var(--base-font-family);
+  font-weight: bolder;
+  font-size: 1rem;
+  font-feature-settings: "palt";
+  line-height: 1.6;
+}
+
+.content h1 {
+  font-size: 2rem;
+  margin-top: 2.25rem;
+}
+
+.content h2 {
+  font-size: 1.625rem;
+  margin-top: 2.25rem;
+}
+
+.content h3 {
+  font-size: 1.375rem;
+  margin-top: 2.25rem;
+}
+
+.content h4 {
+  font-size: 1.25rem;
+  margin-top: 2.25rem;
+}
+
+.content h5 {
+  font-size: 1.125rem;
+  margin-top: 2.25rem;
+}
+
+.content h6 {
+  font-size: 1rem;
+  margin-top: 2.25rem;
 }
 
 /* Card Image Aspect Ratio */
@@ -106,6 +150,7 @@ a:hover {
   object-fit: cover;
   aspect-ratio: 16 / 10;
 }
+
 
 .footer {
   font-size: var(--font-14px);
