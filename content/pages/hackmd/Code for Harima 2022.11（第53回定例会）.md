@@ -1,0 +1,80 @@
+---
+title: Code for Harima 2022.11（第53回定例会）
+tags: [code for harima]
+---
+
+---
+
+robots: noindex, nofollow lang: ja breaks: true tags: code for harima
+
+---
+
+# Code for Harima 2022.11（第53回定例会）
+
+- 2022/11/9(水) 19:00-21:00
+- 加古川 びぃぷらす /
+  [オンライン](https://meet.jit.si/moderated/e48e0ee4b4f1af97d8404b8618d8977bc8fb8a97403fccaed9f485acb2393952)
+- LINEアカウント: <https://liff.line.me/1645278921-kWRPP32q/?accountId=946ardlp>
+- 司会:野方
+- 参加者:福田、水野、高野
+- リモート: 上東
+- 次回開催: 2022年12月14日(水) 19:00-21:00
+- 開催場所：びぃぷらす
+- 過去の議事録：<https://hackmd.io/@codeforharima/ry3puSiOc>
+
+## 運営連絡
+
+- HARIMAの情報なら参加者グループにどんどん投稿していいですよ！
+  - <https://www.facebook.com/groups/codeforharima/>
+
+- 会場のびぃぷらす加古川で、明石高専の学生さんが「じけまちのいいところ」マップづくりのアンケートを実施中
+  - 皆さんご協力ください
+  - 集計方法どうするのかな？
+
+![](https://i.imgur.com/xBCTSGO.jpg)
+
+![](https://i.imgur.com/NbISz0Z.jpg)
+
+![](https://i.imgur.com/2MPvyN0.jpg)
+
+## State of the Map Japan 2022
+
+- 事前登録始まりました
+  - <https://sotmjp2022.peatix.com/>
+- やること
+  - <https://hackmd.io/@codeforharima/Bk8HgOako/edit>
+
+- 関西オープンフォーラム
+  - <https://www.k-of.jp/2022/>
+  - 古橋先生が登壇される？
+    - 11月11日
+    - <https://www.k-of.jp/2022/session/mapconcierge/>
+
+- Code for Harima のパネルをA2で用意
+  - 寺家町マッピング
+  - よかったら地図かいてみませんか
+  - ため池プロジェクト
+
+## たかさご万灯祭
+
+- 開催日：2022年11月12日・13日
+  - <https://mantousait.wixsite.com/takasago>
+
+\*過去にCode for HARIMA で撮影したオープンデータ
+
+- <https://www.flickr.com/photos/sukitakasago/>
+- WikimediaComons に掲載する？
+
+## Night Fantasy Illusion
+
+- 開催日：2022年11月19日
+- チケットは完売
+
+## インターネットマップに挑戦してみようin神鍋
+
+- 11月3日(木・祝)　神鍋山をマッピング
+- 講師　現地ガイド：松原典孝さん（兵庫県立大学講師／ジオパーク）
+  - マップ説明：谷岡 能史さん(文化財室職員)
+- [OSM](https://www.openstreetmap.org/#map=16/35.5047/134.6718)
+- 当日の結果 ![](https://i.imgur.com/gdtUBQj.jpg)
+- [mapillary](https://www.mapillary.com/app/?pKey=786397875757115)

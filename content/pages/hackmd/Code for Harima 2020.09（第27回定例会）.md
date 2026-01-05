@@ -1,0 +1,59 @@
+---
+title: Code for Harima 2020.09（第27回定例会）
+tags: [code for harima]
+---
+
+---
+
+robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
+
+---
+
+# Code for Harima 2020.09（第27回定例会）
+
+- 2020/09/9(水) 19:30-21:00
+- 加古川 びぃぷらす
+- [行動規範](https://github.com/codeforharima/codeofconduct)
+
+司会:野方参加者:野方、福田、大久保、水野、前川、坂ノ下
+
+- 次回開催: 10月14日(水) 19:00-21:00
+- 開催場所：びぃぷらす
+
+## 運営連絡
+
+特になし
+
+## 結（ゆう）の夢プロジェクト（水野）
+
+- 向島公園でロケフォト予定（予定日未定）
+- Code for
+  Harimaは向島公園のマッピングや、写真のアップロードで協力できれば・・・
+- <https://www.fairytale.co.jp/blog/staff_blog/entry-897.html>
+- 9/26、27あたりで、むこうじまで情報収集マッピングしたいなあと思います⇒　詳細は聞いていない状態です
+
+## 近況報告（坂ノ下）
+
+*みんなでテイクアウトマップを改良し、テイクアウト以外の情報を充実させて名前を変えたいので名前募集
+*まちあるきマップメーカーの改良中 \*Rapidがすごい　<https://mapwith.ai/rapid#disable_features=boundaries>
+
+- 週刊OSMの紹介
+- State of The Map Japan 2020: <https://stateofthemap.jp/2020/>
+  - 誰か出ませんか？
+
+## （野方）
+
+*10月15日～18日　Libre　Ofｆiceカンファレンス
+*野方さんご出演！\*野方さんの裏番組は榎さん
+
+## （最後でOK）SeedsとNeedsの交差展（藤輪さん代理で水野）
+
+SeedsとNeedsの交差展9月18日～9月28日 9:00-18:00びぃぷらす
+
+<https://www.facebook.com/events/328990985014953/>
+
+※日によって展示パネルが異なります。ご注意ください。18日～21日　vol.01~vol.13
+22日～25日　vol.14～vol.24 26日～28日　vol.25～vol.35
+
+※同時開催　9/26(土)　19:00～21:00旅するMANABIYA vol.36
+Guestspeaker　流しのこたつ 奥井希さん <https://peatix.com/event/1626878>
