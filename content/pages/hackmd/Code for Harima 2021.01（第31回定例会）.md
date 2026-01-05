@@ -1,22 +1,20 @@
----
-title: Code for Harima 2021.01（第31回定例会）
-tags: [code for harima]
----
-
----
-
-robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
-
----
+Title: Code for Harima 2021.01（第31回定例会）
+Date: 2021-01-13 19:00:00
+Category: minutes
+Tags: 2021
+Summary:
+lang: ja
+Slug: 202101
+Save_as: history/202101.html
+Template: page
 
 # Code for Harima 2021.01（第31回定例会）
 
 - 2021/01/13(水) 19:30-21:00
 - <https://meet.jit.si/CodeForHarima20210113>
 - [行動規範](https://github.com/codeforharima/codeofconduct)
-
-司会:野方参加者:野方、福田、大前、大田、石本、三宅、辻、水野、石井
-
+- 司会: 野方
+- 参加者: 野方、福田、大前、大田、石本、三宅、辻、水野、石井
 - 次回開催: 2月 10日(水) 19:00-21:00
 - 開催場所：びぃぷらす（予定）
 
@@ -28,33 +26,31 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
 ## 結の夢プロジェクト報告（石本、三宅、辻、水野）
 
 - [報告用資料](https://drive.google.com/file/d/14yme_Uc3dN5jE6uiIlQISntnLy5AAu7b/view?usp=sharing)
-- ドロップボックス -<https://www.dropbox.com/sh/0u8bgrqrdv6o4lc/AADqYRSSr3OkC8EE_Eq_b01oa?dl=0>
+- Dropbox: <https://www.dropbox.com/sh/0u8bgrqrdv6o4lc/AADqYRSSr3OkC8EE_Eq_b01oa?dl=0>
 - [報告用動画](https://drive.google.com/file/d/1Lb6iTPluQurDVnLKJbcnju-knD-wIP5d/view?usp=sharing)
   - Code for HarimaのアカウントでYoutube公開してもいいか？⇒OK！
   - 報告要素を抜いた動画も作成し、高砂市のシティプロモーション動画として売り込む予定
-
-（来月報告）報告会ができなくなった
-
-- Sweet Brideさんの高砂フォトウェディングのHP（<https://takasago-wedding.com/>
-  ）　　\* 実際のフォトウェディングのご予約入りました！
-- 神戸新聞さんのHP（<https://www.kobe-np.co.jp/news/sougou/202012/0013948782.shtml>
-  ）
+- （来月報告）報告会ができなくなった
+- Sweet Brideさんの高砂フォトウェディングのHP（<https://takasago-wedding.com/>）
+  - 実際のフォトウェディングのご予約入りました！
+- 神戸新聞さんのHP（<https://www.kobe-np.co.jp/news/sougou/202012/0013948782.shtml>）
 
 ## 自治体DXについてききたいです（大前）
 
 ## Wikipedia 20 in JAPAN（大田）
 
-- 「Code
-  for 山城」の青木氏とオンライン対談（※高砂でのオープンデータソンを紹介予定）
-  ![](https://i.imgur.com/2t8H0XM.jpg)
+- 「Code for 山城」の青木氏とオンライン対談（※高砂でのオープンデータソンを紹介予定）
+
+![Wikipedia 20 in JAPAN](202101-wikipedia20.webp)
 
 ## Mocco加古川店オープンでしゃべるらしいです（水野）
 
 - コワーキングスペースmoccoの2号店が加古川にOPEN予定
-<https://camp-fire.jp/projects/view/348086>
-　 *2021年1月24日オープン　 * オープニングで何かしゃべって、とのこと　　　　藤輪さんはMANABIYA枠、私は加古川市枠とのことですが市役所枠はまずいので、Code
-for枠でしゃべる予定テーマは「加古川の未来」！？
-<https://drive.google.com/file/d/1Cj1TEnPjopdfbhNpXy1aPwcy_1yU8vh2/view?usp=sharing>
+- <https://camp-fire.jp/projects/view/348086>
+  - 2021年1月24日オープン
+  - オープニングで何かしゃべって、とのこと
+  - 藤輪さんはMANABIYA枠、私は加古川市枠とのことですが市役所枠はまずいので、Code for枠でしゃべる予定テーマは「加古川の未来」！？
+    - <https://drive.google.com/file/d/1Cj1TEnPjopdfbhNpXy1aPwcy_1yU8vh2/view?usp=sharing>
 
 ## Ubucon Asiaでスタッフしたい人いませんか？（野方）
 

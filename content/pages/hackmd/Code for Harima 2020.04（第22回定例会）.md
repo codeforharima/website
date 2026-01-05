@@ -11,7 +11,7 @@ Template: page
 # Code for Harima 2020.04（第22回定例会）
 
 - 2020/04/08(水) 19:00-21:00
-- ~~加古川 びぃぷらす~~ https://meet.jit.si/CodeForHarima
+- ~~加古川 びぃぷらす~~ <https://meet.jit.si/CodeForHarima>
 - [行動規範](https://github.com/codeforharima/codeofconduct)
 - 司会:
 - 参加者:
@@ -102,4 +102,4 @@ Template: page
     - <https://codeforharima.github.io/takasago-yatai-map/>
   - ゆくゆくは独自ドメインに移行するのがいいかも
 - 連絡はSlack関西で行い、内緒の話はメッセンジャー？
-  - https://join.slack.com/t/osm-japan/shared_invite/zt-d0my5ek2-SRxGCIsPPIyaOWkJOZ4EMg
+  - <https://join.slack.com/t/osm-japan/shared_invite/zt-d0my5ek2-SRxGCIsPPIyaOWkJOZ4EMg>
