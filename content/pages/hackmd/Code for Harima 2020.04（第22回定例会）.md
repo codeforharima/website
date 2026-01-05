@@ -1,22 +1,21 @@
----
-title: Code for Harima 2020.04（第22回定例会）
-tags: [code for harima]
----
-
----
-
-robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
-
----
+Title: Code for Harima 2020.04（第22回定例会）
+Date: 2020-04-08 19:00:00
+Category: minutes
+Tags: 2020
+Summary:
+lang: ja
+Slug: 202004
+Save_as: history/202004.html
+Template: page
 
 # Code for Harima 2020.04（第22回定例会）
 
 - 2020/04/08(水) 19:00-21:00
-- ~~加古川 びぃぷらす~~ <https://meet.jit.si/CodeForHarima>
+- ~~加古川 びぃぷらす~~ https://meet.jit.si/CodeForHarima
 - [行動規範](https://github.com/codeforharima/codeofconduct)
-
-司会: 参加者: オンライン参加：野方さん、福田さん、水野、山内さん、三宅さん、坂ノ下さん
-
+- 司会:
+- 参加者:
+- オンライン参加：野方さん、福田さん、水野、山内さん、三宅さん、坂ノ下さん
 - 次回開催: 5月13日(水) 19:00-21:00
 - 開催場所：びぃぷらす（の予定）
 
@@ -35,7 +34,7 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
 - 兵庫県が公開している感染者数のエクセルがフィルターなどがかかっていて使いづらい　生データがあればい
 - 兵庫県情報企画課近藤さんに働き掛けてもらって、生データ
 
-## ぱくぱくパークプレイベント（＊＊）
+## ぱくぱくパークプレイベント
 
 - すみませーん。野方行けなかったです。
 - 水野もいけませんでした、残念
@@ -52,20 +51,18 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
 - [OpenStreetMap:OSM](https://www.openstreetmap.org/)
 - OSMのSlackできたそうです
   - <https://www.facebook.com/groups/codeforharima/permalink/1478422455653955/>
-
-- COvid19の関係でテイクアウトマップを坂ノ下さんが作っている
+- Covid19の関係でテイクアウトマップを坂ノ下さんが作っている
 - 加古川も入れたい
   - お持ち帰りは[takeawayタグ](https://wiki.openstreetmap.org/wiki/JA:Key:takeaway)を入れてください
-
 - 桜を植えていってる
   - 樹木　広葉樹
   - All tags (6) のところは
-  - genus　Cerasus
-  - genus:ja　サクラ属
-  - leaf_type　broadleaved
-  - natural　tree
-  - species　Cerasus × yedoensis
-  - species:ja ソメイヨシノ
+    - `natural=tree`
+    - `genus=Cerasus`
+    - `genus:ja=サクラ属`
+    - `leaf_type=broadleaved`
+    - `species=Cerasus × yedoensis`
+    - `species:ja=ソメイヨシノ`
 
 ## 今後の活動について
 
@@ -73,15 +70,14 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
 - 今の市役所って東日本大震災の石巻市役所みたい
   - 野方さんの[石巻の写真](https://www.facebook.com/nogajun/media_set?set=a.10157421731854332&type=3)
 - 水野今年度やりたいこと３つ
-
-1.  ぱくぱくパークと絡めて「少年自然の家」マッピングパーティーをしたい
-2.  あわよくば、合宿！
-3.  「Wikiペディアタウンサークルin稲美」
-4.  Code for サミットに行く！
+  1. ぱくぱくパークと絡めて「少年自然の家」マッピングパーティーをしたい
+  2. あわよくば、合宿！
+  3. 「Wikiペディアタウンサークル in 稲美」
+  4. Code for サミットに行く！
 
 ## はりま水辺プロジェクト（三宅、福田、小山）
 
-- 3月14日（土） Mapillaryワークショップin成井
+- 3月14日（土） Mapillaryワークショップ in 成井
 - アカウント作成で躓いた（iOS、Android、らくらくホンの違い）
 - 360度カメラが現地にあるので使ってほしい
   - でも、コロナが落ち着くまでは難しいかも…
@@ -106,4 +102,4 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
     - <https://codeforharima.github.io/takasago-yatai-map/>
   - ゆくゆくは独自ドメインに移行するのがいいかも
 - 連絡はSlack関西で行い、内緒の話はメッセンジャー？
-  - <https://join.slack.com/t/osm-japan/shared_invite/zt-d0my5ek2-SRxGCIsPPIyaOWkJOZ4EMg>
+  - https://join.slack.com/t/osm-japan/shared_invite/zt-d0my5ek2-SRxGCIsPPIyaOWkJOZ4EMg

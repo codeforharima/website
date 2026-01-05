@@ -1,25 +1,23 @@
----
-title: Code for Harima 2020.05（第23回定例会）
-tags: [code for harima]
----
-
----
-
-robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
-
----
+Title: Code for Harima 2020.05（第23回定例会）
+Date: 2020-05-13 19:00:00
+Category: minutes
+Tags: 2020
+Summary:
+lang: ja
+Slug: 202005
+Save_as: history/202005.html
+Template: page
 
 # Code for Harima 2020.05（第23回定例会）
 
 - 2020/05/13(水) 19:30-21:00
 - ~~加古川 びぃぷらす~~ <https://meet.jit.si/CodeForHarima20200513>
 - [行動規範](https://github.com/codeforharima/codeofconduct)
-
-司会:野方参加者: オンライン参加：坂ノ下、福田、小山、水野
-
+- 司会:野方
+- 参加者:
+- オンライン参加：坂ノ下、福田、小山、水野
 - 次回開催: 6月10日(水) 19:00-21:00
 - 開催場所：びぃぷらす（の予定）
-
 - Jitsiの操作マニュアルです
   - <http://mie-kotonoha.info/view.php?a=214>
 
@@ -30,7 +28,6 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
 ## 近況報告など
 
 - みなさん大変そう…
-
 - 6月はとりあえず通常の定例会の予定
   - オンラインの参加もできるようにしたい
   - もし6月もオンライン開催なら、オンラインでできることを考えたほうがいいかも

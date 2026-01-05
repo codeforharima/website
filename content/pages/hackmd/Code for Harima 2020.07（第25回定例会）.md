@@ -1,22 +1,20 @@
----
-title: Code for Harima 2020.07（第25回定例会）
-tags: [code for harima]
----
-
----
-
-robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
-
----
+Title: Code for Harima 2020.07（第25回定例会）
+Date: 2020-07-08 19:00:00
+Category: minutes
+Tags: 2020
+Summary:
+lang: ja
+Slug: 202007
+Save_as: history/202007.html
+Template: page
 
 # Code for Harima 2020.07（第25回定例会）
 
 - 2020/07/8(水) 19:30-21:00
 - 加古川 びぃぷらす
 - [行動規範](https://github.com/codeforharima/codeofconduct)
-
-司会:野方さん参加者:水野、畑さん、石本さん、福田さん、前川さん、三宅さん
-
+- 司会:野方さん
+- 参加者:水野、畑さん、石本さん、福田さん、前川さん、三宅さん
 - 次回開催: 8月 5日(水) 19:00-21:00
 - 開催場所：びぃぷらす
 
@@ -26,16 +24,14 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
 
 ## 結の夢プロジェクト／石本、水野、三宅
 
-7月12日(日)14時から　町家Tentofu内覧会に行ってきます。
-<https://yutakananitijou.jimdofree.com/> 当日は、カードゲームで遊んできます！！
+- 7月12日(日)14時から　町家Tentofu内覧会に行ってきます。
+- <https://yutakananitijou.jimdofree.com/> 当日は、カードゲームで遊んできます！！
 
 ## これまでの取り組み紹介
 
-- OpenStreetMap: 　<https://www.openstreetmap.org/#map=18/34.76695/134.83995>
-- Wikipedia Town:
-  <https://ja.wikipedia.org/wiki/%E7%94%B3%E7%BE%A9%E5%A0%82_(%E9%AB%98%E7%A0%82%E5%B8%82)>
-- みんなでテイクアウトMap播磨版:
-  <https://codeforharima.github.io/takeaway/#18/34.76604/134.83757>
+- OpenStreetMap: <https://www.openstreetmap.org/#map=18/34.76695/134.83995>
+- Wikipedia Town: <https://ja.wikipedia.org/wiki/%E7%94%B3%E7%BE%A9%E5%A0%82_(%E9%AB%98%E7%A0%82%E5%B8%82)>
+- みんなでテイクアウトMap播磨版: <https://codeforharima.github.io/takeaway/>
 
 ## 防災講習会の案内／福田
 
@@ -52,23 +48,18 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
 
 ## CivicTechLiveへの初参加について／三宅
 
-7月15日（水）　19時から21時ブリゲード紹介のコーナー「Code for
-Harimaの取り組み紹介」５分
-
-- <https://civictechlive0715.peatix.com/>
-- 成井イベントチラシ
-  <https://drive.google.com/drive/u/1/folders/1XJ4K5Ufkp51SEvwQ2euGllixFV2tFrTA>
-
-野方さんは当日こちらの#11 <https://www.youtube.com/watch?v=ovocb_er6ac>
-
+- 7月15日（水） 19時から21時ブリゲード紹介のコーナー「Code for Harimaの取り組み紹介」 5分
+  - <https://civictechlive0715.peatix.com/>
+- 成井イベントチラシ <https://drive.google.com/drive/u/1/folders/1XJ4K5Ufkp51SEvwQ2euGllixFV2tFrTA>
+- 野方さんは当日こちらの#11 <https://www.youtube.com/watch?v=ovocb_er6ac>
 - 順番
   - ブリゲードの人たち
-    - Code for Suita : ハルキさん
-    - Code for Harima : 三宅さん, 水野さん, 福田さん
-    - Code for Ikoma : 佐藤さん
-  - ブリゲードマッピング：Code for Nagoya 白松さん
+    - Code for Suita: ハルキさん
+    - Code for Harima: 三宅さん, 水野さん, 福田さん
+    - Code for Ikoma: 佐藤さん
+  - ブリゲードマッピング: Code for Nagoya 白松さん
   - プロジェクト紹介
-  - アーバンデータチャレンジ : 小俣さん
-  - インフラデータチャレンジ : 榎本さん
-  - LODチャレンジ : 渡邊さん
-  - COG
+    - アーバンデータチャレンジ : 小俣さん
+    - インフラデータチャレンジ : 榎本さん
+    - LODチャレンジ : 渡邊さん
+    - COG

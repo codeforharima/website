@@ -1,13 +1,12 @@
----
-title: Code for Harima 2020.11（第29回定例会）
-tags: [code for harima]
----
-
----
-
-robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
-
----
+Title: Code for Harima 2020.11（第29回定例会）
+Date: 2020-11-11 19:00:00
+Category: minutes
+Tags: 2020
+Summary:
+lang: ja
+Slug: 202011
+Save_as: history/202011.html
+Template: page
 
 # Code for Harima 2020.11（第29回定例会）
 
@@ -15,9 +14,9 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
 - 加古川 びぃぷらす
 - Jitsi: <https://meet.jit.si/codeforharima20201111>
 - [行動規範](https://github.com/codeforharima/codeofconduct)
-
-司会：野方参加者：野方、小山、福田、石本、水野、リモート参加：多田、坂ノ下、大前
-
+- 司会: 野方
+- 参加者: 野方、小山、福田、石本、水野
+- リモート参加: 多田、坂ノ下、大前
 - 次回開催: 12月9日(水) 19:00-21:00
 - 開催場所: びぃぷらす
 
@@ -34,8 +33,7 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
   - 福田宏司(code for HARIMA): 農業用ため池をもっと身近に
   - 北村森夫: みんなでテイクアウトMAPを通じた新たな仲間
   - 楠本和夫(泉州らへんでオープンデータとGISを楽しむ会): 「泉州らへんでオープンデータとGISを楽しむ会」の活動について
-  - みやはら とおる: MS Flight
-    SimulatorでOpenStreetMapの情報を確認しに飛んで行ってみた
+  - みやはら とおる: MS Flight SimulatorでOpenStreetMapの情報を確認しに飛んで行ってみた
 
 です。
 
@@ -48,13 +46,12 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
 
 デジタル改革アイデアボックスに「行政機関の利用ファイル形式をオープンドキュメント形式(ODF)にしてください」というアイデアを投稿してます。投票してください。
 
-- 行政機関の利用ファイル形式をオープンドキュメント形式(ODF)にしてください by
-  nogajunさん | デジタル改革アイデアボックス:
-  <https://ideabox.cio.go.jp/ja/idea/02299/>
+- 行政機関の利用ファイル形式をオープンドキュメント形式(ODF)にしてください by nogajunさん | デジタル改革アイデアボックス: <https://ideabox.cio.go.jp/ja/idea/02299/>
 
 ## 加古川市版Decidimについて（多田）
 
 加古川市では10月30日に加古川市版Decidimを全国初導入しました。
+
 <https://kakogawa.diycities.jp/>
 
 これは、オンライン上で、施策について市民から意見やアイデアを募り、議論できるシステムとなります。今年度策定の「加古川市スマートシティ構想」について、様々な方からの意見を募集しています。また、11月21日にはオフラインでのワークショップも開催します。
@@ -84,7 +81,6 @@ Decidimの説明
 - ここだけの話、声の大きい人の話だけ聞くんじゃなくて、本当に聞かないといけない若い人達は、どんどん外に出ていってしまう
 - 内閣府のアイデアボックスをベンチマークしている（デジタル改革アイデアボックスのユーザーは約3,200人、加古川市版Decidimは約120人）
 - ２１日のオフラインミーティングは、メディアも入るかも！？
--
 
 ## 時間があれば以下のイベント告知も（坂ノ下）
 

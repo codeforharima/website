@@ -1,13 +1,12 @@
----
-title: Code for Harima 2020.10（第28回定例会）
-tags: [code for harima]
----
-
----
-
-robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
-
----
+Title: Code for Harima 2020.10（第28回定例会）
+Date: 2020-10-14 19:00:00
+Category: minutes
+Tags: 2020
+Summary:
+lang: ja
+Slug: 202010
+Save_as: history/202010.html
+Template: page
 
 # Code for Harima 2020.10（第28回定例会）
 
@@ -15,38 +14,38 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
 - 加古川 びぃぷらす
 - Jitsi: <https://meet.jit.si/CodeforHarima20201014>
 - [行動規範](https://github.com/codeforharima/codeofconduct)
-
-司会:野方参加者:福田、石本リモート参加：大前、水野、園田
-
+- 司会: 野方
+- 参加者: 福田、石本
+- リモート参加?: 大前、水野、園田
 - 次回開催: 11月11日(水) 19:00-21:00
 - 開催場所：びぃぷらす
 
 ## 運営連絡
 
-特になし大前君、お誕生日おめでとう
+- 特になし
+- 大前君、お誕生日おめでとう
 
 ## 結の夢プロジェクト進捗報告(石本)
 
 - 12/9 むこうじまでロケフォトやりますー！
-- すごい！ホントにまとまってる！-　進捗状況は逐次報告します！！
+  - すごい！ホントにまとまってる！-　進捗状況は逐次報告します！！
 - 10/18　17:00-　下戸のためのゲコゲコバー
-- <https://fb.me/e/3LNGj8kWY>
+  - <https://fb.me/e/3LNGj8kWY>
 - 10/18　16:00-　むこうじまで夕暮れおそうじ！
-- <https://fb.me/e/1AXHI2AiH>
--
+  - <https://fb.me/e/1AXHI2AiH>
 
 ## PakuPakuぱーくとコラボして、オープンデータソンチックなこと企画していい？(水野)
 
-- PakuPakuぱーく<https://www.facebook.com/pakupakupark> 『pakupaku
-  park-ぱくぱくパーク』は月一回、みんなで食べ物を持ち寄り パクパクご飯を食べながら 楽しい事にチャレンジしちゃうあつまりです。
-- 加古川図書館（旧公会堂）　<https://ja.wikipedia.org/wiki/%E5%8A%A0%E5%8F%A4%E5%B7%9D%E5%B8%82%E7%AB%8B%E5%8A%A0%E5%8F%A4%E5%B7%9D%E5%9B%B3%E6%9B%B8%E9%A4%A8>
+- PakuPakuぱーく<https://www.facebook.com/pakupakupark> 『pakupaku park-ぱくぱくパーク』は月一回、みんなで食べ物を持ち寄り パクパクご飯を食べながら 楽しい事にチャレンジしちゃうあつまりです。
+  - 加古川図書館（旧公会堂）　<https://ja.wikipedia.org/wiki/%E5%8A%A0%E5%8F%A4%E5%B7%9D%E5%B8%82%E7%AB%8B%E5%8A%A0%E5%8F%A4%E5%B7%9D%E5%9B%B3%E6%9B%B8%E9%A4%A8>
 - 2月のオープンデータソンで、運営とかしてたら結局Wikipedeliaの書き方覚えられなかった
 - Wikipedeliaの書き方をざっくりでも人に教えられるようになりたい（水野さんの1番の目的！！）
 - Pakupakuの皆さんは、加古川図書館の魅力を外に発信して、同じ思いを持った人とつながりたい
 - 坂ノ下さんのまち歩きマップメーカーを教えてもらいたい。
 - 月1回程度集まって情報収集して、ウィキペディアの情報をQRコードにして貼りたい！
 - 加古川図書館のファンを増やしたい！！署名？？クラウドファンディング？？
-- pakupakuぱーくさんが作っている新聞や、まちあるきをした写真をびぃぷらすで展示したい！　⇒まちあるきマップメーカーのQRコードも一緒に展示
+- pakupakuぱーくさんが作っている新聞や、まちあるきをした写真をびぃぷらすで展示したい！
+  - ⇒まちあるきマップメーカーのQRコードも一緒に展示
 
 ## 加古川防災士を中心とした活動が立ち上がっています。（福田）
 
@@ -60,5 +59,5 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
 
 - 2020年10月15日～17日まで
 - 野方さん、目黒さん（会津若松市）参加。
-- <https://events.opensuse.org/conferences/oSLO>
-- <https://oslo.gonogo.live/accounts/login/>
+  - <https://events.opensuse.org/conferences/oSLO>
+  - <https://oslo.gonogo.live/accounts/login/>
