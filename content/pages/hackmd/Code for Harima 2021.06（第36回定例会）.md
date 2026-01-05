@@ -1,22 +1,21 @@
----
-title: Code for Harima 2021.06（第36回定例会）
-tags: [code for harima]
----
-
----
-
-robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
-
----
+Title: Code for Harima 2021.06（第36回定例会）
+Date: 2021-06-09 19:00:00
+Category: minutes
+Tags: 2021
+Summary:
+lang: ja
+Slug: 202106
+Save_as: history/202106.html
+Template: page
 
 # Code for Harima 2021.06（第36回定例会）
 
 - 2021/6/9(水) 19:30-21:00
 - 加古川 びぃぷらす
 - [行動規範](https://github.com/codeforharima/codeofconduct)
-
-司会:　野方参加者:　福田、畑、木曽リモート: 大前、石本
-
+- 司会:　野方
+- 参加者:　福田、畑、木曽
+- リモート: 大前、石本
 - 次回開催: 7月 14日(水) 19:00-21:00
 - 開催場所：びぃぷらす(の予定)
 
@@ -28,14 +27,12 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
 
 ## 防災研修会のご案内
 
-- 日　時：6月26日(土) 13:00～15:30
-- 場　所：加古川福祉会館大ホール
-- 定　員：50名
-- 申込み：<onebyone.kakogawa@gmail.com>
-- 内　容：災害図上訓練DIG （Disaster Imagination Game）
--
-
-　　　　災害想像力ゲームとも呼ばれる図上型訓練です。地図の上で、地域の自然条件や、道路、鉄道などの町の構造、防災上の資源などを整理することで、視覚的に地域の防災力を知ることができます。　一般的には、大きな地図に、透明なビニールシートをかぶせ、目的に合わせて、油性ペンや付箋紙を使って書き込みを行います。そして、それらの書き込みを基に、地域の防災上の課題などについて参加者全員で議論をします。
+- 日時: 6月26日(土) 13:00～15:30
+- 場所: 加古川福祉会館大ホール
+- 定員: 50名
+- 申し込み: <onebyone.kakogawa@gmail.com>
+- 内容: 災害図上訓練DIG (Disaster Imagination Game)
+  - 災害想像力ゲームとも呼ばれる図上型訓練です。地図の上で、地域の自然条件や、道路、鉄道などの町の構造、防災上の資源などを整理することで、視覚的に地域の防災力を知ることができます。　一般的には、大きな地図に、透明なビニールシートをかぶせ、目的に合わせて、油性ペンや付箋紙を使って書き込みを行います。そして、それらの書き込みを基に、地域の防災上の課題などについて参加者全員で議論をします。
 
 ## 都市OSについて
 
@@ -46,15 +43,14 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
     - <https://pypi.org/project/pyngsi/>
     - 大前くんが使っているのは自前で設置
     - ちなみに高山市のほうではケーブルテレビさんが興味を持ってる
-  -
 
 ## グラレコの本出しました(石本)
 
 - 22人近くの方が書いている中に入れてもらいました
-- <https://www.amazon.co.jp/dp/4761527765/>
+  - <https://www.amazon.co.jp/dp/4761527765/>
 - 大和リースセミナー　　オンライン対応ですのでご興味あればー
 - 第19回 公民連携Dチャンネル エリア版近畿エリア　7月13日(火)開催
-- <https://www.daiwalease.co.jp/service/ppp/seminar/img/vol19/06_kinki.pdf>
+  - <https://www.daiwalease.co.jp/service/ppp/seminar/img/vol19/06_kinki.pdf>
 
 ## Code for Harimaってなんで知りましたか？
 

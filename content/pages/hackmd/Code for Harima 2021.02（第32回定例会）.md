@@ -1,13 +1,12 @@
----
-title: Code for Harima 2021.02（第32回定例会）
-tags: [code for harima]
----
-
----
-
-robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
-
----
+Title: Code for Harima 2021.02（第32回定例会）
+Date: 2021-02-10 19:00:00
+Category: minutes
+Tags: 2021
+Summary:
+lang: ja
+Slug: 202102
+Save_as: history/202102.html
+Template: page
 
 # Code for Harima 2021.02（第32回定例会）
 
@@ -16,9 +15,9 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
 - <https://meet.jit.si/CodeForHarima10022010>
 - <https://hackmd.io/@codeforharima/By465WAxO/edit>
 - [行動規範](https://github.com/codeforharima/codeofconduct)
-
-司会: 野方参加者: 福田、石本、大前、園田、ハルキ、畑、小山マイスタサテライト: 中田、水野、大久保
-
+- 司会: 野方
+- 参加者: 福田、石本、大前、園田、ハルキ、畑、小山
+- マイスタサテライト: 中田、水野、大久保
 - 次回開催: 3月 10日(水) 19:00-21:00
 - 開催場所：びぃぷらす
 
@@ -47,7 +46,7 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
 - 内容はこちらまで。
   - <https://www.facebook.com/events/1340566846319783/>
 - 参加申込みはこちらへ
-  - <https://docs.google.com/forms/d/e/1FAIpQLScgZL77Ogv5DjznNOGumvl2QmSPutEcUPzjTfARTyAEQRl51Q/viewform?fbclid=IwAR2DBgUgNTPfx8GOKMDuUpDsokOiMpyQIeLlt8F87YliHG788GRfP-NF7xM>
+  - <https://docs.google.com/forms/d/e/1FAIpQLScgZL77Ogv5DjznNOGumvl2QmSPutEcUPzjTfARTyAEQRl51Q/viewform>
 - 第一部はWikipediaしりとりで、地域でチーム分けをして、地域にあるWikipediaに載っている単語をスプレッドシートに書き込んでいくシステム
 - 後半は、各自の発表を話す感じ
 
@@ -62,21 +61,18 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
 - 稲美町立母里小学校で計画委員を務める6年生の女の子の夢「新聞とかテレビに取材してほしい」
 - 計画委員会は、今月末に稲美町の善行賞を受賞予定
 - 善行賞になった「下校時放送？」だけでなく、いろんな取り組みをしている。卒業までにコロナに負けない企画を作って、思い出に残したい！
-- 地域のお困りごとをITを使って解決するCode
-  forには、新聞記者さんもTV関係者もいるじゃない！？
+- 地域のお困りごとをITを使って解決するCode forには、新聞記者さんもTV関係者もいるじゃない！？
   - 福田さん企画まとめるので取材チームに全力推しお願いします
 - ドローン使って空撮したいので、協力してください（内諾済なんで名前使っていいですか）、IT関係あるのかな？
 - メンバーは、ビデオ班水野、ドローン班藤輪、カメラ班ロペス（6月の定例会参加メンバー）
-
-- 必要な経費は受け取らないと、持続性がなくなるので、実費を受け取るのはいいと思う
+- 必要な経費は受け取らないと持続性がなくなるので、実費を受け取るのはいいと思う
 - 子どもがドローンに興味を持ってくれたらいいと思う！　→ドローンについても話してきます！
 
 ## Code for SUITA の活動について（ハルキ）
 
 - 吹田もtech系の人はいない
 - 始めたのはNPOの中間支援団体が中心
-- Code for
-  OSAKAがバリバリなので、吹田で人員が集まらないので、HARIMAはモデルにしたい
+- Code for OSAKAがバリバリなので、吹田で人員が集まらないので、HARIMAはモデルにしたい
 - SUITAは吹田でやっていって、周辺自治体の人も来てください！っていうスタイルでよいのでは？？
 - エンジニアは地域で活動することがないので、地域密着のCode forは面白い
 - HARIMAらしいのは地域密着なところで、突き進んでいったらいいかなと思っていますし、SUITAも近いし、一緒にできることはやっていけたらいいと思う
@@ -90,5 +86,4 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
   - バンタン→韓国語で防弾少年団がバンタンソニョンダンなのでバンタンと呼ばれてます
 - カエルスナックvol3やりたい（石本）
   - 素晴らしい！
-  - Jinroのカエル:
-    <https://www.google.com/search?q=jinro+%E3%82%AB%E3%82%A8%E3%83%AB&tbm=isch>
+  - Jinroのカエル: <https://www.google.com/search?q=jinro+%E3%82%AB%E3%82%A8%E3%83%AB&tbm=isch>

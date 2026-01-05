@@ -1,22 +1,21 @@
----
-title: Code for Harima 2021.04（第34回定例会）
-tags: [code for harima]
----
-
----
-
-robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
-
----
+Title: Code for Harima 2021.04（第34回定例会）
+Date: 2021-04-14 19:00:00
+Category: minutes
+Tags: 2021
+Summary:
+lang: ja
+Slug: 202104
+Save_as: history/202104.html
+Template: page
 
 # Code for Harima 2021.04（第34回定例会）
 
 - 2021/04/14(水) 19:30-21:00
 - 加古川 びぃぷらす
 - [行動規範](https://github.com/codeforharima/codeofconduct)
-
-司会:野方参加者:福田、スムース、前川、加古川の小市民さんオンライン：大前、水野、坂ノ下
-
+- 司会:野方
+- 参加者:福田、スムース、前川、加古川の小市民さん
+- オンライン：大前、水野、坂ノ下
 - 次回開催: 5月12日(水) 19:00-21:00
 - 開催場所：びぃぷらす
 
@@ -30,7 +29,6 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
 ## 4/25 加西 北条ごっちゃマップを作ろかー
 
 - 4/25(日) 10:30-17:00
-
 - [議事録](https://hackmd.io/Yo2Eq81BScmxhTXC65ygkA/D_TSTVmdQoylElpGOh_VsA)
 - 水野参加できるようになった（はずな）ので、道具運搬します。
 - 4/19日(月) 21:00-22:30

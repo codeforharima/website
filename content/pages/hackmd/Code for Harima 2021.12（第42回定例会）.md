@@ -1,13 +1,12 @@
----
-title: Code for Harima 2021.12（第42回定例会）
-tags: [code for harima]
----
-
----
-
-robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
-
----
+Title: Code for Harima 2021.12（第42回定例会）
+Date: 2021-12-08 19:00:00
+Category: minutes
+Tags: 2021
+Summary:
+lang: ja
+Slug: 202112
+Save_as: history/202112.html
+Template: page
 
 # Code for Harima 2021.12（第42回定例会）
 
@@ -16,7 +15,6 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
   [オンライン](https://meet.jit.si/moderated/979df75fb3c3dfc5d0d11442a0bde4cc11a2892e29cf52839daaae8b24753206)
 - [行動規範](https://github.com/codeforharima/codeofconduct)
 - LINEアカウント: <https://liff.line.me/1645278921-kWRPP32q/?accountId=946ardlp>
-
 - 司会: のがた
 - 参加者:　福田、水野、石本、加藤、一宮、畑、八木、水野（航）、スムース、前川
 - リモート:川上、栗林、園田、大前、筒井
@@ -25,7 +23,7 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
 
 ## 運営連絡
 
-自己紹介
+- 自己紹介
 
 ## [Code for Harima mapi部](https://www.facebook.com/groups/3062561264069718)　(水野・福田)
 
@@ -40,10 +38,10 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
   - 令和3年度はまずデータ
 
 - アウトプットとしてこんな形で残すのもいいかも！
-  [大阪思い出のこしマップ](https://armd-02.github.io/OsakaMemories/)
+  - [大阪思い出のこしマップ](https://armd-02.github.io/OsakaMemories/)
 
 - [加古川市ダッシュボード](https://gis.opendata-api-kakogawa.jp/)
-  でも「わがまち加古川60選」を見れる
+  - でも「わがまち加古川60選」を見れる
 - [加古川市バスロケーション](https://bus.opendata-api-kakogawa.jp/)
 
 ## [GHP2021の情報共有](https://ghp.connpass.com/event/)　(福田)
@@ -53,17 +51,17 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
 
 ## 地方創生アイデアコンテスト2021(みやちゃん、大西くん)
 
-加古川東高校のメンバーが経済産業省近畿経済産業局局長賞を受賞！
+- 加古川東高校のメンバーが経済産業省近畿経済産業局局長賞を受賞！
 
-発表は、次回に持ち越し経済産業局長賞（近畿）
-<https://contest.resas-portal.go.jp/2021/keisan_award.html>
+- 発表は、次回に持ち越し経済産業局長賞（近畿）
+  - <https://contest.resas-portal.go.jp/2021/keisan_award.html>
 
 - 大西くん、栗山さんの企画　　★空き家から産業創出へ！
 
 - ほかにも栗山さんは活躍されています！
-  [神戸新聞11月30日掲載「東高生の政策 市実現へ」(兵庫県立加古川東高等学校　学校通信)](https://www2.hyogo-c.ed.jp/weblog2/kakohigashi-hs/?p=5872)
+  - [神戸新聞11月30日掲載「東高生の政策 市実現へ」(兵庫県立加古川東高等学校　学校通信)](https://www2.hyogo-c.ed.jp/weblog2/kakohigashi-hs/?p=5872)
   - YouTube
-    [兵庫県立加古川東高等学校　STEAM特講子育て支援班　高校生・中学生以下の部⑦「シニア世代による子育て支援」](https://www.youtube.com/watch?v=dhBzhLRU1vs)
+    - [兵庫県立加古川東高等学校　STEAM特講子育て支援班　高校生・中学生以下の部⑦「シニア世代による子育て支援」](https://www.youtube.com/watch?v=dhBzhLRU1vs)
 
 ## 高砂南高校の先生から来年の授業について相談
 
@@ -74,7 +72,7 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
 - 11月25日に石本さんが報告
 - 地に足がついた活動に評価！
 - YouTube
-  [シビックテック車座会議#18 20211125](https://www.youtube.com/watch?v=ZEUVaVxLyPg&t=2087s)
+  - [シビックテック車座会議#18 20211125](https://www.youtube.com/watch?v=ZEUVaVxLyPg&t=2087s)
 
 ## 活動報告（坂ノ下）
 
@@ -83,17 +81,13 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
   - ある日突然蓮の花がなくなった公園を回って面白そうなものを見つけたらコメントを書いたり、クイズを考えたり
   - 草津市の航空写真を使っているが、解像度が超高い！
   - 草津の子育てママさんがデータを沢山残している
-  - ただのマップならGoogle my
-    mapでいいが、オープンデータとして残していくために動き出したプロジェクト
+  - ただのマップならGoogle my mapでいいが、オープンデータとして残していくために動き出したプロジェクト
   - Googledrveにデータが入っていて、お金がかかっていない
   - いろんな地域でテーマに応じたアプリにできるしかけ
 
 ## 兵庫県西宮土木事務所　隙間除草問題（一宮）
 
-<https://web.pref.hyogo.lg.jp/hsk08/press2/documents/211117kishahappyou.pdf>
-
-人と自然の博物館主任研究員　[三橋弘宗氏](https://www.hitohaku.jp/researchers/mitsuhashi.html)からの「樹脂が効果的らしい」と持ち込まれた情報がきっかけ
-
-もともと[アドプトプログラム](https://web.pref.hyogo.lg.jp/ks04/wd03_000000040.html)でメンテナンスをしてくださっていた県道のポケットパークで実験！57度を数分キープできたら、低温調理をした状態になるシリコンを流してパッキングすると、橋梁の水漏れ対策にもなる
-
-インフラ維持管理に新しい技術を取り入れてこなかったが、いろんなことを取り入れていく余地があるんではないかと考えている
+- <https://web.pref.hyogo.lg.jp/hsk08/press2/documents/211117kishahappyou.pdf>
+  - 人と自然の博物館主任研究員　[三橋弘宗氏](https://www.hitohaku.jp/researchers/mitsuhashi.html)からの「樹脂が効果的らしい」と持ち込まれた情報がきっかけ
+  - もともと[アドプトプログラム](https://web.pref.hyogo.lg.jp/ks04/wd03_000000040.html)でメンテナンスをしてくださっていた県道のポケットパークで実験！57度を数分キープできたら、低温調理をした状態になるシリコンを流してパッキングすると、橋梁の水漏れ対策にもなる
+  - インフラ維持管理に新しい技術を取り入れてこなかったが、いろんなことを取り入れていく余地があるんではないかと考えている

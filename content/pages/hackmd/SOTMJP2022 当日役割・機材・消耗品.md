@@ -1,3 +1,14 @@
+Title: SotM JP2022 決定事項
+Date: 2021-01-13 19:00:00
+Category: events
+Tags: sotmjp
+Summary:
+lang: ja
+Slug:
+Save_as: events/sotmjp2022-decisions.html
+Template: page
+
+
 ---
 title: SotM JP2022 当日役割・機材・消耗品
 tags: [SotMJp]

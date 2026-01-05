@@ -1,22 +1,20 @@
----
-title: Code for Harima 2021.05（第35回定例会）
-tags: [code for harima]
----
-
----
-
-robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
-
----
+Title: Code for Harima 2021.05（第35回定例会）
+Date: 2021-05-12 19:00:00
+Category: minutes
+Tags: 2021
+Summary:
+lang: ja
+Slug: 202105
+Save_as: history/202105.html
+Template: page
 
 # Code for Harima 2021.05（第35回定例会）
 
 - 2021/5/12(水) 19:30-21:00
 - ~~加古川 びぃぷらす~~
 - [行動規範](https://github.com/codeforharima/codeofconduct)
-
-司会: 野方参加者: 野方、水野、福田、坂ノ下、大前、前川、石本
-
+- 司会: 野方
+- 参加者: 野方、水野、福田、坂ノ下、大前、前川、石本
 - 次回開催: 6月 9日(水) 19:00-21:00
 - 開催場所：びぃぷらす(の予定)
 

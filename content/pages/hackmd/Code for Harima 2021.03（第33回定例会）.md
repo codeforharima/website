@@ -1,23 +1,22 @@
----
-title: Code for Harima 2021.03（第33回定例会）
-tags: [code for harima]
----
-
----
-
-robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
-
----
+Title: Code for Harima 2021.03（第33回定例会）
+Date: 2021-03-10 19:00:00
+Category: minutes
+Tags: 2021
+Summary:
+lang: ja
+Slug: 202103
+Save_as: history/202103.html
+Template: page
 
 # Code for Harima 2021.03（第33回定例会）
 
 - 2021/03/10(水) 19:00-21:00
 - 加古川 びぃぷらす
 - [行動規範](https://github.com/codeforharima/codeofconduct)
-- jitsi: <https://meet.jit.si/codeforharima20210310>
-
-司会: 野方参加者:福田、水野、畑、前川、八木、スムースさん、前川、大久保、藤輪オンライン:園田、大前、東、土原、中田
-
+- jitsi: https://meet.jit.si/codeforharima20210310
+- 司会: 野方
+- 参加者:福田、水野、畑、前川、八木、スムースさん、前川、大久保、藤輪
+- オンライン:園田、大前、東、土原、中田
 - 次回開催: 4月 14日(水) 19:00ｰ21:00
 - 開催場所：びぃぷらす
 
@@ -32,11 +31,11 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
 - スペインバルセロナで活用されている
 - Decidim導入、日本初！
 - 加古川市役所内11部署から使用希望があった
-  - 加古川市版Decidim: <https://kakogawa.diycities.jp/>
+  - 加古川市版Decidim: https://kakogawa.diycities.jp/
 
 ## 「オープンデータで遊ぼうin関西～オープンデータせんのかい！～」報告（福田）
 
-- [発表資料](https://drive.google.com/file/d/1D0grunCAj7fuzgEP2-zMYscT4_KVeH3h/view?fbclid=IwAR0_S0WPff1VUejz7Ntvj4eRo4OWUecEknDlJW6n-TTLxbOVirKo9owev3M)
+- [発表資料](https://drive.google.com/file/d/1D0grunCAj7fuzgEP2-zMYscT4_KVeH3h/view)
 - 2021年2月28日(日) 13:00〜18:00
 - 発表時間　17:00～17:10 「Harimaとmapillary」
 
@@ -44,10 +43,11 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
 
 - 撮影完了（令和3年3月8日5時間目）
 - 神戸新聞社,BAN-BANネットワークスさん取材有り！
-- ドローン映像（<https://drive.google.com/drive/folders/13c1mJMiigQp4-tBn9Q4IuzN_pBetT0cf?usp=sharing）>
+- ドローン映像（https://drive.google.com/drive/folders/13c1mJMiigQp4-tBn9Q4IuzN_pBetT0cf?usp=sharing）
 - 中田氏による動画編集（中野氏の写真込）はこれから
 - DVDにして3月23日卒業式当日納品予定（人文字映像+水野作成オープニングとエンディング）
-- ミニ出前授業「ドローン技術の可能性」の実施 \* 今後も出前講座依頼などを検討したいとのこと
+- ミニ出前授業「ドローン技術の可能性」の実施
+  - 今後も出前講座依頼などを検討したいとのこと
   - 教頭より２年後の１５０周年の際もドローン撮影のご希望有り
 - 発案者より説明（計画委員）
 - コロナ渦で行事が縮小されるなか、何か出来るのか？
@@ -66,30 +66,30 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
 - オールフリーの会主催、Code for HARIMA協力
 - その日の成果を印刷して、播州弁で「北条ごっちゃマップ」を作って持って帰ろう！
 
+
 ## 「かこ」の槌音、未来にとどけ！（藤輪）
 
-［兵庫県HP］ <https://web.pref.hyogo.lg.jp/ehk01/press/2021_0226_3.html>
-「申込み］ <https://forms.gle/E1z6xxrPwszzYu2X7>
-
+- [兵庫県HP](https://web.pref.hyogo.lg.jp/ehk01/press/2021_0226_3.html)
+- 申し込み: <https://forms.gle/E1z6xxrPwszzYu2X7>
 - 高校生と一緒に作った動画を、加古川の橋脚に投影するイベント
 - おおむね100年たった加古川の橋に「ありがとう」を伝えたい
 - 加古川南高校の放送部が音響を担当！
-- 東播磨県民局長の退職記念！？全面バックアップ　　<https://web.pref.hyogo.lg.jp/ehk01/press/2021_0226_3.html>
+- 東播磨県民局長の退職記念！？全面バックアップ
+  - <https://web.pref.hyogo.lg.jp/ehk01/press/2021_0226_3.html>
 
 ## ここち（中野、代理水野）
 
-- WEBマガジンを発刊「ここち」 あなたの地元で暮らす人達の物語
-  <https://cocochiharima.com/>
+- WEBマガジンを発刊
+- 「ここち」 あなたの地元で暮らす人達の物語
+  - <https://cocochiharima.com/>
 
 ## テックカフェ「LibreOfficeオンライン講座」（野方）
 
-- テックカフェ「LibreOfficeオンライン講座」（3/23、4/20） | ひょうごんテック:
-  <https://tcc117.jp/hyogontech/archives/459.html>
-
-- 2回講座3月23日（火）19:30-20:30　「LibreOffice講座（前編）」4月20日（火）19:30-20:30　「LibreOffice講座（後編）」
-
-- 講師：野方純「LibreOffice開発支援元のThe Document
-  Foundation（TDF）が認定する、The Document Foundation 認定トレーナー」
+- テックカフェ「LibreOfficeオンライン講座」（3/23、4/20） | ひょうごんテック: <https://tcc117.jp/hyogontech/archives/459.html>
+- 2回講座
+  - 3月23日（火）19:30-20:30　「LibreOffice講座（前編）」
+  - 4月20日（火）19:30-20:30　「LibreOffice講座（後編）」
+- 講師：野方純 「LibreOffice開発支援元のThe Document Foundation（TDF）が認定する、The Document Foundation 認定トレーナー」
 - 参加費：無料
 - お問合せ・お申し込み <tech@tcc117.jp>
 

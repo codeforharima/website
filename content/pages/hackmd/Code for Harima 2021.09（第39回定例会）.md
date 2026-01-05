@@ -1,23 +1,22 @@
----
-title: Code for Harima 2021.09（第39回定例会）
-tags: [code for harima]
----
-
----
-
-robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
-
----
+Title: Code for Harima 2021.09（第39回定例会）
+Date: 2021-09-08 19:00:00
+Category: minutes
+Tags: 2021
+Summary:
+lang: ja
+Slug: 202109
+Save_as: history/202109.html
+Template: page
 
 # Code for Harima 2021.09（第39回定例会）
 
 - 2021/9/8(水) 19:30-21:00
 - 加古川 びぃぷらす
+- オンライン: <https://meet.jit.si/moderated/5b3b8a5ebffe404524475aacb368b1b0f0c8d4ffaa45dc1d1ce09a3dfe6e2bfb>
 - [行動規範](https://github.com/codeforharima/codeofconduct)
-
-司会: のがた参加者:野方、石本、中谷、畑、福田
-[リモート:石井(岐阜)、水野、大前、坂ノ下](https://meet.jit.si/moderated/5b3b8a5ebffe404524475aacb368b1b0f0c8d4ffaa45dc1d1ce09a3dfe6e2bfb?fbclid=IwAR3ZlxEOXCRmHylWFwP2_aJStyIiglr7PN76Vsl4ERGKiss28LES6Gx8ilU)
-
+- 司会: のがた
+- 参加者: 石本、中谷、畑、福田
+- リモート: 石井(岐阜)、水野、大前、坂ノ下
 - 次回開催: 10月 13日(水) 19:00-21:00
 - 開催場所：びぃぷらす
 
@@ -29,8 +28,8 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
 
 - ブリゲードミートアップについて
 - 全国各地のブリゲードにご参加いただき、活動紹介等をいただきます。この1〜2年シビックテックの活動が注目される機会も増え、新しく立ち上がる団体も増えました。そんなブリゲード同士の対話により活動の課題を共有し、これからの活動のあり方について「ともに考え」たいと思います。
-- イベントURL (<https://www.facebook.com/events/370349581356051/>)
-
+- イベントURL
+  - <https://www.facebook.com/events/370349581356051/>
 - 参加予定団体
   - Akita（秋田）
   - SENDAI（宮城）
@@ -50,9 +49,8 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
 ## [アーバンデータチャレンジ岐阜キックオフ](https://www.softopia.or.jp/events/20210912udc/)
 
 - 開催：9/12（日）13:00 - 17:00 オンライン
-  - 市民協働（シビックテック）によるプロジェクト形式で課題解決を目指し、アーバンデータチャレンジ 2021
-    in 岐阜の初回イベントとして「キックオフ・ミーティング」をオンラインで開催します。“伝統産業 ×
-    IT”をテーマに、伝統産業の課題を市民協働（シビックテック）によるプロジェクト形式で解決します。岐阜の伝統産業である「美濃焼」について、セラミックバレー美濃構想を推進する井澤コーポレーション 井澤秀哉様をお迎えして理解を高めます
+  - 市民協働（シビックテック）によるプロジェクト形式で課題解決を目指し、アーバンデータチャレンジ 2021 in 岐阜の初回イベントとして「キックオフ・ミーティング」をオンラインで開催します。
+  - “伝統産業 × IT”をテーマに、伝統産業の課題を市民協働（シビックテック）によるプロジェクト形式で解決します。岐阜の伝統産業である「美濃焼」について、セラミックバレー美濃構想を推進する井澤コーポレーション 井澤秀哉様をお迎えして理解を高めます
 
 ## 3周年でした（みんなで）
 
@@ -79,31 +77,38 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
 
 - [Openstreetmap](https://www.openstreetmap.org/)
 - コツコツと活動しています
-- slackというチャットアプリで会話しながらリモートで書いています -　近畿地方の部屋などいろんな部屋がある -　質問しながら書いたりもできる -　加古川市のダッシュボードの後ろの地図も更新される -　前回の定例会で発表した加古川市60選を回りたい
+- slackというチャットアプリで会話しながらリモートで書いています
+  -　近畿地方の部屋などいろんな部屋がある
+  -　質問しながら書いたりもできる
+  -　加古川市のダッシュボードの後ろの地図も更新される
+  -　前回の定例会で発表した加古川市60選を回りたい
 
 ## 東播磨流域文化協議会地域活性化事業補助金の募集が始まっています（水野）
 
-- 東播磨流域文化協議会: <http://www.ryuiki.com/>
+- 東播磨流域文化協議会: http://www.ryuiki.com/
 - 事務局：兵庫県東播磨県民局
 - [地域活性化事業](http://www.ryuiki.com/jigyou/2020/jigyou-2020.html)
 - [補助の内容（加古川市HP）](https://www.city.kakogawa.lg.jp/raihusinkarasagasu/tetsudukisyomei/kakushushinseisho/chiikishinko_komyunithi/1535500048597.html)
   - (1)歴史・文化等伝承事業
   - (2)地域資源再発見事業
-  - 上記のどちらかを1団体あたり、15万円を上限として助成
-  - ライバルがいたら5万円程度に均等割りされるので5万円くらいと思っておいたほうが良い
-  - 募集締め切りは11/30
-
+    - 上記のどちらかを1団体あたり、15万円を上限として助成　
+    - ライバルがいたら5万円程度に均等割りされるので5万円くらいと思っておいたほうが良い
+    - 募集締め切りは11/30
 - なにか提案しますか？？
-- 高砂市のサイクリングマップは来年は電子化というお知らせをいただきました　 - データをオープンデータにしてほしい
+- 高砂市のサイクリングマップは来年は電子化というお知らせをいただきました
+  - データをオープンデータにしてほしい
 
 ## PLATEAUのオープンデータ化（CC-BY4.0）（福田）
 
-国土交通省３D都市モデル　[PLATEAU](https://www.mlit.go.jp/plateau/) -　加古川市の都市データは３D化済
+- 国土交通省３D都市モデル　[PLATEAU](https://www.mlit.go.jp/plateau/)
+- 加古川市の都市データは3D化済
 
 ## 近況（坂ノ下）
 
-- 10月頃に大阪でWikipediaのもくもく会、11月頃に京都でマッ[ ](https://codeforharima.github.io/takeaway/)ピングパーティーを開催したい
-- 当面Withコロナになるだろうから、また会える日を楽しみにしています -　コミュニティマップメーカーの活用事例とかご意見があれば　- みんなでテイクアウトマップをコミュニティマップメーカーに移そうかと思っている
+- 10月頃に大阪でWikipediaのもくもく会、11月頃に京都でマッピングパーティーを開催したい
+- 当面Withコロナになるだろうから、また会える日を楽しみにしています
+- コミュニティマップメーカーの活用事例とかご意見があれば
+  - みんなでテイクアウトマップをコミュニティマップメーカーに移そうかと思っている
 - [みんなでテイクアウトマップ播磨版](https://codeforharima.github.io/takeaway/)のデータが上がらない
   - 台湾のサーバーが死んでいる
   - テイクアウトマップとは、Openstreetmapに「takeaway」のタグをつけるだけでテイクアウト可能なお店を見ることができる
@@ -111,8 +116,10 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
 
 ## 雑談
 
-- 大々的にイベントを開催したり、周知したりしにくい -　コロナデルタ株は鼻から感染するので注意
+- 大々的にイベントを開催したり、周知したりしにくい
+- コロナデルタ株は鼻から感染するので注意
 
 ## 次回
 
-- 補助申請の話は次回に検討、マッピングパーティーを開催する方向で -　次回は第40回！
+- 補助申請の話は次回に検討、マッピングパーティーを開催する方向で
+- 次回は第40回！

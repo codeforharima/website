@@ -1,45 +1,40 @@
----
-title: Code for Harima 2021.11（第41回定例会）
-tags: [code for harima]
----
-
----
-
-robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
-
----
+Title: Code for Harima 2021.11（第41回定例会）
+Date: 2021-11-10 19:00:00
+Category: minutes
+Tags: 2021
+Summary:
+lang: ja
+Slug: 202111
+Save_as: history/202111.html
+Template: page
 
 # Code for Harima 2021.11（第41回定例会）
 
 - 2021/11/10(水) 19:30-21:00
-- 加古川 びぃぷらす /
-  [オンライン](https://meet.jit.si/moderated/939f95fba72937da2de4b01aa197d62b974cd6cb723cdd5a8fa059a35e60606a)
+- 加古川 びぃぷらす / [オンライン](https://meet.jit.si/moderated/939f95fba72937da2de4b01aa197d62b974cd6cb723cdd5a8fa059a35e60606a)
 - [行動規範](https://github.com/codeforharima/codeofconduct)
-
 - 司会:野方
 - 参加者:福田、水野、畑、スムース、石本、中谷、栗山、大西
 - リモート:川上、大前
-
 - 次回開催: 12月 8日(水) 19:00-21:00
 - 開催場所：びぃぷらす
 
 ## 運営連絡
 
 - 本会の紹介・・・的な
-  - Code for Japanのブリゲードのひとつ <https://www.code4japan.org/>
-
-  - 2018年7月からスタートしました地元の意見で「ため池」や「高砂deオープンデータソン」などを開催してきた
-
+  - Code for Japanのブリゲードのひとつ
+    - <https://www.code4japan.org/>
+  - 2018年7月からスタートしました
+    - 地元の意見で「ため池」や「高砂deオープンデータソン」などを開催してきた
   - 石本さんのCode for Japanサミット2021発表スライド
-    <https://www.facebook.com/events/253265523402344>
-
-  - code for
-    HARIMA　は圧倒的に地域に寄った活動をしていて、IT技術者が少なめ間口が広めの会です
+    - <https://www.facebook.com/events/253265523402344>
+  - code for HARIMAは圧倒的に地域に寄った活動をしていて、IT技術者が少なめ、間口が広めの会です
 
 - 自己紹介
   - 大前くん、一宮市のデジタル推進室で会計年度任用職員してるって！
   - 栗山さん、大西くんはC4Jのこんなイベントに出てたらしい！
-    <https://prtimes.jp/main/html/rd/p/000000037.000039198.html>
+    - <https://prtimes.jp/main/html/rd/p/000000037.000039198.html>
+
 - LINEアカウントを開設しました！
   - アカウント名「Codeforharima」
   - 高校生など、Facebook？という方が増えてきた
@@ -62,28 +57,27 @@ robots: noindex, nofollow lang: ja dir: ltr breaks: true tags: code for harima
 ### 2. パートナーシップの継続確認等のフォーム入力
 
 - <https://forms.gle/2ET9FR6MAw6dUGmw6>
-
-内容
-
-- 継続有無やそれに伴う反社チェックの対応有無
-- ブリゲード名称、代表者の氏名、メールアドレス、CfJのslackでのslack名　等です。
+- 内容
+  - 継続有無やそれに伴う反社チェックの対応有無
+  - ブリゲード名称、代表者の氏名、メールアドレス、CfJのslackでのslack名　等です。
 
 CfJのslackにまだ参加されていない方は下記URLからご参加の上、上記slack名をお知らせください。
 
-- <https://cfj.slack.com/join/shared_invite/zt-w2soa7jo-ZhVLNk5HjBMYm1GD72i36g#/shared-invite/email>
+- https://cfj.slack.com/join/shared_invite/zt-w2soa7jo-ZhVLNk5HjBMYm1GD72i36g#/shared-invite/email
 
-今後、Code for
-Japanからの連絡やコミュニケーションをSlackでおこなうことにより、より緊密に連携していきたいと考えているので、ご協力よろしくお願いします。
+今後、Code for Japanからの連絡やコミュニケーションをSlackでおこなうことにより、より緊密に連携していきたいと考えているので、ご協力よろしくお願いします。
 
 ### 3.【報告】シビックテックプロジェクトに対するAWSサポートプログラムの提供
 
-本プログラムは、ブリゲードによるシビックテック活動を支援することを目的として、アマゾン ウェブ サービス ジャパン株式会社のご厚意として実施されます。ブリゲードが行っているシビックテックプロジェクトに対して、AWSのクレジットの利用申請をしていただき、同社が認めたブリゲードに対してクレジットが付与されます。ご希望される方は下記申し込みフォームから、概要や注意事項をご確認の上、お申し込み下さい。
+本プログラムは、ブリゲードによるシビックテック活動を支援することを目的として、アマゾン ウェブ サービス ジャパン株式会社のご厚意として実施されます。ブリゲードが行っているシビックテックプロジェクトに対して、AWSのクレジットの利用申請をしていただき、同社が認めたブリゲードに対してクレジットが付与されます。
+ご希望される方は下記申し込みフォームから、概要や注意事項をご確認の上、お申し込み下さい。
 
 ▼申し込みフォーム
 
 - <https://forms.gle/2nKeSpHJWsXcC5e89>
 
 以上、よろしくお願いいたします。
+
 
 ## [Code for Harima mapi部](https://www.facebook.com/groups/3062561264069718)　(水野・福田)
 
@@ -94,8 +88,8 @@ Japanからの連絡やコミュニケーションをSlackでおこなうこと�
 - 流域文化協議会補助金申請について
   - 申請書の提出
   - 事業実施時期
-  1.  よかったら地図かいてみませんか？（2月末頃）
-  2.  マッピングパーティー（3月頃）
+    1. よかったら地図かいてみませんか？（2月末頃）
+    2. マッピングパーティー（3月頃）
   - 備品購入（黒板、その他）その他物品募集します１
 
 - 水曜日のマッピング会inかこむ
@@ -111,32 +105,40 @@ Japanからの連絡やコミュニケーションをSlackでおこなうこと�
 - 1年生全体に地域防災教育をからめて、タブレットを使った授業と地域に根ざした教育が行いたい。
 - 運営ゲームやオープンデータを活かせるといい。
 - 講師の人数は最大6人(1クラス1人)から 最小3人(2クラス1人)で各クラスに担任がつきます。
-- 時期的には、タブレットが新入生に渡される4月末〜5月末までに1〜2回程度。①タブレットの設定＋便利な使い方②地域防災教育をからめた授業もしくは、 タブレットを活用するための授業③6月から秋ぐらいまでに1〜2回程度 ③②の発展(マップ公開？)
-  ④全員で書き込み、振り返りなど。
-
-⇒お受けする方向で調整しましょう
+- 時期的には、タブレットが新入生に渡される4月末〜5月末までに1〜2回程度。
+  - ① タブレットの設定＋便利な使い方
+  - ② 地域防災教育をからめた授業もしくは、 タブレットを活用するための授業
+  - ③ 6月から秋ぐらいまでに1〜2回程度 ③②の発展(マップ公開？)
+  - ④ 全員で書き込み、振り返りなど。
+- ⇒お受けする方向で調整しましょう
 
 ## シビックテック車座会議#18に参加します！（石本）
 
 - 2021/11/25 (木)19:00 - 21:00 JST
-- <https://kurumaza-vol18.peatix.com/>
+  - <https://kurumaza-vol18.peatix.com/>
 
-■タイムテーブル■
-19:00~19:10　オープニング19:10~19:30　ゲストトーク19:30~20:00　インタビュー＆質疑応答　休憩 -
-Youtube Liveはここまで -
-20:05~20:45　参加者の活動紹介、インタビュー20:45~　クロージング21:00~　終了
+### ■タイムテーブル■
 
-■オンライン参加方法■視聴用YouTubeURL <https://civictechjp.page.link/kurumaza>
+- 19:00~19:10　オープニング
+- 19:10~19:30　ゲストトーク
+- 19:30~20:00　インタビュー＆質疑応答
+- 休憩 - Youtube Liveはここまで -
+- 20:05~20:45　参加者の活動紹介、インタビュー
+- 20:45~　クロージング
+- 21:00~　終了
 
-codeforgifuの石井さんから依頼を受けて、code for
-harimaの活動についてお話することになりましたので、ぜひ！
+## ■オンライン参加方法■
+
+- 視聴用YouTubeURL <https://civictechjp.page.link/kurumaza>
+
+codeforgifuの石井さんから依頼を受けて、code for harimaの活動についてお話することになりましたので、ぜひ！
 
 ## VIVITA Nishiawakura（川上）
 
-子どもたちとともに、草刈りロボットを開発するプロジェクト
-<https://www.facebook.com/VIVISTOP-NISHIAWAKURA-106493865073023>
-
-11/14（日） 13:00~ Youtube Live
-<https://www.youtube.com/watch?fbclid=IwAR29sPD4iBKfoXsN3rpJZtQz6J5L5glrjV3QX9w6433uar2IPRhlXNQQtTY&v=9MiiwU-xoEM&feature=youtu.be>
-
-VIVITA Japan <https://www.youtube.com/channel/UC7-hhu-GY5tq2fgDTmE4s4g/videos>
+- 子どもたちとともに、草刈りロボットを開発するプロジェクト
+  - <https://www.facebook.com/VIVISTOP-NISHIAWAKURA-106493865073023>
+- 11/14（日） 13:00~
+- Youtube Live
+  - <https://www.youtube.com/watch?fbclid=IwAR29sPD4iBKfoXsN3rpJZtQz6J5L5glrjV3QX9w6433uar2IPRhlXNQQtTY&v=9MiiwU-xoEM&feature=youtu.be>
+- VIVITA Japan
+  - <https://www.youtube.com/channel/UC7-hhu-GY5tq2fgDTmE4s4g/videos>
