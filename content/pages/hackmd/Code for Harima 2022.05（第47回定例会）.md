@@ -1,25 +1,23 @@
----
-title: Code for Harima 2022.05（第47回定例会）
-tags: [code for harima]
----
-
----
-
-robots: noindex, nofollow lang: ja breaks: true tags: code for harima
-
----
+Title: Code for Harima 2022.05（第47回定例会）
+Date: 2022-05-11 19:00:00
+Category: minutes
+Tags: 2022
+Summary:
+lang: ja
+Slug: 202205
+Save_as: history/202205.html
+Template: page
 
 # Code for Harima 2022.05（第47回定例会）
 
 - 2022/5/11(水) 19:00-21:00
-- 加古川 びぃぷらす /
-  [オンライン](https://meet.jit.si/moderated/ab15d1a9d5eeaba18f83a2e6d1e33f69e94e18e95f95e704ee2aea9a28cbe603)
+- 加古川 びぃぷらす / [オンライン](https://meet.jit.si/moderated/ab15d1a9d5eeaba18f83a2e6d1e33f69e94e18e95f95e704ee2aea9a28cbe603)
 - LINEアカウント: <https://liff.line.me/1645278921-kWRPP32q/?accountId=946ardlp>
-- 司　会:野方
-- 参加者:水野、福田、畑、木谷
-- リモート:川上、筒井
+- 司会: 野方
+- 参加者: 水野、福田、畑、木谷
+- リモート: 川上、筒井
 - 次回開催: 2022年6月8日(水) 19:00-21:00
-- 開催場所：びぃぷらす
+- 開催場所： びぃぷらす
 
 ## 運営連絡
 
@@ -40,8 +38,9 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
   - 7/16以降のオープンデーは未定
   - 村民で運営してくれる人がまだいない
 - 出張版「かえるスナック」開催OK！
-- 日曜はほぼほぼやっている店などがない　 *飲食店数軒のみ営業　 *
-  むlabo自体日曜休み
+- 日曜はほぼほぼやっている店などがない
+  - 飲食店数軒のみ営業
+  - むlabo自体日曜休み
 - 観光スポット
   - [若杉原生林](https://www.okayama-kanko.jp/spot/11839)　空気がよくて落ち着く場所
   - あわくら温泉
@@ -79,4 +78,4 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
 ## 石本さん申請の補助金資料
 
 - <https://drive.google.com/file/d/1gkH5C3GIgqtVQx_PTuXIMdliRLRQES40/view?usp=sharing>
-- 採択結果は来月なので、そのあと報告しますとのこと
+  - 採択結果は来月なので、そのあと報告しますとのこと

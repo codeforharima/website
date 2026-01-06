@@ -1,19 +1,17 @@
----
-title: Code for Harima 2022.11（第53回定例会）
-tags: [code for harima]
----
-
----
-
-robots: noindex, nofollow lang: ja breaks: true tags: code for harima
-
----
+Title: Code for Harima 2022.11（第53回定例会）
+Date: 2022-11-09 19:00:00
+Category: minutes
+Tags: 2022
+Summary:
+lang: ja
+Slug: 202211
+Save_as: history/202211.html
+Template: page
 
 # Code for Harima 2022.11（第53回定例会）
 
 - 2022/11/9(水) 19:00-21:00
-- 加古川 びぃぷらす /
-  [オンライン](https://meet.jit.si/moderated/e48e0ee4b4f1af97d8404b8618d8977bc8fb8a97403fccaed9f485acb2393952)
+- 加古川 びぃぷらす / [オンライン](https://meet.jit.si/moderated/e48e0ee4b4f1af97d8404b8618d8977bc8fb8a97403fccaed9f485acb2393952)
 - LINEアカウント: <https://liff.line.me/1645278921-kWRPP32q/?accountId=946ardlp>
 - 司会:野方
 - 参加者:福田、水野、高野
@@ -43,13 +41,11 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
   - <https://sotmjp2022.peatix.com/>
 - やること
   - <https://hackmd.io/@codeforharima/Bk8HgOako/edit>
-
 - 関西オープンフォーラム
   - <https://www.k-of.jp/2022/>
   - 古橋先生が登壇される？
     - 11月11日
     - <https://www.k-of.jp/2022/session/mapconcierge/>
-
 - Code for Harima のパネルをA2で用意
   - 寺家町マッピング
   - よかったら地図かいてみませんか
@@ -59,10 +55,8 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
 
 - 開催日：2022年11月12日・13日
   - <https://mantousait.wixsite.com/takasago>
-
-\*過去にCode for HARIMA で撮影したオープンデータ
-
-- <https://www.flickr.com/photos/sukitakasago/>
+- 過去にCode for HARIMA で撮影したオープンデータ
+  - <https://www.flickr.com/photos/sukitakasago/>
 - WikimediaComons に掲載する？
 
 ## Night Fantasy Illusion
@@ -70,11 +64,12 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
 - 開催日：2022年11月19日
 - チケットは完売
 
-## インターネットマップに挑戦してみようin神鍋
+## インターネットマップに挑戦してみよう in 神鍋
 
 - 11月3日(木・祝)　神鍋山をマッピング
 - 講師　現地ガイド：松原典孝さん（兵庫県立大学講師／ジオパーク）
   - マップ説明：谷岡 能史さん(文化財室職員)
 - [OSM](https://www.openstreetmap.org/#map=16/35.5047/134.6718)
-- 当日の結果 ![](https://i.imgur.com/gdtUBQj.jpg)
+- 当日の結果
+  - ![](https://i.imgur.com/gdtUBQj.jpg)
 - [mapillary](https://www.mapillary.com/app/?pKey=786397875757115)

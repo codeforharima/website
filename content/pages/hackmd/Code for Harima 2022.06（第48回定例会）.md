@@ -1,19 +1,17 @@
----
-title: Code for Harima 2022.06（第48回定例会）
-tags: [code for harima]
----
-
----
-
-robots: noindex, nofollow lang: ja breaks: true tags: code for harima
-
----
+Title: Code for Harima 2022.06（第48回定例会）
+Date: 2022-06-08 19:00:00
+Category: minutes
+Tags: 2022
+Summary:
+lang: ja
+Slug: 202206
+Save_as: history/202206.html
+Template: page
 
 # Code for Harima 2022.06（第48回定例会）
 
 - 2022/6/8(水) 19:00-21:00
-- 加古川 びぃぷらす /
-  [オンライン](https://meet.jit.si/moderated/82b0fc93f34d28c1180119778ac1667dcd633ad87791ad1e0e0aca58f0b25ded)
+- 加古川 びぃぷらす / [オンライン](https://meet.jit.si/moderated/82b0fc93f34d28c1180119778ac1667dcd633ad87791ad1e0e0aca58f0b25ded)
 - LINEアカウント: <https://liff.line.me/1645278921-kWRPP32q/?accountId=946ardlp>
 - 司会:野方
 - 参加者:福田、水野、坂ノ下、川上
@@ -28,7 +26,7 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
 
 ## 最近の近況と算盤の話（最後にちょっとだけ地方創生）⇒延期します
 
-- 発表者：久保　元（Hajime Kubo)
+- 発表者：久保　元(Hajime Kubo)
 - 「自分たちの本当の良さは自分たちにはわからない」
 - 算盤のお話。最後にちょっとだけ地方（ふるさと）創生
 - <https://docs.google.com/presentation/d/16bR1_2aCXYFOHJmsCvj1CS4E7Hm9I7ZRt2fod6iAUuo/edit?usp=sharing>
@@ -44,13 +42,11 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
 
 ## ファンローカル参加しました(福田、水野)
 
-- 日時：2022年6月4日(日)　10:00～15:00
+- 日時: 2022年6月4日(日)　10:00～15:00
 - HP: <https://www.fanlocal.fun/>
-- FB:
-  <https://www.facebook.com/NPO%E6%B3%95%E4%BA%BA-%E3%83%95%E3%82%A1%E3%83%B3%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB-109739147435463/>
+- FB: <https://www.facebook.com/NPO%E6%B3%95%E4%BA%BA-%E3%83%95%E3%82%A1%E3%83%B3%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB-109739147435463/>
   - 先月加古川、今月播磨町でした
   - 福田さんは播磨町も参加
-
 - 加古川まちあるき
   - 好評でした^^
   - Gopromax360で撮影したのでmapillaryにアップする予定
@@ -59,20 +55,15 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
 
 ## Code for Harimaこれからどうしよ?(のがた)
 
-- 深刻な話じゃないけど、Code for
-  Harimaはどうしたらいいのかなーと漠然と思ってます
-  - 先日、あるところでお話しをしていて「Code for
-    Harimaはどういうグループなの?」と話が出ました
+- 深刻な話じゃないけど、Code for Harimaはどうしたらいいのかなーと漠然と思ってます
+  - 先日、あるところでお話しをしていて「Code for Harimaはどういうグループなの?」と話が出ました
   - その中で[Code for Yokohama](https://code4.yokohama/)の話とほかのCode
     forで失速しているところもあるという話がでました
-    - Code for
-      Yokohama立派ですごいですが、Harimaはそういう方向性ではない気がしています
-  - もう一つ。先日、加古川で活動されている人に「Code for
-    Harimaの定例会に来て」と声をかけたら断られました
+    - Code for Yokohama立派ですごいですが、Harimaはそういう方向性ではない気がしています
+  - もう一つ。先日、加古川で活動されている人に「Code for Harimaの定例会に来て」と声をかけたら断られました
     - 忙しいことが理由だったけれど、堅苦しくて面倒くさそうなものはイヤという雰囲気もありました
   - その2つの話があって思ったのが、Code for Harimaどうしよ?ということです
-    - 自分の中でCode for
-      Harimaを立ち上げたとき、続けることが目標だったけど、みんなの協力のおかげで達成できたと思ってます
+    - 自分の中でCode for Harimaを立ち上げたとき、続けることが目標だったけど、みんなの協力のおかげで達成できたと思ってます
     - そろそろ次のステップに向かう時期かなという気がしています
       - 今すぐ、という話じゃなくて考えてもいいんじゃないぐらいの軽い気持ち
         - 野方個人の話をすると、姫路市に住んでいるので加古川市や高砂市の困りごとはわからないしオープンデータを見てもピンと来ないことがあります
@@ -99,7 +90,7 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
 ## メンバー頑張っています〜加古川市長・市議選挙
 
 - Code for Harimaメンバーも出馬しています
-- 木谷万里さんの[Facebook](https://www.facebook.com/mari.kitani.3)
+  - 木谷万里さんの[Facebook](https://www.facebook.com/mari.kitani.3)
 
 ## 夏か秋、冬ころにState of the Map加古川か高砂で開催しませんか？⇒やるほうこうで！（坂ノ下）
 
@@ -125,9 +116,9 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
 - 7月16日（土）に訪問予定←行きたい人は連絡ください
 - OSMを広めたい
   - マッパーを2，3人コアな人を育てたい
-  - 役場の人にQgisを広めている最中
+  - 役場の人にQGISを広めている最中
 
 ## チャレンジ！オープンガバナンス2022
 
 - キックオフイベントが開催されるようです
-  <https://www.facebook.com/groups/codeforjapan/permalink/2014799808728576/>
+  - <https://www.facebook.com/groups/codeforjapan/permalink/2014799808728576/>

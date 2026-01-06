@@ -1,18 +1,17 @@
----
-title: Code for Harima 2022.09（第51回定例会）
-tags: [code for harima]
----
-
----
-
-robots: noindex, nofollow lang: ja breaks: true tags: code for harima
-
----
+Title: Code for Harima 2022.09（第51回定例会）
+Date: 2022-09-14 19:00:00
+Category: minutes
+Tags: 2022
+Summary:
+lang: ja
+Slug: 202209
+Save_as: history/202209.html
+Template: page
 
 # Code for Harima 2022.09（第51回定例会）
 
 - 2022/9/14(水) 19:00-21:00
-- 加古川 びぃぷらす / [オンライン]()
+- 加古川 びぃぷらす / オンライン
 - LINEアカウント: <https://liff.line.me/1645278921-kWRPP32q/?accountId=946ardlp>
 - 司会:野方
 - 参加者:福田、石本、坂ノ下、畑、水野、加古川の小市民さん、上東
@@ -26,6 +25,7 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
 - HARIMAの情報なら参加者グループにどんどん投稿していいですよ！
   - <https://www.facebook.com/groups/codeforharima/>
 
+
 ## State of the map Japan 2022
 
 - いろいろ始まっています
@@ -34,14 +34,17 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
 
 以下、先月の情報をコピペしてます。書き換えてください
 
-- 日時：12月3日(土)　午後開催
-- 場所：加古川商工会議所4階
-- URL：<https://stateofthemap.jp/>
+- 日時: 12月3日(土)　午後開催
+- 場所: 加古川商工会議所4階
+- URL: <https://stateofthemap.jp/>
 
-![](https://i.imgur.com/GJlwBC6.png) ![](https://i.imgur.com/9FPDDbI.png)
+
+![](https://i.imgur.com/GJlwBC6.png)
+
+![](https://i.imgur.com/9FPDDbI.png)
 
 - オンラインで準備中
-  - OSMJP Slack <https://bit.ly/OSM_Japan>
+  - OSMJP Slack https://bit.ly/OSM_Japan
 
 - 実行委員長は誰にする？
   - 福田さんにお願いします。
@@ -60,13 +63,13 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
 - パネル展示も可能（水野以下３つ作るので協力依頼）
   - ため池マッピング
   - ながしのマッピング
-  - 小野のマッピングパーティー　 \* 畳２畳分の加古川の地図（福田さん用意）
+  - 小野のマッピングパーティー
+  - 畳２畳分の加古川の地図（福田さん用意）
 
 ## 小野マッピングパーティー2回目の計画
 
 - イベントページできてます
-  - 昭和レトロな小野商店街を歩こう マッピングパーティ in ONO | Facebook:
-    <https://www.facebook.com/events/1084307325539234/>
+  - 昭和レトロな小野商店街を歩こう マッピングパーティ in ONO | Facebook: <https://www.facebook.com/events/1084307325539234/>
 
 以下、先月の情報をコピペしてます。必要があれば書き足し、書き換えてください
 
@@ -82,38 +85,35 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
 - 共催：北はりま市民活動支援センター、Code for harima
 - 運営メンバー (講師)謝礼・(code forの皆さんには)交通費払い有
 
-## COG2022 高砂市も課題提案しました
+## COG2022 高砂市も課題提案しました！
 
-<http://park.itc.u-tokyo.ac.jp/padit/cog2022/area/kinki.html#takasago-list>
-
+- <http://park.itc.u-tokyo.ac.jp/padit/cog2022/area/kinki.html#takasago-list>
 - とってもハードル低いとおもうので、ぜひとも課題解決アイデア提案くださいませ！
-- 参考 <https://www.chisou.go.jp/tiiki/kinmirai/pdf/0407_takasago.pdf>
+  - 参考 https://www.chisou.go.jp/tiiki/kinmirai/pdf/0407_takasago.pdf
 
 ## ファンローカルのかこがわ街歩きの記事が公開されました！（水野）
 
 - ５月にNPO法人ファンローカルのメンバーと歩いた記事が公開されました
-
-<https://www.fanlocal.fun/2022/09/12/kakogawa/>
-
+  - <https://www.fanlocal.fun/2022/09/12/kakogawa/>
 - NPO法人ファンローカルとは
   - まちの公務員を中心として、観光スポットとして日の当たらない魅力や歴史的スポットなどをめぐって、まちへの偏愛を高め、広めていこうという人たち。
   - まちメディアでまちの魅力を発信。
   - 将来的には「まち基金」を創設し、まちを応援する人がまちで困っている人を応援したいなって思っている。
-
 - ほかのまち歩きも順次公開（既にいっぱい開催されています。）
 
-## Code for KOBE が久々にオフライン開催
+## Code for KOBE が久々にオフライン開催！
 
 - ９ヶ月ぶりのオフライン開催(オンラインはなし)
-- で「Code for Japan
-  Summit」のプログラム視聴会です！オンライン配信はありませんので、ソーシャルディスタンスを取りつつ対面で生存確認しつつ年に1度のサミットを一緒に楽しみましょう☆初めましての方も大歓迎です(^^)
-  ★Code for Japan Summit 2022公式サイト <https://summit2022.code4japan.org/>
-  ★お題○イントロダクション（5分）○チェックイン（5分）○Code for Japan
-  Summitプログラム視聴（105分）○チェックアウト（5分）
-  <https://www.facebook.com/events/836847144366622>
-
-##
+- で「Code for Japan Summit」のプログラム視聴会です！オンライン配信はありませんので、ソーシャルディスタンスを取りつつ対面で生存確認しつつ年に1度のサミットを一緒に楽しみましょう☆初めましての方も大歓迎です(^^)
+- ★Code for Japan Summit 2022公式サイト
+  - <https://summit2022.code4japan.org/>
+- ★お題
+  - ○イントロダクション（5分）
+  - ○チェックイン（5分）
+  - ○Code for Japan Summitプログラム視聴（105分）
+  - ○チェックアウト（5分）
+    - <https://www.facebook.com/events/836847144366622>
 
 ## 何かあればどうぞ
 
-<https://www.jibungoto-planet.jp>
+- <https://www.jibungoto-planet.jp>

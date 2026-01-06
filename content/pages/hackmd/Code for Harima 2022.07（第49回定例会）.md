@@ -1,25 +1,23 @@
----
-title: Code for Harima 2022.07（第49回定例会）
-tags: [code for harima]
----
-
----
-
-robots: noindex, nofollow lang: ja breaks: true tags: code for harima
-
----
+Title: Code for Harima 2022.07（第49回定例会）
+Date: 2022-07-13 19:00:00
+Category: minutes
+Tags: 2022
+Summary:
+lang: ja
+Slug: 202207
+Save_as: history/202207.html
+Template: page
 
 # Code for Harima 2022.07（第49回定例会）
 
 - 2022/7/13(水) 19:00-21:00
-- 加古川 びぃぷらす /
-  [オンライン](https://meet.jit.si/moderated/1304898a665e973adabef649b80e5abc49f2b709d882553980aebdadf15dd456)
+- 加古川 びぃぷらす / [オンライン](https://meet.jit.si/moderated/1304898a665e973adabef649b80e5abc49f2b709d882553980aebdadf15dd456)
 - LINEアカウント: <https://liff.line.me/1645278921-kWRPP32q/?accountId=946ardlp>
-- 司会:野方
-- 参加者:福田、水野、畑、増田、岩橋、坂ノ下
-- リモート:川上、石本
+- 司会: 野方
+- 参加者: 福田、水野、畑、増田、岩橋、坂ノ下
+- リモート: 川上、石本
 - 次回開催: 2022年8月10日(水) 19:00-21:00
-- 開催場所：びぃぷらす
+- 開催場所： びぃぷらす
 - 過去の議事録：<https://hackmd.io/@codeforharima/ry3puSiOc>
 
 ## 運営連絡
@@ -42,45 +40,87 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
   - 草刈りの話も15時ころある
   - 草刈りの横展開も企業さんが検討しているので将来的にコラボできればいい。
 - むlaboオープンデーの復活を！？
-- 株式会社百森さん<https://www.hyakumori.com/>
+- 株式会社百森さんhttps://www.hyakumori.com/
   - [林業のタスク管理をRedmineでやる話](https://note.com/hyakumori/n/nb39abc4af693)
 
 ## 高砂南高校（福田、野方、水野）
 
-タブレットを活用した地域の課題を見つける自由研究の時間ができたので、Code for
-HarimaとOne by Oneが防災と地図の授業を担当した。
+タブレットを活用した地域の課題を見つける自由研究の時間ができたので、Code for HarimaとOne by Oneが防災と地図の授業を担当した。
 
 [当日の写真、動画](https://drive.google.com/drive/folders/1-AmYGvC_WBJ0e3-XWx7KFdkcA2yqJ6bK?usp=sharing)
 
-1. 当日の成果 12 : ■ ウイりウォンカ 6 : ■ Atukatuka 5 : ■ りゅうせー 4 : ■
-   meeeeei_om 3 : ■ meiiiiii 3 : ■ syuuuu 3 : ■ プラスα 2 : ■ 中野愛弥 2 : ■
-   iori1224 2 : ■ これぞ男のヒアウィゴ 2 : ■ Tamamotuin1659 2 : ■ ふーか 1 : ■
-   ryooichi 1 : ■ JNR583NaYu 1 : ■ のあ♡ 1 : ■ あかな 1 : ■ まつお　るな 1 : ■
-   hiiiiiiiiiiiiiiiiina 1 : ■ 1 : ■ teruto 1 : ■ 柳澤美來 1 : ■ zioru 1 :
-   ■ ルート√ 1 : ■ nagonago
+### 1. 当日の成果
 
-2. 授業時間に描いた結果 ![](https://i.imgur.com/UhvaPTP.png)
-   ![](https://i.imgur.com/14zkQtW.png) ![](https://i.imgur.com/78yDADw.png)
-   ![](https://i.imgur.com/v3dukzT.png) ![](https://i.imgur.com/YFEe6uZ.png)
-   ![](https://i.imgur.com/s8AVFG7.png) ![](https://i.imgur.com/VVDjby1.png)
-   ツイッタ ![](https://i.imgur.com/Fh3AQ4G.png)
-   ![](https://i.imgur.com/DV7lPkN.png) ![](https://i.imgur.com/q4yROQa.png)
-   ![](https://i.imgur.com/2adKDis.png)
+```text
+12 : ■ ウイりウォンカ
+ 6 : ■ Atukatuka
+ 5 : ■ りゅうせー
+ 4 : ■ meeeeei_om
+ 3 : ■ meiiiiii
+ 3 : ■ syuuuu
+ 3 : ■ プラスα
+ 2 : ■ 中野愛弥
+ 2 : ■ iori1224
+ 2 : ■ これぞ男のヒアウィゴ
+ 2 : ■ Tamamotuin1659
+ 2 : ■ ふーか
+ 1 : ■ ryooichi
+ 1 : ■ JNR583NaYu
+ 1 : ■ のあ♡
+ 1 : ■ あかな
+ 1 : ■ まつお　るな
+ 1 : ■ hiiiiiiiiiiiiiiiiina
+ 1 : ■
+ 1 : ■ teruto
+ 1 : ■ 柳澤美來
+ 1 : ■ zioru
+ 1 : ■ ルート√
+ 1 : ■ nagonago
+```
 
-![](https://i.imgur.com/HbKlHoj.png) ![](https://i.imgur.com/nVFbKHy.png)
+### 2. 授業時間に描いた結果
+
+![](https://i.imgur.com/UhvaPTP.png)
+
+![](https://i.imgur.com/14zkQtW.png)
+
+![](https://i.imgur.com/78yDADw.png)
+
+![](https://i.imgur.com/v3dukzT.png)
+
+![](https://i.imgur.com/YFEe6uZ.png)
+
+![](https://i.imgur.com/s8AVFG7.png)
+
+![](https://i.imgur.com/VVDjby1.png)
+
+#### ツイッタ
+
+![](https://i.imgur.com/Fh3AQ4G.png)
+
+![](https://i.imgur.com/DV7lPkN.png)
+
+![](https://i.imgur.com/q4yROQa.png)
+
+![](https://i.imgur.com/2adKDis.png)
+
+![](https://i.imgur.com/HbKlHoj.png)
+
+![](https://i.imgur.com/nVFbKHy.png)
+
 ![](https://i.imgur.com/tEEu2J6.png)
 
-1. 先生からのコメント
+### 3. 先生からのコメント
 
 - 学年担当らは、2コマではやはり時間が短い。
 - ピンを立てた後、最後の保存ができていない生徒もいるようです。との声がありました。
 
-1. 岡田先生から、
+### 4. 岡田先生から、
 
 - もし可能性の一つとしてどこかでもう一度深める機会があれば。という提案もしてみたところ、今後、学年が活動を進めていくときに、不明点や深めたい点があれば、10〜11月ぐらいにお願いするかもしれません。と畑主任がおっしゃっていました。
 - 学年には、ふり返りの時間を設定して欲しいと伝えてはいるので、アクションがあると思います。その節は、よろしくお願いします。
 
-1. 個人的な思い
+### 5. 個人的な思い
 
 - 今回の2回について、
 - 12月以後にふり返りを設定してもらうとお互い良いのかなと思います。
@@ -95,7 +135,6 @@ HarimaとOne by Oneが防災と地図の授業を担当した。
   - 先月は場所のお役に立てませんでした。兵庫大学にも打診してみます。できるかどうか分かりませんが。(高野)
 - とりあえず加古川商工会議所を第1希望にする
   - ひとまず福田さんに調べてもらう
-  -
 
 ## 小野マッピングパーティー2回目の計画
 
@@ -103,7 +142,7 @@ HarimaとOne by Oneが防災と地図の授業を担当した。
 - タイトル: 小野ごっちゃマップを作ろかー
 - 集合時間: 10:30開始 - 17:00終了
 - 集合場所: 小野市うるおい交流館エクラ 中会議室
-  - <http://www.eclat-hall.com/shisetsu/cyuukaigi.html>
+  - http://www.eclat-hall.com/shisetsu/cyuukaigi.html
 - 参加料金: 今回は無料(定期開催時は要検討)
 - 運営メンバー(※code for Harima)には交通費の実費払いあり
 - 当日の到達目標
@@ -117,14 +156,18 @@ HarimaとOne by Oneが防災と地図の授業を担当した。
 - ごっちゃマップの制作
   - まち歩きマップメーカーで書き出し＆施設情報をアイコン
   - 危ない場所、おすすめポイントなどをヒアリングして入力
-  - 出来たファイル（PDF）を印刷する -<https://github.com/codeforharima/logo>
+  - 出来たファイル（PDF）を印刷する
+  - https://github.com/codeforharima/logo
 - 10月～11月に再度実施計画中
   - 日程調整中
-  - <https://chouseisan.com/s?h=fe1336ac088041ed86481da7962f7a8a>
+  - https://chouseisan.com/s?h=fe1336ac088041ed86481da7962f7a8a
 
 ## 内閣府未来技術社会実装事業に高砂市採択
 
-![](https://i.imgur.com/S8mPyvp.jpg) ![](https://i.imgur.com/boHcyUd.jpg)
+![](https://i.imgur.com/S8mPyvp.jpg)
+
+![](https://i.imgur.com/boHcyUd.jpg)
+
 ![](https://i.imgur.com/p96hhxP.jpg)
 
 - <https://www.chisou.go.jp/tiiki/kinmirai/pdf/01_mirai_senteiR04.pdf>
@@ -135,4 +178,4 @@ HarimaとOne by Oneが防災と地図の授業を担当した。
   - 理事2名確保
   - 次の定例会にはお知らせできるよ。
 - 7月16日は赤穂ロイヤルホテル古着イベント二出店します
-  <https://kisspress.jp/articles/36231/>
+  - <https://kisspress.jp/articles/36231/>

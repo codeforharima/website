@@ -1,44 +1,41 @@
----
-title: Code for Harima 2022.03（第45回定例会）
-tags: [code for harima]
----
-
----
-
-robots: noindex, nofollow lang: ja breaks: true tags: code for harima
-
----
+Title: Code for Harima 2022.03（第45回定例会）
+Date: 2022-03-09 19:00:00
+Category: minutes
+Tags: 2022
+Summary:
+lang: ja
+Slug: 202203
+Save_as: history/202203.html
+Template: page
 
 # Code for Harima 2022.03（第45回定例会）
 
 - 2022/3/9(水) 19:00-21:00
-- 加古川 びぃぷらす /
-  [オンライン](https://meet.jit.si/moderated/e9115e01e248b23f79d09fe28bf66fa25f4bdff5a16f19b913ca6d2418fd94d4)
+- 加古川 びぃぷらす / [オンライン](https://meet.jit.si/moderated/e9115e01e248b23f79d09fe28bf66fa25f4bdff5a16f19b913ca6d2418fd94d4)
 - [行動規範](https://github.com/codeforharima/codeofconduct)
 - LINEアカウント: <https://liff.line.me/1645278921-kWRPP32q/?accountId=946ardlp>
-- 司　会:野方
-- 参加者:木谷、スムース、畑、石本、坂ノ下、水野、福田、大西、栗山
+- 司会: 野方
+- 参加者: 木谷、スムース、畑、石本、坂ノ下、水野、福田、大西、栗山
 - リモート:
 - 次回開催: 2022年4月13日(水) 19:00-21:00
-- 開催場所：びぃぷらす
+- 開催場所: びぃぷらす
 
 ## 運営連絡
 
-- なし
+- 特になし
 
 ## [Code for Harima mapi部](https://www.facebook.com/groups/3062561264069718)　(水野・福田)
 
 - 3月5日（土）[インターナショナルオープンデータデイ](https://opendataday.org/ja)に別府にてマッピングパーティ終了
-  - わがまち加古川70選deマッピングパーティin別府【インターナショナルオープンデータデイ関連イベント】:
-    <https://www.facebook.com/events/260443032891821/>
+  - わがまち加古川70選deマッピングパーティin別府【インターナショナルオープンデータデイ関連イベント】: <https://www.facebook.com/events/260443032891821/>
   - 参加者５人
   - 木谷議長の感想、[ブログご紹介](http://kitanimari.jugem.jp/?eid=4842)
-    知ってたつもりでも知らなかった現地のお宝をたくさん発見できた！作業も簡単で、楽しかった！！
+    - 知ってたつもりでも知らなかった現地のお宝をたくさん発見できた！作業も簡単で、楽しかった！！
   - [加古川市バスロケーション](https://bus.opendata-api-kakogawa.jp/)もOSMを活用
   - 坂ノ下さん主催の[Mappy Hour](https://fb.me/e/1uhFGrhJ7)も同日に１００回目！書ききれなかったものを各自自宅でマッピング
 
-- 地図書きイベント開催日: ~~2月23日（祝・水）~~
-  mocco \* 延期してもいいですか？3月21日（祝・月）の方向で
+- 地図書きイベント開催日: ~~2月23日（祝・水）~~ mocco
+  - 延期してもいいですか？3月21日（祝・月）の方向で
   - 10時から15時くらいまで流しのマッピングを行う予定です
   - 協力者募集（詳細はメッセンジャー等で）
 
@@ -57,12 +54,14 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
 
 ## かこそら隊活動報告→次回へ持ち越し
 
-- 学生中心ボランティアチーム「かこそら隊」が発足しました！ _
-  2022年春に行う予定の天体観望会をはじめとして、加古川を中心に色々な活動をしていきます！
-  _ 3月6日（日）第一回観望会を行う予定 _ 活動状況はかこそら隊公式Instagramで! _
-  かこそら隊公式Instagram　[＠kacosora.0109](https://instagram.com/kacosora.0109?utm_medium=copy_link)
-  　 *シミンズシーズが開催したまちまちゼミをきっかけに高校生7人と、2名のボランティアで始めました　 *
-  拠点は[基地ラボ](https://osm.org/go/56u9A9Rdd) 　　 \* Otohaneちゃん
+- 学生中心ボランティアチーム「かこそら隊」が発足しました！
+  - 2022年春に行う予定の天体観望会をはじめとして、加古川を中心に色々な活動をしていきます！
+  - 3月6日（日）第一回観望会を行う予定
+  - 活動状況はかこそら隊公式Instagramで!
+  - かこそら隊公式Instagram　[＠kacosora.0109](https://instagram.com/kacosora.0109?utm_medium=copy_link)
+    - シミンズシーズが開催したまちまちゼミをきっかけに高校生7人と、2名のボランティアで始めました
+    - 拠点は[基地ラボ](https://osm.org/go/56u9A9Rdd)
+      - Otohaneちゃん
 
 ## チャレンジ！オープンガバナンス２０２１受賞報告
 
@@ -72,21 +71,20 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
 
 ## かこフェス
 
-- 加古川 音楽フェス かこフェス kakofes KAKOGAWA MUSIC FES 2022:
-  <https://kakofes.com/>
+- 加古川 音楽フェス かこフェス kakofes KAKOGAWA MUSIC FES 2022: <https://kakofes.com/>
   - 3/20(日) 10:00 - 18:30 加古川河川敷　入場無料
 
 ## がま口制作中、出店します！（石本）
 
 - ４月２日、３日のロハスミーツ
-  <https://lohas-meets.info/about-lohas/lohas_meets_akashi/>
+  - <https://lohas-meets.info/about-lohas/lohas_meets_akashi/>
 - ７月３０日、３１日神戸ハンドメイドマルシェ
 - インスタアカウント　@rei.se.realiser
 
 ## Open History and Culture Map を作りました（坂ノ下）
 
 - ウクライナの文化や歴史を知るために作ったアプリ
-- ウクライナにも様々な歴史や文化があり、それを象徴する様々な建築物、記念碑、展示物などが存在しています。それらを地図に表示し、Wikipediaの説明を表示するWebアプリ「Open
-  History & Culture
-  Map」を開発しました。ウクライナに対する直接的な支援では無いけど、その街のことを知ることは、きっと無駄では無いと思います。
-  <https://armd-02.github.io/openhc-map/?fbclid=IwAR3x-Q_-mQNkaTtYM1rDcx2WDBhhxZ2Lm0Rs0IBr7peCn8t_IY9-LSbGRKQ#16/50.4510/30.5225>
+- ウクライナにも様々な歴史や文化があり、それを象徴する様々な建築物、記念碑、展示物などが存在しています。
+- それらを地図に表示し、Wikipediaの説明を表示するWebアプリ「Open History & Culture Map」を開発しました。
+- ウクライナに対する直接的な支援では無いけど、その街のことを知ることは、きっと無駄では無いと思います。
+  - <https://armd-02.github.io/openhc-map/?fbclid=IwAR3x-Q_-mQNkaTtYM1rDcx2WDBhhxZ2Lm0Rs0IBr7peCn8t_IY9-LSbGRKQ#16/50.4510/30.5225>

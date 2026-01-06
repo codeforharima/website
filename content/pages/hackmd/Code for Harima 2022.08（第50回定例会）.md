@@ -1,25 +1,23 @@
----
-title: Code for Harima 2022.08（第50回定例会）
-tags: [code for harima]
----
-
----
-
-robots: noindex, nofollow lang: ja breaks: true tags: code for harima
-
----
+Title: Code for Harima 2022.08（第50回定例会）
+Date: 2022-08-10 19:00:00
+Category: minutes
+Tags: 2022
+Summary:
+lang: ja
+Slug: 202208
+Save_as: history/202208.html
+Template: page
 
 # Code for Harima 2022.08（第50回定例会）
 
 - 2022/8/10(水) 19:00-21:00
-- 加古川 びぃぷらす /
-  [オンライン](https://meet.jit.si/moderated/bd70ef8bcc28a7e0ec4a862fbf1887d78bc0b897ffbaab011ceb3fcc51c097f3)
+- 加古川 びぃぷらす / [オンライン](https://meet.jit.si/moderated/bd70ef8bcc28a7e0ec4a862fbf1887d78bc0b897ffbaab011ceb3fcc51c097f3)
 - LINEアカウント: <https://liff.line.me/1645278921-kWRPP32q/?accountId=946ardlp>
-- 司会:野方
-- 参加者:水野、畑、石本、小市民、福田、坂之下
-- リモート:藤本
+- 司会: 野方
+- 参加者: 水野、畑、石本、小市民、福田、坂之下
+- リモート: 藤本
 - 次回開催: 2022年9月14日(水) 19:00-21:00
-- 開催場所：びぃぷらす
+- 開催場所： びぃぷらす
 - 過去の議事録：<https://hackmd.io/@codeforharima/ry3puSiOc>
 
 ## 運営連絡
@@ -33,7 +31,9 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
 - 場所：加古川商工会議所4階
 - URL：<https://stateofthemap.jp/>
 
-![](https://i.imgur.com/GJlwBC6.png) ![](https://i.imgur.com/9FPDDbI.png)
+![](https://i.imgur.com/GJlwBC6.png)
+
+![](https://i.imgur.com/9FPDDbI.png)
 
 - 実行委員長は誰にする？
   - 福田さんにお願いします。
@@ -105,4 +105,4 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
 - 国際フロンティア産業メッセ2022にて
 - 日時：9月1日～2日
 - [国際フロンティア産業メッセ2022](https://www.kobemesse.com/)
-  <https://www.kobemesse.com/>
+  - <https://www.kobemesse.com/>

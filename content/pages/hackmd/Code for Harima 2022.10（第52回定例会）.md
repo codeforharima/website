@@ -1,19 +1,17 @@
----
-title: Code for Harima 2022.10（第52回定例会）
-tags: [code for harima]
----
-
----
-
-robots: noindex, nofollow lang: ja breaks: true tags: code for harima
-
----
+Title: Code for Harima 2022.10（第52回定例会）
+Date: 2022-10-12 19:00:00
+Category: minutes
+Tags: 2022
+Summary:
+lang: ja
+Slug: 202210
+Save_as: history/202210.html
+Template: page
 
 # Code for Harima 2022.10（第52回定例会）
 
 - 2022/10/12(水) 19:00-21:00
-- 加古川 びぃぷらす /
-  [オンライン](https://meet.jit.si/moderated/ce1a4fea317748811af16f948ca18e2bbbca2e402fadf2dd4389dd3f29d0a512)
+- 加古川 びぃぷらす / [オンライン](https://meet.jit.si/moderated/ce1a4fea317748811af16f948ca18e2bbbca2e402fadf2dd4389dd3f29d0a512)
 - LINEアカウント: <https://liff.line.me/1645278921-kWRPP32q/?accountId=946ardlp>
 - 司会:野方
 - 参加者:石本、坂ノ下、福田、水野
@@ -30,7 +28,7 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
 ## 高砂市未来技術地域実装支援業務委託公募型プロポーザルの募集をしています（石本）
 
 - 高砂市未来技術地域実装支援業務委託公募型プロポーザルの募集／高砂市
-  <https://www.city.takasago.lg.jp/gyoseisite/shigoto_sangyo/nyusatsu_keiyaku/7/8149.html>
+  - <https://www.city.takasago.lg.jp/gyoseisite/shigoto_sangyo/nyusatsu_keiyaku/7/8149.html>
   - 結構タイトなスケジュールですね…
 
 ## 10/1 小野マッピングパーティー終了
