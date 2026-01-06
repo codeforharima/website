@@ -1,16 +1,20 @@
----
-title: Code for Harima 2023.12（第66回定例会）
-tags: [code for harima, 議事録]
----
+Title: Code for Harima 2023.12（第66回定例会）
+Date: 2023-12-12 19:00:00
+Category: minutes
+Tags: 2023
+Summary:
+lang: ja
+Slug: 202312
+Save_as: history/202312.html
+Template: page
 
 # Code for Harima 2023.12（第66回定例会）
 
 - 日時: 2023/12/12（火）19:00-20:00
-- 場所: [加古川びぃぷらす](https://bb-beplus.net/) /
-  [オンライン](https://meet.jit.si/moderated/3a2282c5b57153dfd6c418d85c90989dc97c186a4ba91025540c0e67d5e2a2b2)
+- 場所: [加古川びぃぷらす](https://bb-beplus.net/) / [オンライン](https://meet.jit.si/moderated/3a2282c5b57153dfd6c418d85c90989dc97c186a4ba91025540c0e67d5e2a2b2)
 - 議事録(HackMD): <https://hackmd.io/@codeforharima/HkJCBlwH6/edit>
-- 司会:野方
-- 参加者:水野、福田
+- 司会: 野方
+- 参加者: 水野、福田
 - リモート:
 - 次回開催: 2024年01月09日（火）19:00 - 21:00
 - 開催場所: びぃぷらす
@@ -18,10 +22,8 @@ tags: [code for harima, 議事録]
   - Instagram: <https://instagram.com/codeforharima>
   - Facebookページ: <https://facebook.com/codeforharima>
   - Facebookグループ: <https://www.facebook.com/groups/codeforharima>
-  - LINEアカウント:
-    <https://liff.line.me/1645278921-kWRPP32q/?accountId=946ardlp>
-  - Webサイト(過去の議事録含む):
-    <https://codeforharima.notion.site/Code-for-Harima-893bae4719f0496d998298ed91ce694a>
+  - LINEアカウント: <https://liff.line.me/1645278921-kWRPP32q/?accountId=946ardlp>
+  - Webサイト(過去の議事録含む): <https://codeforharima.notion.site/Code-for-Harima-893bae4719f0496d998298ed91ce694a>
 
 ## 運営連絡
 
@@ -29,20 +31,19 @@ tags: [code for harima, 議事録]
 - 播磨の情報なら参加者グループにどんどん投稿してくださいね！
   - <https://www.facebook.com/groups/codeforharima/>
 
-## OpenStreetMap Advent Calendar 2023(福田）
+## OpenStreetMap Advent Calendar 2023（福田）
 
 - オープンストリートマップ（OpenStreetMap）の2023年アドベントカレンダー。
 - 今年の振り返りや自己紹介など、内容は問いません。
 - ブログが無くてもこのQiitaやOpenStreetMapのユーザー日記､note、medium.comなどに記事を書いて登録することもできます。
-  <https://qiita.com/advent-calendar/2023/osmjp>
+  - <https://qiita.com/advent-calendar/2023/osmjp>
 
 ## 加古川の都市計画道路中津水足線が開通するのでマッピングしちゃいましょう！（水野）
 
 - 1月28日（日）加古川市加古川町中津にて新しい道路が開通します！
 - 車道として開通する前に、ウォーキングイベントが開催されます。
 - よかったら一緒に歩いて、早速地図に書いてみましょう！！
-  <https://www.city.kakogawa.lg.jp/soshikikarasagasu/kensetsubu/dorokensetsuka/41338.html>
-
+  - <https://www.city.kakogawa.lg.jp/soshikikarasagasu/kensetsubu/dorokensetsuka/41338.html>
 - 申込期限が12月15日までですが、希望者は水野まで連絡をください！！
 
 ## JOSMのAi活用方法

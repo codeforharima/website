@@ -1,31 +1,29 @@
----
-title: Code for Harima 2023.09（第63回定例会）
-tags: [code for harima]
----
-
----
-
-## robots: noindex, nofollow
+Title: Code for Harima 2023.09（第63回定例会）
+Date: 2023-09-12 19:00:00
+Category: minutes
+Tags: 2023
+Summary:
+lang: ja
+Slug: 202309
+Save_as: history/202309.html
+Template: page
 
 # Code for Harima 2023.09（第63回定例会）
 
 - 日時: 2023/9/12（火）19:00-21:00
-- 場所: [加古川びぃぷらす](https://bb-beplus.net/) /
-  [オンライン](https://meet.jit.si/opencoloursdestroynearby)
+- 場所: [加古川びぃぷらす](https://bb-beplus.net/) / [オンライン](https://meet.jit.si/opencoloursdestroynearby)
 - 議事録(HackMD): <https://hackmd.io/@codeforharima/ry_Gc-wC3/edit>
 - 司会: 野方
 - 参加者: 大前、堀、福井、前川、水野、ろみひ～、福田、高野
-- リモート:八木ちゃん、愛美ちゃん
+- リモート: 八木ちゃん、愛美ちゃん
 - 次回開催: 2023年10月10日（火）19:00 - 21:00
 - 開催場所: びぃぷらす
 - Webサイト
   - Instagram: <https://instagram.com/codeforharima>
   - Facebookページ: <https://facebook.com/codeforharima>
   - Facebookグループ: <https://www.facebook.com/groups/codeforharima>
-  - LINEアカウント:
-    <https://liff.line.me/1645278921-kWRPP32q/?accountId=946ardlp>
-  - Webサイト(過去の議事録含む):
-    <https://codeforharima.notion.site/Code-for-Harima-893bae4719f0496d998298ed91ce694a>
+  - LINEアカウント: <https://liff.line.me/1645278921-kWRPP32q/?accountId=946ardlp>
+  - Webサイト(過去の議事録含む): <https://codeforharima.notion.site/Code-for-Harima-893bae4719f0496d998298ed91ce694a>
 
 ## 運営連絡
 
@@ -49,14 +47,27 @@ tags: [code for harima]
 - 参加メンバーは野方、福田、水野が両日参加可能なので、開いている時間は皆さんドシドシお越しください。
 - かこラボフェスの事務局から以下のイベントの紹介がありました
 
-> ＼迷える子羊さん必見／　HINTOライブ～活動編～「実行して終了」で終わらない！次の展開に活かすHINTOライブ！
->
-> 東播磨地域で団体活動を展開し続けている方をゲストに迎え、活動発展についてあれやこれやと考えるトークセッションを開催します。
->
-> - ＜ゲスト＞▶️肥田 吉誉さん：河川敷イベント「kakoRe:Birth」会長▶️在間 夢乃さん：「ニュー⭐︎ハリマ」代表▶️岸田 毅志さん：NPO法人​ ビオラ 就労継続支援Ｂ型　代表▶️中野 虎依さん：受験生応援ボランティア団体 TRY　代表▶️梅田 千明さん：親子サークルUME　代表
-> - ＜イベント概要＞日時：9月30日（土）15：00～16：30場所：「かこむ」内たぱす料金：無料定員：先着40人申し込み方法：このメールに参加可否を返信ください！
->
-> イベントについてもっと詳しく知りたい方はこちら→<https://www.kacom.ws/230930-2/>
+```text
+＼迷える子羊さん必見／　HINTOライブ～活動編～　
+「実行して終了」で終わらない！次の展開に活かすHINTOライブ！
+
+東播磨地域で団体活動を展開し続けている方をゲストに迎え、
+活動発展についてあれやこれやと考えるトークセッションを開催します。
+
+* ＜ゲスト＞
+  ▶️肥田 吉誉さん：河川敷イベント「kakoRe:Birth」会長
+  ▶️在間 夢乃さん：「ニュー⭐︎ハリマ」代表
+  ▶️岸田 毅志さん：NPO法人​ ビオラ 就労継続支援Ｂ型　代表
+  ▶️中野 虎依さん：受験生応援ボランティア団体 TRY　代表
+  ▶️梅田 千明さん：親子サークルUME　代表
+* ＜イベント概要＞
+  日時：9月30日（土）15：00～16：30
+  場所：「かこむ」内たぱす
+  料金：無料
+  定員：先着40人
+  申し込み方法：このメールに参加可否を返信ください！
+  イベントについてもっと詳しく知りたい方はこちら→https://www.kacom.ws/230930-2/
+```
 
 ## たつの市さんからコラボレーションのお誘い（福井様、堀様）
 
@@ -64,9 +75,8 @@ tags: [code for harima]
   - DXを推進する中で、高校生や大学生をはじめ、共同で企画を運営できないか、とのこと。
   - 具体の内容はこれから・・・
   - たつの市ＤＸ推進基本方針は[こちら](https://www.city.tatsuno.lg.jp/dejitarusenryaku/documents/dxsuishinkihonhoushin.pdf)
-    *
-    <https://www.city.tatsuno.lg.jp/dejitarusenryaku/dxsuishinkihonhoushin.html>
-    * メールの返事
+    - <https://www.city.tatsuno.lg.jp/dejitarusenryaku/dxsuishinkihonhoushin.html>
+- メールの返事
   - できることは多くないですけど、協力する方向でＯＫと返事しています
 - 本日お二人いらっしゃってくださいました！
   - デジタル戦略官の紹介
@@ -79,7 +89,6 @@ tags: [code for harima]
 
 - 私が所属していた名古屋大学での事例集です（参考になればぜひ）
   - → <https://mdg.si.i.nagoya-u.ac.jp/2220-2/>
-
 - デジタル勉強会
   - 地元の中高生，シニア世代などを対象にした勉強会です
   - 大学生が講師となって，スマホの使い方，データ分析の方法などをレクチャーして一緒に取り組みます
@@ -100,18 +109,17 @@ tags: [code for harima]
 ## Code for Japanサミットの告知が始まっています
 
 - Code for Japan <https://www.code4japan.org/>
-- Civic Tech Fun! Fun!
-  Report! ［2023年8月］(<https://www.code4japan.org/news/civic-tech-fun-fun-report-2023-08>)
+- Civic Tech Fun! Fun! Report! [2023年8月](https://www.code4japan.org/news/civic-tech-fun-fun-report-2023-08)
 - 11月25日（土）　東京日比谷でのオフラインが決定！
 - Youtube Liveも実施されます。
 - イベントページ <https://cfjsummit2023.peatix.com/>
 
 ## 最近こんなことしたよ　byろみひ～
 
-*【第2回こどもの社会環境を考えるWORKSHOP】
-* 先日、兵庫県稲美町のくにおか公会堂にて不登校の支援団体さんの交流会しました
-*▽イベントレポート▽ <https://ropeth.com/2023/08/24/choice-event2/>
-* 参加者数は20名程、15歳の八木愛実ちゃんもお手伝いに来てもらいました。
+- 【第2回こどもの社会環境を考えるWORKSHOP】
+  - 先日、兵庫県稲美町のくにおか公会堂にて不登校の支援団体さんの交流会しました
+  - ▽イベントレポート▽ <https://ropeth.com/2023/08/24/choice-event2/>
+  - 参加者数は20名程、15歳の八木愛実ちゃんもお手伝いに来てもらいました。
 
 - 教育の未来を語り明かす会（ミラカタ）vol.6
   - 尼崎のユースセンターに行ってきました。教育関係の方は凄くプラスになるイベントなのでお勧めです。
@@ -119,12 +127,12 @@ tags: [code for harima]
   - 尼崎の大人の若者に対する暖かさや雰囲気の背景が知れて面白かったです。
 - 加古川経済新聞
   - オンラインフリースクールchoiceをご紹介いただきました✨
-  - 記事 <kakogawa.keizai.biz/headline/2624/>
+  - 記事 <https://kakogawa.keizai.biz/headline/2624/>
   - ラジオも相方のロペス君頑張ってくれました。
   - 以降の問い合わせが増えたので潜在的なニーズに対してのアプローチは難しいなと改めておもいました。
   - 最近だと場面緘黙、軽度の自閉症の子どもさんの相談があったりしました。
 
-## 大前くん就職決まりました
+## 大前くん就職決まりました！
 
 - 詳しくは本人に聞いてね！
 - 来年4月からおそらく大阪におられるとのことです
@@ -134,11 +142,10 @@ tags: [code for harima]
   - Openstreetmapで酒蔵マッピングも西宮でしていた
   - 富久錦の麹アイスが愛美ちゃんのおすすめ
 
-## AIでOpenStreetMapの地図が描ける
+ ## AIでOpenStreetMapの地図が描ける
 
 - JOSMというOpenStreetMapのエディタでAIで建物が書けるようになってました
   - <https://josm.openstreetmap.de/wiki/Help/Plugin/MapWithAI>
-
 - 試したら建物が一発で描けるが、出ないところもある
 - facebookのMetaが作った
   - Rapid Editor: <https://rapideditor.org/>

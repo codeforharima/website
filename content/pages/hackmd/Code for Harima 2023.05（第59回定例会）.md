@@ -1,14 +1,12 @@
----
-title: Code for Harima 2023.05（第59回定例会）
-tags: [code for harima]
----
-
----
-
-title: Code for Harima 2023.05（第59回定例会）robots: noindex, nofollow lang: ja
-breaks: true tags: code for harima
-
----
+Title: Code for Harima 2023.05（第59回定例会）
+Date: 2023-05-10 19:00:00
+Category: minutes
+Tags: 2023
+Summary:
+lang: ja
+Slug: 202305
+Save_as: history/202305.html
+Template: page
 
 # Code for Harima 2023.05（第59回定例会）
 
@@ -25,8 +23,7 @@ breaks: true tags: code for harima
   - Instagram: <https://instagram.com/codeforharima>
   - Facebookページ: <https://facebook.com/codeforharima>
   - Facebookグループ: <https://www.facebook.com/groups/codeforharima>
-  - LINEアカウント:
-    <https://liff.line.me/1645278921-kWRPP32q/?accountId=946ardlp>
+  - LINEアカウント: <https://liff.line.me/1645278921-kWRPP32q/?accountId=946ardlp>
   - Webサイト(過去の議事録含む):
     <https://codeforharima.notion.site/Code-for-Harima-893bae4719f0496d998298ed91ce694a>
 
@@ -37,16 +34,14 @@ breaks: true tags: code for harima
 - 来月は60回で5周年ですね
 - InstagramのアカウントとNotionでWebサイトできました！
   - Instagram: <https://instagram.com/codeforharima>
-  - Webサイト:
-    <https://codeforharima.notion.site/Code-for-Harima-893bae4719f0496d998298ed91ce694a>
-  - Instagramのフォローお願いします！
+  - Webサイト: <https://codeforharima.notion.site/Code-for-Harima-893bae4719f0496d998298ed91ce694a>
+    - Instagramのフォローお願いします！
   - Webサイトは過去ログの検索なども見やすくなったけれど、Webサイトとしての悩みも増えたので続きは下で
 
 ## NotionでCode for Harimaの議事録をWebで見られるようにしました（野方）
 
 - [Notion](https://www.notion.so/ja-jp/product)というドキュメントを整理して共有するサービスに5年分の議事録を取り込んでWebで見られるようにしました
-  - Webサイト:
-    <https://codeforharima.notion.site/Code-for-Harima-893bae4719f0496d998298ed91ce694a>
+  - Webサイト: <https://codeforharima.notion.site/Code-for-Harima-893bae4719f0496d998298ed91ce694a>
   - 大変だった…。その辺の話は[別にまとめました](https://hackmd.io/@codeforharima/SyQAbnx42)
 - HackMDはどうするの？
   - HackMDとNotionは役割が違うので、議事録は変わらずHackMDです
@@ -55,7 +50,6 @@ breaks: true tags: code for harima
   - 新規+ボタンを押す
   - 左端のツリーで「code for Harima」の下に入れたら公開される
   - 作成途中のときは、「code for Harima」と同列にしておけば良い
-  -
 
 ## Webサイトの整備をどうしましょ（野方）
 
@@ -63,19 +57,16 @@ breaks: true tags: code for harima
 
 1. ドメイン名をどうするか
    - URLがめっちゃ長いです
-     <https://codeforharima.notion.site/Code-for-Harima-893bae4719f0496d998298ed91ce694a>
+     - <https://codeforharima.notion.site/Code-for-Harima-893bae4719f0496d998298ed91ce694a>
    - 独自ドメインを取得してCloudflareのサービスを使えば短くできますがどうしましょ？
      - 参考：【無料で実現】Notionを「Cloudflare」で独自ドメイン化する方法:
-       <https://shin-hack.com/notion-domain/>
+       - <https://shin-hack.com/notion-domain/>
    - Cloudflareは無料枠で収まりますが、ドメインは購入する必要があります（ドメインは買い切りではなく更新が必要）
 2. Webサイトとしての体裁を整える必要がある
-   - Webサイトとして見られるようになったなら、会としてのCode for
-     Harimaの情報を整える必要がでてきました
+   - Webサイトとして見られるようになったなら、会としてのCode for Harimaの情報を整える必要がでてきました
    - お問い合わせとか行動規範、会としての基本情報を見られるようにしたりとか
-     - codeforharima/codeofconduct: Code for Harimaの行動規範です:
-       <https://github.com/codeforharima/codeofconduct>
-     - Noway Form - Notionでフォームやアンケートを作成:
-       <https://www.noway-form.com/ja>
+     - codeforharima/codeofconduct: Code for Harimaの行動規範です: <https://github.com/codeforharima/codeofconduct>
+     - Noway Form - Notionでフォームやアンケートを作成: <https://www.noway-form.com/ja>
    - たぶん、野方1人では無理だと思うので手伝って！
 
 ## 来月、5周年ですがなにしましょ？（のがた）

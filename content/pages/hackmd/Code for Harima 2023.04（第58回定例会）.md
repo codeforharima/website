@@ -1,19 +1,17 @@
----
-title: Code for Harima 2023.04（第58回定例会）
-tags: [code for harima]
----
-
----
-
-robots: noindex, nofollow lang: ja breaks: true tags: code for harima
-
----
+Title: Code for Harima 2023.04（第58回定例会）
+Date: 2023-04-12 19:00:00
+Category: minutes
+Tags: 2023
+Summary:
+lang: ja
+Slug: 202304
+Save_as: history/202304.html
+Template: page
 
 # Code for Harima 2023.04（第58回定例会）
 
 - 2023/4/12(水) 19:00-21:00
-- 加古川 びぃぷらす /
-  [オンライン](https://meet.jit.si/moderated/183d36d8ff5988cf31c957497ba6036a5cbe4a5b7045805b80e25f7773cd50bc)
+- 加古川 びぃぷらす / [オンライン](https://meet.jit.si/moderated/183d36d8ff5988cf31c957497ba6036a5cbe4a5b7045805b80e25f7773cd50bc)
 - LINEアカウント: <https://liff.line.me/1645278921-kWRPP32q/?accountId=946ardlp>
 - Facebookページ: <https://www.facebook.com/codeforharima>
 - 司会: 野方
@@ -33,8 +31,7 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
 - おつかれさまでした
 - 電気自動車Cpodから給電　<https://drive.google.com/file/d/1-7G2wc-Tg3rzrQ6r4yWpDG22qNfeuOrB/view?usp=sharing>
 - ゆるゆると出展
-- Code for
-  Harimaスタート時に石本さんが課題提案していた青年の家の除却からの芝生広場化を見届けた？ことに意義あり！！
+- Code for Harimaスタート時に石本さんが課題提案していた青年の家の除却からの芝生広場化を見届けた？ことに意義あり！！
 - 当日の写真 <https://photos.app.goo.gl/ADuqWHwx8tqdrjbJ6>
 
 ## そのほか、話題をどうぞ

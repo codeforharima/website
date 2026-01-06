@@ -1,27 +1,25 @@
----
-title: Code for Harima 2023.02（第56回定例会）
-tags: [code for harima]
----
-
----
-
-robots: noindex, nofollow lang: ja breaks: true tags: code for harima
-
----
+Title: Code for Harima 2023.02（第56回定例会）
+Date: 2023-02-08 19:00:00
+Category: minutes
+Tags: 2023
+Summary:
+lang: ja
+Slug: 202302
+Save_as: history/202302.html
+Template: page
 
 # Code for Harima 2023.02（第56回定例会）
 
 - 2023/2/8(水) 19:00-21:00
-- 加古川 びぃぷらす /
-  [オンライン](https://meet.jit.si/moderated/334d26f6242a7df0570074caa0c7400fa3f00f05aa0068fcd360b312100d73f6)
+- 加古川 びぃぷらす / [オンライン](https://meet.jit.si/moderated/334d26f6242a7df0570074caa0c7400fa3f00f05aa0068fcd360b312100d73f6)
 - LINEアカウント: <https://liff.line.me/1645278921-kWRPP32q/?accountId=946ardlp>
-- Facebookページジ:<https://www.facebook.com/codeforharima>
+- Facebookページ: <https://www.facebook.com/codeforharima>
 - 司会:水野
 - 参加者:石本、吉井、福田、吉川
 - リモート:野方
 - 次回開催: 2023年3月8日(水) 19:00-21:00
-- 開催場所：びぃぷらす
-- 過去の議事録：<https://hackmd.io/@codeforharima/ry3puSiOc>
+- 開催場所： びぃぷらす
+- 過去の議事録: <https://hackmd.io/@codeforharima/ry3puSiOc>
 
 ## 運営連絡
 
@@ -33,49 +31,67 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
 - COG結果が本日19時03分に届きました！
 - お知らせメールは長いですが、以下の通り
 
-> 【COG2022】一次審査結果のお知らせとお願い　COG事務局
->
-> アイデア：サイクリストが結ぶ「わくわく御縁高砂」プロモーションプラン
->
-> 応募送信者： Code for
-> Harima さま関連自治体：高砂市政策部経営企画室企画課 主幹（DX推進担当）石本　玲子 さま
->
-> この度は、チャレンジ！！オープンガバナンス（COG）2022の市民／学生の解決アイデア募集にご応募いただき、誠にありがとうございました。全国の 36 自治体における地域課題を対象として募集し、市民／学生から 60の解決アイデアの応募をいただきました。
->
-> COG2022審査委員会における一次審査の結果は以下のようになりました。（１）最終公開審査対象ファイナリスト 12 件（２）ミニプレゼン対象セミファイナリスト 10 件（３）ポスター展対象 20 件（４）ウェブサイト公開対象 18件貴チームのアイデアは「（３）ポスター展示対象」となりました。当日の視聴者によるオンライン投票がありますのでよろしくお願いいたします。アイデア段階は１里塚です。さらに磨いて実現してこそホンモノとなります。
->
-> 3月5日（日）は最終公開審査とともに並行イベントをハイブリッドで開催いたします。
->
-> （１）最終公開審査　ファイナリストのプレゼン・審査委員との質疑を経て受賞者決定
->
-> （２）並行イベント　① ファイナリストの中から協賛団体が独自に選ぶ賞を授与　② セミファイナリストによるミニプレゼン（オンライン）　③ 以下のカテゴリーで視聴者によるオンライン投票
->
-> 　　（A）ファイナリスト　　（B）セミファイナリスト　　（C）ポスター
->
-> オンライン投票のカテゴリー別のチーム名・アイデア名一覧と応募内容、チラシは下記のCOG2022[公式サイト](http://park.itc.u-tokyo.ac.jp/padit/cog2022/#primary)でご覧いただけます。
->
-> ★ポスター展示対象の方に以下のお願いがあります
->
-> ーーーーーーーーーーーーーーーーーーーーーー
->
-> ① 3月5日当日の オンライン視聴とオンライン投票申し込み【当日11時まで】
->
-> 　申込先：Peatix　<https://cog2022final.peatix.com>
->
-> COG最終公開イベントサイト：<http://park.itc.u-tokyo.ac.jp/padit/cog2022/#final>
->
-> オンライン視聴とオンライン投票申し込み：Peatix
-> <https://cog2022final.peatix.com>
->
-> ② 3月5日当日の視聴者オンライン投票のお願い
->
-> 当日は以下のカテゴリーで視聴者によるオンライン投票を行います。オンラインで実施しますのでぜひ投票にご参加ください。投票のURLは②のPeatixを通じて視聴を申し込まれた方に当日お知らせします。
->
-> （A）ファイナリスト（B）セミファイナリスト（C）ポスター
->
-> ーーーーーーーーーーーーーーーーーーーーーー
->
-> ![](https://i.imgur.com/ru6G5Ev.jpg)
+```text
+【COG2022】一次審査結果のお知らせとお願い　COG事務局
+
+アイデア：サイクリストが結ぶ「わくわく御縁高砂」プロモーションプラン
+
+応募送信者：  Code for Harima さま
+関連自治体：高砂市政策部経営企画室企画課 主幹（DX推進担当）石本　玲子 さま
+
+この度は、チャレンジ！！オープンガバナンス（COG）2022の市民／学生の解決アイデア募集にご応募いただき、誠にありがとうございました。
+全国の 36 自治体における地域課題を対象として募集し、市民／学生から 60の解決アイデアの応募をいただきました。
+
+COG2022審査委員会における一次審査の結果は以下のようになりました。
+（１）最終公開審査対象ファイナリスト 12 件
+（２）ミニプレゼン対象セミファイナリスト 10 件
+（３）ポスター展対象  20 件
+（４）ウェブサイト公開対象 18件
+貴チームのアイデアは「（３）ポスター展示対象」となりました。
+当日の視聴者によるオンライン投票がありますのでよろしくお願いいたします。
+アイデア段階は１里塚です。さらに磨いて実現してこそホンモノとなります。
+
+3月5日（日）は最終公開審査とともに並行イベントをハイブリッドで開催いたします。
+
+（１）最終公開審査　ファイナリストのプレゼン・審査委員との質疑を経て受賞者決定
+
+（２）並行イベント
+　① ファイナリストの中から協賛団体が独自に選ぶ賞を授与
+　② セミファイナリストによるミニプレゼン（オンライン）
+　③ 以下のカテゴリーで視聴者によるオンライン投票
+
+　　（A）ファイナリスト
+　　（B）セミファイナリスト
+　　（C）ポスター
+
+オンライン投票のカテゴリー別のチーム名・アイデア名一覧と応募内容、チラシは下記のCOG2022[公式サイト](http://park.itc.u-tokyo.ac.jp/padit/cog2022/#primary)でご覧いただけます。
+
+★ポスター展示対象の方に以下のお願いがあります
+
+ーーーーーーーーーーーーーーーーーーーーーー
+
+① 3月5日当日の オンライン視聴とオンライン投票申し込み【当日11時まで】
+
+　申込先：Peatix　https://cog2022final.peatix.com
+
+COG最終公開イベントサイト：http://park.itc.u-tokyo.ac.jp/padit/cog2022/#final
+
+オンライン視聴とオンライン投票申し込み：Peatix https://cog2022final.peatix.com　　　　
+
+②  3月5日当日の視聴者オンライン投票のお願い
+
+当日は以下のカテゴリーで視聴者によるオンライン投票を行います。
+オンラインで実施しますのでぜひ投票にご参加ください。
+投票のURLは②のPeatixを通じて視聴を申し込まれた方に当日お知らせします。
+
+（A）ファイナリスト
+（B）セミファイナリスト
+（C）ポスター
+
+ーーーーーーーーーーーーーーーーーーーーーー
+```
+
+![](https://i.imgur.com/ru6G5Ev.jpg)
 
 ## 3月25日の向島フェスタについて
 
@@ -87,12 +103,14 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
 ## オープンデータデイどうしましょ？
 
 - 今年のオープンデータデイは、2023/3/4〜10の間のどれか
-- みなさんへの招待状 — Open Data Day: <https://opendataday.org/ja/>
+- みなさんへの招待状 — Open Data Day: https://opendataday.org/ja/
 - 来月(3月)の定例会を8時までにして、9時までオープンデータデイのイベントとしてマッピングをする
 
 ## 高砂市内の自転車事故発生個所まとめてみた
 
-兵庫県オープンデータカタログより引用項目として
+兵庫県オープンデータカタログより引用
+
+項目として
 
 1. 事故内容
 2. 死者数
@@ -101,7 +119,7 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
 5. 市区町
 6. 発生年月日
 7. 発生時間
-8. 昼夜（薄暮(日没後)、薄暮(日没前)、夜、日中、明け方(日の出後)）
+8. 昼夜（薄暮(日没後)、薄暮(日没前)、夜、日中、明け方(日の出後)）　
 9. 曜日
 10. 天候（晴、曇、雨）
 11. 路面状態（乾燥、凍結、湿潤）
@@ -109,19 +127,19 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
 13. 信号機
 14. 道路線形（直線(平坦)、直線(上り)、カーブ・屈折(左・上り)、カーブ・屈折(右・平坦)、直線(下り)、一般交通の場所）
 
-発生時刻別に色分けしています。 ![](https://i.imgur.com/235Z6mN.jpg)
+発生時刻別に色分けしています。
+
+![](https://i.imgur.com/235Z6mN.jpg)
 
 - QGISのMapillaryプラグイン
   - <https://plugins.qgis.org/plugins/tags/mapillary/>
 - QGISでMapillaryが使えませんか?という質問。これを参考にしたらいいかな?
-  - openstreetmap - Is it possible to view Mapillary photos on QGIS? -
-    Geographic Information Systems Stack Exchange:
-    <https://gis.stackexchange.com/questions/198333/is-it-possible-to-view-mapillary-photos-on-qgis>
+  - openstreetmap - Is it possible to view Mapillary photos on QGIS? - Geographic Information Systems Stack Exchange: <https://gis.stackexchange.com/questions/198333/is-it-possible-to-view-mapillary-photos-on-qgis>
 
-- JOSMプラグイン（道路舗装） <https://hackmd.io/@hirof1/SJKOYBzii>
+- JOSMプラグイン（道路舗装）
+  - <https://hackmd.io/@hirof1/SJKOYBzii>
 
 ## 6月で５周年
 
 - 6/14(水)です
 - パーティしましょう
--

@@ -1,27 +1,29 @@
----
-title: Code for Harima 2023.11（第65回定例会）
-tags: [code for harima]
----
+Title: Code for Harima 2023.11（第65回定例会）
+Date: 2023-11-14 19:00:00
+Category: minutes
+Tags: 2023
+Summary:
+lang: ja
+Slug: 202311
+Save_as: history/202311.html
+Template: page
 
 # Code for Harima 2023.11（第65回定例会）
 
 - 日時: 2023/11/14（火）19:00-21:00
-- 場所: [加古川びぃぷらす](https://bb-beplus.net/) /
-  [オンライン](https://meet.jit.si/moderated/289c89231cdc1d0eeb9ea822451f2bd57a384d3f75725148c4199c419cc32ae3)
+- 場所: [加古川びぃぷらす](https://bb-beplus.net/) / [オンライン](https://meet.jit.si/moderated/289c89231cdc1d0eeb9ea822451f2bd57a384d3f75725148c4199c419cc32ae3)
 - 議事録(HackMD): <https://hackmd.io/@codeforharima/BJ6e3Hqma/edit>
-- 司会:水野
-- 参加者:福田、若松、石本
-- リモート:大前、野方、ろみひ～
+- 司会: 水野
+- 参加者: 福田、若松、石本
+- リモート: 大前、野方、ろみひ～
 - 次回開催: 2023年12月11日（火）19:00 - 21:00
 - 開催場所: びぃぷらす
 - Webサイト
   - Instagram: <https://instagram.com/codeforharima>
   - Facebookページ: <https://facebook.com/codeforharima>
   - Facebookグループ: <https://www.facebook.com/groups/codeforharima>
-  - LINEアカウント:
-    <https://liff.line.me/1645278921-kWRPP32q/?accountId=946ardlp>
-  - Webサイト(過去の議事録含む):
-    <https://codeforharima.notion.site/Code-for-Harima-893bae4719f0496d998298ed91ce694a>
+  - LINEアカウント: <https://liff.line.me/1645278921-kWRPP32q/?accountId=946ardlp>
+  - Webサイト(過去の議事録含む): <https://codeforharima.notion.site/Code-for-Harima-893bae4719f0496d998298ed91ce694a>
 
 ## 運営連絡
 
@@ -31,15 +33,15 @@ tags: [code for harima]
 
 ## 稲美町で調査した植物をデータ化できないか（若松）
 
-\* 植物、歴史が好きで、万葉の和歌に出てくる植物をため池ごとに取材した方が友人でおられるが、データで可視化できないか？？
-
+- 植物、歴史が好きで、万葉の和歌に出てくる植物をため池ごとに取材した方が友人でおられるが、データで可視化できないか？？
 - できる！
-  *[遊具のある公園マップ](https://armd-02.github.io/Playgrounds)をカスタマイズできるのではないか？
-  * どこまでカスタマイズ出来るのか調査が必要 \* foliumを使うとわりとカスタマイズした地図が作れます
-  - <https://nogajun.codeberg.page/>
-  - こういうものが作れます *
-    <https://www.kkaneko.jp/pro/folium/foliumimages.html>
-    * 地図を作るなら季節があると面白そう
+  - [遊具のある公園マップ](https://armd-02.github.io/Playgrounds)をカスタマイズできるのではないか？
+  - どこまでカスタマイズ出来るのか調査が必要
+    - foliumを使うとわりとカスタマイズした地図が作れます
+    - <https://nogajun.codeberg.page/>
+  - こういうものが作れます
+    - <https://www.kkaneko.jp/pro/folium/foliumimages.html>
+    - 地図を作るなら季節があると面白そう
 
 ## オープンデータデーにオープンデータソンできればいいな（水野）
 
@@ -60,7 +62,6 @@ tags: [code for harima]
 簡易調査ではあるのですが，私の周りはどうしても属性が偏りがちなので，とにかく数が欲しいという状況です。お知り合いの皆様にもぜひご紹介いただき，ご回答いただけますと幸いです。
 
 - <https://forms.gle/ntzomg8q8SmUF1iB7> （締切は11月末ごろを想定しています）
-
 - Androidの緊急通報機能の解説
   - <https://www.android.com/intl/ja_jp/articles/36/>
 
@@ -72,7 +73,6 @@ tags: [code for harima]
     - 15:05-15:20 シビックテックは生活困窮問題に何ができるか
     - 16:20-16:35 NPO×IT 〜NPOのIT活用をともに考える
     - 17:10-17:25 循環型エコポイントもりポ×ソーシャルハックデー〜シビックテック開発の事例紹介〜（仮）
-
 - グラフィックレコーディングとは​
 
 ## ろみひ～から
@@ -85,8 +85,7 @@ tags: [code for harima]
 
 ## 姫路市オープンデータカタログサイトが姫路市・播磨圏域連携中枢都市圏オープンデータカタログサイトになってた(野方)
 
-- 姫路市・播磨圏域連携中枢都市圏オープンデータカタログサイト:
-  <https://city.himeji.gkan.jp/gkan/>
+- 姫路市・播磨圏域連携中枢都市圏オープンデータカタログサイト: <https://city.himeji.gkan.jp/gkan/>
   - [高砂市とか入ってるし](https://city.himeji.gkan.jp/gkan/organization/takasago)
   - [姫路市の2020年の航空写真公開してるし](https://city.himeji.gkan.jp/gkan/dataset/k1000)
     - どういうこっちゃー！はよ、教えてください
@@ -125,13 +124,11 @@ tags: [code for harima]
 
 - 場所: [生石研修センター](https://www.fureainosato-ooshiko.or.jp/)
 - 石本さんが参加されます
-- <https://www.irischitose.co.jp/blog/column/graphic_recording/>
+  - <https://www.irischitose.co.jp/blog/column/graphic_recording/>
 
 ![IMG_1066](https://hackmd.io/_uploads/rJC7ZJ-ET.jpg)
 
 ## たかさごじょうとんバスに乗って土木遺産認定記念「向島突堤」を見に行こう（福田）
 
-\* <https://committees.jsce.or.jp/heritage/taxonomy/term/37>
-
-- 申込みページは
-  <https://www.city.takasago.lg.jp/soshikikarasagasu/toshiseisakuka/doro_kotsu/1/9634.html>
+- <https://committees.jsce.or.jp/heritage/taxonomy/term/37>
+- 申込みページは <https://www.city.takasago.lg.jp/soshikikarasagasu/toshiseisakuka/doro_kotsu/1/9634.html>

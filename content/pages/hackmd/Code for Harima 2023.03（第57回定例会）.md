@@ -1,26 +1,24 @@
----
-title: Code for Harima 2023.03（第57回定例会）
-tags: [code for harima]
----
-
----
-
-robots: noindex, nofollow lang: ja breaks: true tags: code for harima
-
----
+Title: Code for Harima 2023.03（第57回定例会）
+Date: 2023-03-08 19:00:00
+Category: minutes
+Tags: 2023
+Summary:
+lang: ja
+Slug: 202303
+Save_as: history/202303.html
+Template: page
 
 # Code for Harima 2023.03（第57回定例会）
 
 - 2023/3/8(水) 19:00-21:00
-- 加古川 びぃぷらす /
-  [オンライン](https://meet.jit.si/moderated/183d36d8ff5988cf31c957497ba6036a5cbe4a5b7045805b80e25f7773cd50bc)
+- 加古川 びぃぷらす / [オンライン](https://meet.jit.si/moderated/183d36d8ff5988cf31c957497ba6036a5cbe4a5b7045805b80e25f7773cd50bc)
 - LINEアカウント: <https://liff.line.me/1645278921-kWRPP32q/?accountId=946ardlp>
 - Facebookページ:<https://www.facebook.com/codeforharima>
-- 司会:野方
-- 参加者:福田、水野、筒井、石本、高野
-- リモート:カズさん
+- 司会: 野方
+- 参加者: 福田、水野、筒井、石本、高野
+- リモート: カズさん
 - 次回開催: 2023年4月12日(水) 19:00-21:00
-- 開催場所：びぃぷらす
+- 開催場所： びぃぷらす
 - 過去の議事録：<https://hackmd.io/@codeforharima/ry3puSiOc>
 
 ## 運営連絡
@@ -38,11 +36,10 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
 
 - 3月末をもって協議会解散が決まったそうです
 - 2月14日（火）の石本さんの講演、Code for Harimaのお話もあった
-- 県域の高度情報化を推進するため、昭和59年11月に設立され、普通会員(団体及び企業)と特別会員(学識経験者等)の構成により、産・官・学・民が一体となってICT(Imformation
-  & Communication & Technology)にかかる様々な活動をしています
+- 県域の高度情報化を推進するため、昭和59年11月に設立され、普通会員(団体及び企業)と特別会員(学識経験者等)の構成により、産・官・学・民が一体となってICT(Imformation & Communication & Technology)にかかる様々な活動をしています
 - 今週最後のサロンが開催される予定
 
-## 3月25日向島フェスタ出展について
+## 3月25日 向島フェスタ出展について
 
 - 10時から10時半に集まる→キッチンカーがたくさん来るのでお楽しみくださいとのこと
 - 機材の持ち込み: モニター、スピーカー、黒板とか？
@@ -52,18 +49,16 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
   - 当日、データを見せながら何が悪いと市民の方は思っているのかアンケートを取ってデータを取る
   - 芦屋市でもやったことがあって、ミエルネさんのアドバイスはヒートマップで見せると赤くなるのがいいと思うということだった
   - QGIS使ってHTMLに書き出すプラグインでQGIS2Webがあるのでこれを使うと展示用のものを作りやすいかも
-    - 上司に「ひなたGISみたいなの午後までに作って」と言われた時のために - Qiita
-      <https://qiita.com/Yfuruchin/items/9f466d4bedcb5bda3038>
-    - qgis2web — QGIS Python Plugins Repository
-      <https://plugins.qgis.org/plugins/qgis2web/>
+    - 上司に「ひなたGISみたいなの午後までに作って」と言われた時のために - Qiita: <https://qiita.com/Yfuruchin/items/9f466d4bedcb5bda3038>
+    - qgis2web — QGIS Python Plugins Repository: <https://plugins.qgis.org/plugins/qgis2web/>
     - プラグインから「qgis2web」で検索すれば出てきます。使い方は、登録されたアイコンを押してポチポチやればHTMLに出せます。
     - で、ブラウザだけ起動して見せることができます
-- 第４回むこうじまフェスタのページがまだなので、更新できたらCode for
-  Harimaのフェイスブックとラインで告知 <https://mukoujima-park.com/>
-
+- 第４回むこうじまフェスタのページがまだなので、更新できたらCode for Harimaのフェイスブックとラインで告知 <https://mukoujima-park.com/>
 - 当日のブース「石本ブース」ｗｗ
-  [![](https://i.imgur.com/A5lpQyG.jpg) ](https://)
-- 高砂市がQgis使いたくなったら筒井さんが地域情報化アドバイザーとして訪問可能
+
+![](https://i.imgur.com/A5lpQyG.jpg)
+
+- 高砂市がQGIS使いたくなったら筒井さんが地域情報化アドバイザーとして訪問可能
 
 ## One by one　の補助事業として防災マッピングパーティー（福田）
 
@@ -72,12 +67,13 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
 
 ## 兵庫大学プロジェクト実践においてOSMを使ったまちづくり（高野）
 
-- 観光や防災のマッピングを活用したまちづくりを提案したので、参加希望の学生さんがいたらコラボイベントを開催したい　　\* よろこんで！
+- 観光や防災のマッピングを活用したまちづくりを提案したので、参加希望の学生さんがいたらコラボイベントを開催したい
+  - よろこんで！
 
 ## State of the map派生イベント（筒井）
 
-*[ストロリー](https://stroly.com/ja)とOSMを重ねてみようというイベント
-* たつの市でgood stock さんがマッピングに興味があるとのこと
+- [ストロリー](https://stroly.com/ja)とOSMを重ねてみようというイベント
+- たつの市でgood stock さんがマッピングに興味があるとのこと
 
 ## オープンデータのサイト
 

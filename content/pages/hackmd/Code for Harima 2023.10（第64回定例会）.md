@@ -1,27 +1,29 @@
----
-title: Code for Harima 2023.10（第64回定例会）
-tags: [code for harima]
----
+Title: Code for Harima 2023.10（第64回定例会）
+Date: 2023-10-10 19:00:00
+Category: minutes
+Tags: 2023
+Summary:
+lang: ja
+Slug: 202310
+Save_as: history/202310.html
+Template: page
 
 # Code for Harima 2023.10（第64回定例会）
 
 - 日時: 2023/10/10（火）19:00-21:00
-- 場所: [加古川びぃぷらす](https://bb-beplus.net/) /
-  [オンライン](https://meet.jit.si/moderated/3fddff478ae22886a143a527a3208f37bb2b505e77adecc5fe65bff6cca7a6db)
+- 場所: [加古川びぃぷらす](https://bb-beplus.net/) / [オンライン](https://meet.jit.si/moderated/3fddff478ae22886a143a527a3208f37bb2b505e77adecc5fe65bff6cca7a6db)
 - 議事録(HackMD): <https://hackmd.io/@codeforharima/B1ptTJwgT/edit>
-- 司会 野方
-- 参加者:ろみひ～、石本、畑、前川、福田、水野、高野、坂ノ下、吉川
-- リモート:井上、
+- 司会: 野方
+- 参加者: ろみひ～、石本、畑、前川、福田、水野、高野、坂ノ下、吉川
+- リモート: 井上、
 - 次回開催: 2023年11月14日（火）19:00 - 21:00
 - 開催場所: びぃぷらす
 - Webサイト
   - Instagram: <https://instagram.com/codeforharima>
   - Facebookページ: <https://facebook.com/codeforharima>
   - Facebookグループ: <https://www.facebook.com/groups/codeforharima>
-  - LINEアカウント:
-    <https://liff.line.me/1645278921-kWRPP32q/?accountId=946ardlp>
-  - Webサイト(過去の議事録含む):
-    <https://codeforharima.notion.site/Code-for-Harima-893bae4719f0496d998298ed91ce694a>
+  - LINEアカウント: <https://liff.line.me/1645278921-kWRPP32q/?accountId=946ardlp>
+  - Webサイト(過去の議事録含む):  <https://codeforharima.notion.site/Code-for-Harima-893bae4719f0496d998298ed91ce694a>
 
 ## 運営連絡
 
@@ -40,18 +42,14 @@ tags: [code for harima]
   - 交通事故のヒートマップが親子連れの食いつきがよかった
 - 仕事でお年寄りのための地図を作成するのだけど、どういう物を使ったらいい?という相談があった
   - 拡大してかつ大きく出したいそうで、そういうものはどういう物があるという話とか
-    - OSM on Paper - OpenStreetMap Wiki:
-      <https://wiki.openstreetmap.org/wiki/OSM_on_Paper>
-- 姫路でCoder Dojoみたいなことしたいけれど、姫路でやってたCode
-  Dojoどうなっているんですかね?という相談
+    - OSM on Paper - OpenStreetMap Wiki: <https://wiki.openstreetmap.org/wiki/OSM_on_Paper>
+- 姫路でCoder Dojoみたいなことしたいけれど、姫路でやってたCoder Dojoどうなっているんですかね?という相談
   - 姫路でもなにかしますかね
-    - 初めまして、「姫路でやってたCode
-      Dojoどうなっているんですかね?」と突然Kaco-LABにお邪魔した井上です。本日、飛び入りで参加させていただいています。よろしくお願いいたします。
+    - 初めまして、「姫路でやってたCoder Dojoどうなっているんですかね?」と突然Kaco-LABにお邪魔した井上です。本日、飛び入りで参加させていただいています。よろしくお願いいたします。
     - ぜひ井上さん、企画をお願いします！！
-    - これをベースに1回/月、CoderDojoもどきができればと...(井上）
+    - これをベースに1回/月、CoderDojoもどきができればと...（井上）
       - まちライブラリー@縁側ベース　<https://machi-library.org/where/detail/9078/>
         [instagram](https://www.instagram.com/library.engawabase/)
-
 - 当日の[写真](https://drive.google.com/drive/folders/1-I37pX5d7pq8WyQa5fImZoRQH34fVqQT)
 
 ## かこLabo会員になったので、サービス自由に使えます
@@ -68,12 +66,10 @@ tags: [code for harima]
 - ことの発端は、学生さんがお年寄りが集える拠点が作れないかとのお話
   - 高齢者だけが集まる場所でなくてもいいのではないかという話となる。
   - いろんな方が集えるイベントを定期的に開催しているのがKaku°さん
-  - Kaku°：[instagram](https://instagram.com/kakudocafegallery?igshid=NTc4MTIwNjQ2YQ==)
+  - Kaku°：[instagram](https://instagram.com/kakudocafegallery)
 - スマホでOpenStreetMapに登録できるものってありますか?
-  - Everydoor:
-    <https://play.google.com/store/apps/details?id=info.zverev.ilya.every_door>
-  - 十三アートマップ:
-    <https://armd-02.github.io/JusoArtFes2022/?category=%E3%82%A2%E3%83%BC%E3%83%88#17/34.71957/135.48277>
+  - Everydoor: <https://play.google.com/store/apps/details?id=info.zverev.ilya.every_door>
+  - 十三アートマップ: <https://armd-02.github.io/JusoArtFes2022/?category=%E3%82%A2%E3%83%BC%E3%83%88#17/34.71957/135.48277>
 
 ## オンラインフリースクールchoiceの最近あった事
 
@@ -89,15 +85,14 @@ tags: [code for harima]
 - 駐車場ってありますか？？？　byろみひ～←ないんです。可能であればコミセン（中で200円のコインを買うシステムです）の駐車場で！
 - 10/15(日)14:00-16:00　研究所でおしゃべりする会をします。遊びにきてください。
 - 10/29(日)12:00-15:00（仮）ためまっぷをつまみに語る会
-  - 　[ためまっぷ](https://www.tamemap.net/)
+  - [ためまっぷ](https://www.tamemap.net/)
   - [ためまっぷたかさご](https://pc.tamemap.net/2821601/custom_map/map?lat=34.7733447592274&lng=134.78971481323242&level=5000&locale=ja)
-- 11/25(土)
-  [code for Japan summit 2023](https://summit2023.code4japan.org/)にてグラフィック・レコーディングチームで参加します。
+- 11/25(土) [code for Japan summit 2023](https://summit2023.code4japan.org/)にてグラフィック・レコーディングチームで参加します。
 
 ## Hyogo昔語、夢語り（告知）
 
 - Code for Kobe さんのイベントです
-  <https://www.facebook.com/events/350017834029751>
+  - <https://www.facebook.com/events/350017834029751>
 - 飲み会だと思いますが興味があれば！
 
 ## ファシリテーター吉川さんからのお知らせ
@@ -106,7 +101,7 @@ tags: [code for harima]
 
 ## オープンデータソンやります（坂ノ下）
 
-- 松原市[HP](https://www.city.matsubara.lg.jp/bunka/bunkazai/1/19492.html)
+- [松原市HP](https://www.city.matsubara.lg.jp/bunka/bunkazai/1/19492.html)
 - 津山市も予定あり
 
 ## 遊具のある公園マップ（坂ノ下）

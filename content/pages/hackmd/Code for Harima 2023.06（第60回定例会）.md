@@ -1,23 +1,20 @@
----
-title: Code for Harima 2023.06（第60回定例会）
-tags: [code for harima]
----
-
----
-
-title: Code for Harima 2023.06（第60回定例会）robots: noindex, nofollow lang: ja
-breaks: true tags: code for harima
-
----
+Title: Code for Harima 2023.06（第60回定例会）
+Date: 2023-06-14 19:00:00
+Category: minutes
+Tags: 2023
+Summary:
+lang: ja
+Slug: 202306
+Save_as: history/202306.html
+Template: page
 
 # Code for Harima 2023.06（第60回定例会）
 
 - 日時: 2023/6/14（水）19:00-21:00
-- 場所: [加古川びぃぷらす](https://bb-beplus.net/) /
-  [オンライン](https://meet.jit.si/moderated/bb9b5d73e3bd5768c85a14ebec003b6d43ee4b2434145db2117bdbc3cd468343)
+- 場所: [加古川びぃぷらす](https://bb-beplus.net/) / [オンライン](https://meet.jit.si/moderated/bb9b5d73e3bd5768c85a14ebec003b6d43ee4b2434145db2117bdbc3cd468343)
 - 議事録(HackMD): <https://hackmd.io/@codeforharima/SJKW_BkN2/edit>
 - 司会: 野方
-- 参加者:　福田、高野、石本、畑、小山、栗林、栗本、園田、加古川の小市民さん、水野、吉川、茅野
+- 参加者: 福田、高野、石本、畑、小山、栗林、栗本、園田、加古川の小市民さん、水野、吉川、茅野
 - リモート:
 - 次回開催: 2023年7月12日（水）19:00-21:00
 - 開催場所: びぃぷらす
@@ -25,13 +22,9 @@ breaks: true tags: code for harima
   - Instagram: <https://instagram.com/codeforharima>
   - Facebookページ: <https://facebook.com/codeforharima>
   - Facebookグループ: <https://www.facebook.com/groups/codeforharima>
-  - LINEアカウント:
-    <https://liff.line.me/1645278921-kWRPP32q/?accountId=946ardlp>
-  - Webサイト(過去の議事録含む):
-    <https://codeforharima.notion.site/Code-for-Harima-893bae4719f0496d998298ed91ce694a>
+  - LINEアカウント: <https://liff.line.me/1645278921-kWRPP32q/?accountId=946ardlp>
+  - Webサイト(過去の議事録含む): <https://codeforharima.notion.site/Code-for-Harima-893bae4719f0496d998298ed91ce694a>
 
 ## 今日は60回の記念パーティーです
 
-やっぱり書くのは難しい
-
-## （吉川）
+- やっぱり書くのは難しい

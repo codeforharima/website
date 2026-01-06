@@ -1,3 +1,13 @@
+Title: Code for Harima 2023.01（第55回定例会）
+Date: 2023-01-11 19:00:00
+Category: minutes
+Tags: 2023
+Summary:
+lang: ja
+Slug: 202301
+Save_as: history/202301.html
+Template: page
+
 ---
 title: Code for Harima 2024.1（第67回定例会）
 tags: [code for harima]

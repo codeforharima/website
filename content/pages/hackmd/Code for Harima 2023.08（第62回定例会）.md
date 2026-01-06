@@ -1,31 +1,27 @@
----
-title: Code for Harima 2023.08（第62回定例会）
-tags: [code for harima]
----
-
----
-
-## robots: noindex, nofollow
-
-# Code for Harima 2023.08（第62回定例会）
+Title: Code for Harima 2023.08（第62回定例会）
+Date: 2023-08-09 19:00:00
+Category: minutes
+Tags: 2023
+Summary:
+lang: ja
+Slug: 202308
+Save_as: history/202308.html
+Template: page
 
 - 日時: 2023/8/9（水）19:00-21:00
-- 場所: [加古川びぃぷらす](https://bb-beplus.net/) /
-  [オンライン](https://meet.jit.si/moderated/bebb65f23732d5243818f3015bb6952d93cebc17af1458dd8e764b501bff14cd)
+- 場所: [加古川びぃぷらす](https://bb-beplus.net/) / [オンライン](https://meet.jit.si/moderated/bebb65f23732d5243818f3015bb6952d93cebc17af1458dd8e764b501bff14cd)
 - 議事録(HackMD): <https://hackmd.io/@codeforharima/ByaUvaDj3/edit>
-- 司会:野方
-- 参加者:水野、福田、八木、まなみ、ろみひー、前川、畑
-- リモート:坂ノ下
+- 司会: 野方
+- 参加者: 水野、福田、八木、まなみ、ろみひー、前川、畑
+- リモート: 坂ノ下
 - 次回開催: 2023年9月12日（火）19:00 - 21:00
 - 開催場所: びぃぷらす
 - Webサイト
   - Instagram: <https://instagram.com/codeforharima>
   - Facebookページ: <https://facebook.com/codeforharima>
   - Facebookグループ: <https://www.facebook.com/groups/codeforharima>
-  - LINEアカウント:
-    <https://liff.line.me/1645278921-kWRPP32q/?accountId=946ardlp>
-  - Webサイト(過去の議事録含む):
-    <https://codeforharima.notion.site/Code-for-Harima-893bae4719f0496d998298ed91ce694a>
+  - LINEアカウント: <https://liff.line.me/1645278921-kWRPP32q/?accountId=946ardlp>
+  - Webサイト(過去の議事録含む): <https://codeforharima.notion.site/Code-for-Harima-893bae4719f0496d998298ed91ce694a>
 
 ## 運営連絡
 
@@ -34,7 +30,6 @@ tags: [code for harima]
 - 次回から第2火曜日に活動日を変更する件について
   - 承認！！
   - 次回は9月12日（火）19：00〜21：00
-
 - 会場のびぃぷらすさんよりフォトコンテストの応募をお願いします！とのこと
   - 投票の多かった写真が来年のカレンダーになります。
   - 投票してくださった方には、ボールペンプレゼント
@@ -59,8 +54,7 @@ tags: [code for harima]
 
 ## OpenStreetMap 19回目のお誕生日（福田）
 
-- 2023年は、プロジェクトの誕生日であるOpenStreetMap
-  19 周年記念誕生日パーティーが、2023年8月9日かその前後に世界中の都市でお祝い開催中。
+- 2023年は、プロジェクトの誕生日であるOpenStreetMap 19 周年記念誕生日パーティーが、2023年8月9日かその前後に世界中の都市でお祝い開催中。
   - <https://wiki.openstreetmap.org/wiki/OpenStreetMap_19th_Anniversary_Birthday_party>
   - 阪急京都線相川駅で11日山の日に記念マッピングパーティー
   - OSMとは、地図版のWikipediaと言われている
@@ -70,7 +64,7 @@ tags: [code for harima]
 
 - Googleマップで不登校支援団体のマッピングマップ作ってみた
   - <https://www.google.com/maps/d/edit?mid=1bEmGYNB1Hh38XZUDJQvL528jI7AHv0k&usp=sharing>
-    こんな風にしたらもっと良いよとかアドバイスあればありがたいです
+  - こんな風にしたらもっと良いよとかアドバイスあればありがたいです
 - 8/24　10-12時で不登校支援団体さんの交流会を稲美町くにおか公会堂でやります。
   - 周りで支援団体や子ども食堂されてる方いたら声かけてもらえるとありがたいです
   - 前回の様子 <https://ropeth.com/2023/05/13/choice-event1/>
@@ -84,8 +78,7 @@ tags: [code for harima]
 
 - 生徒会兼ボランティア部をやっている（ボランティア部とは部活とは違うけれども集まっている）
   - イベントのお手伝いをしている
-  - Code for
-    Harima は地域に関わっておられるので、地域に関わることでアドバイスが有れば
+  - Code for Harima は地域に関わっておられるので、地域に関わることでアドバイスが有れば
 - 活動内容
   - イベントの装飾、出店の下準備、アナウンスをした
   - おじいちゃんたちは出店するのに体力不足、マッチングはできると思う

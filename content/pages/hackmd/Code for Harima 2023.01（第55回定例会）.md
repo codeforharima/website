@@ -1,26 +1,24 @@
----
-title: Code for Harima 2023.01（第55回定例会）
-tags: [code for harima]
----
-
----
-
-robots: noindex, nofollow lang: ja breaks: true tags: code for harima
-
----
+Title: Code for Harima 2023.01（第55回定例会）
+Date: 2023-01-11 19:00:00
+Category: minutes
+Tags: 2023
+Summary:
+lang: ja
+Slug: 202301
+Save_as: history/202301.html
+Template: page
 
 # Code for Harima 2023.01（第55回定例会）
 
 - 2023/1/11(水) 19:00-21:00
-- 加古川 びぃぷらす /
-  [オンライン](https://meet.jit.si/moderated/e501a527fa1359e6b6eb125327e96e7e5ec6c3e698bb4cb521b904d08c6f63b9)
+- 加古川 びぃぷらす / [オンライン](https://meet.jit.si/moderated/e501a527fa1359e6b6eb125327e96e7e5ec6c3e698bb4cb521b904d08c6f63b9)
 - LINEアカウント: <https://liff.line.me/1645278921-kWRPP32q/?accountId=946ardlp>
-- Facebookページ:<https://www.facebook.com/codeforharima>
-- 司会:野方
-- 参加者:むねなが、石本、福田、峰村、畑、三浦
-- リモート:水野、上東
+- Facebookページ: <https://www.facebook.com/codeforharima>
+- 司会: 野方
+- 参加者: むねなが、石本、福田、峰村、畑、三浦
+- リモート: 水野、上東
 - 次回開催: 2023年2月8日(水) 19:00-21:00
-- 開催場所：びぃぷらす
+- 開催場所： びぃぷらす
 - 過去の議事録：<https://hackmd.io/@codeforharima/ry3puSiOc>
 
 ## 運営連絡
@@ -33,36 +31,44 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
 - 議事録について
   - HackMD でみんなで書いていく
   - まとめてあるので検索性もいいよ
-    - 過去の議事録：<https://hackmd.io/@codeforharima/ry3puSiOc>
+    - 過去の議事録: <https://hackmd.io/@codeforharima/ry3puSiOc>
   - [姫路IT系勉強会](https://histudy.jp/)もHackMD → Webサイトに変換
     - サイト内検索がGoogleカスタム検索なので精度がちょっと…
   - 姫路IT勉強会のをフォークしてCode For Haimaもできるといいな
 
 ## 災害関連のオープンデータをQGISで表示してみました
 
-[兵庫県／オープンデータカタログページ](https://web.pref.hyogo.lg.jp/opendata/index.php)
-[兵庫県／オープンデータの取組について](https://web.pref.hyogo.lg.jp/kk26/johoseisaku/opendata.html)
+- [兵庫県／オープンデータカタログページ](https://web.pref.hyogo.lg.jp/opendata/index.php)
+- [兵庫県／オープンデータの取組について](https://web.pref.hyogo.lg.jp/kk26/johoseisaku/opendata.html)
 
-- 氾濫想定図(兵庫県オープンデータカタログより)
-  ![](https://i.imgur.com/Bo8Z8wQ.jpg)
-- 氾濫想定図(国土交通省国土数値情報より) ![](https://i.imgur.com/ZQU5Pkf.jpg)
-- 土砂災害警戒区域 ![](https://i.imgur.com/xnhYu6A.jpg)
+氾濫想定図(兵庫県オープンデータカタログより)
 
-- QGISの結果をみて、山裾や河川の際を重点マッピング中
-  ![](https://i.imgur.com/4vagR3N.png)
+![](https://i.imgur.com/Bo8Z8wQ.jpg)
+
+氾濫想定図(国土交通省国土数値情報より)
+
+![](https://i.imgur.com/ZQU5Pkf.jpg)
+
+土砂災害警戒区域
+
+![](https://i.imgur.com/xnhYu6A.jpg)
+
+ QGISの結果をみて、山裾や河川の際を重点マッピング中
+
+![](https://i.imgur.com/4vagR3N.png)
 
 - QGISはとっかかりが難しい、詰まったとき聞けない
 - ワークショップとかあると初学者でも気楽に始められるのでは
 
 ## 高砂謎解きスタンプラリー体験してきました
 
-[高砂謎解きスタンプラリー](https://takasago-chari.com/)
+- [高砂謎解きスタンプラリー](https://takasago-chari.com/)
 
-| 場所         | mapillary                                              | WikiMedia                                                                                               |
-| ------------ | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
-| 高砂神社     | <https://www.mapillary.com/app/?pKey=6066040080075389> | <https://commons.wikimedia.org/wiki/File:%E9%AB%98%E7%A0%82%E7%A5%9E%E7%A4%BE.jpg>                      |
-| 旧入江家住宅 | <https://www.mapillary.com/app/?pKey=920077982319974>  | <https://commons.wikimedia.org/wiki/File:%E6%97%A7%E5%85%A5%E6%B1%9F%E5%AE%B6%E4%BD%8F%E5%AE%85.jpg> 　 |
-| 経政神社　   | <https://www.mapillary.com/app/?pKey=905612320617520>  | <https://commons.wikimedia.org/wiki/File:%E7%B5%8C%E6%94%BF%E7%A5%9E%E7%A4%BE.jpg>                      |
+| 場所         | mapillary                                            | WikiMedia                                                                                          |
+| ------------ | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| 高砂神社     | https://www.mapillary.com/app/?pKey=6066040080075389 | https://commons.wikimedia.org/wiki/File:%E9%AB%98%E7%A0%82%E7%A5%9E%E7%A4%BE.jpg                   |
+| 旧入江家住宅 | https://www.mapillary.com/app/?pKey=920077982319974  | https://commons.wikimedia.org/wiki/File:%E6%97%A7%E5%85%A5%E6%B1%9F%E5%AE%B6%E4%BD%8F%E5%AE%85.jpg |
+| 経政神社     | https://www.mapillary.com/app/?pKey=905612320617520  | https://commons.wikimedia.org/wiki/File:%E7%B5%8C%E6%94%BF%E7%A5%9E%E7%A4%BE.jpg                   |
 
 - 自転車で回ってきました
   - わかりにくい場所があった
@@ -72,18 +78,17 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
   - 行ったついでにWikimediaに写真を投稿
     - ありがたい取り組み、このあたり写真がない
     - 項目がなくても写真が使いたい場合がある
-- コンプリートされた方がおられます　　\* 高砂市在住の行司さん！！（兵庫県職員、以前Code
-  for Kobe に参加されていた方）
+- コンプリートされた方がおられます
+  - 高砂市在住の行司さん！！（兵庫県職員、以前Code for Kobe に参加されていた方）
 
 ## 兵庫県「山間部の50cmメッシュ３次元データ」の公開
 
-<https://web.pref.hyogo.lg.jp/press/20230110_12097.html>
-
+- <https://web.pref.hyogo.lg.jp/press/20230110_12097.html>
 - 何が出来るか考慮中
 - 木の高さと地表面のデータがあるので、木の生え方とか分かるかも
 - 機からのレーザー測量データ　地表面・植生・建物につかえる？
 - QGISが難しい
-  [PLATEAU | 国土交通省が主導する、日本全国の3D都市モデルの整備・オープンデータ化プロジェクト](https://www.mlit.go.jp/plateau/)みたいにビジュアルがあるとキャッチーだけど…
+- [PLATEAU | 国土交通省が主導する、日本全国の3D都市モデルの整備・オープンデータ化プロジェクト](https://www.mlit.go.jp/plateau/)みたいにビジュアルがあるとキャッチーだけど…
 
 ## エアロバイクを買いました（のがた）
 
@@ -99,39 +104,46 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
 
 ## チャレンジ！！オープンガバナンス応募テーマについて（石本）
 
-- COG2022に課題提案しています。
-  - 提案内容[スライド]（<https://drive.google.com/file/d/1cFyclfRFjlko0yR2bxrQbyiefKc_DqI8/view?usp=sharing>)
+COG2022に課題提案しています。
 
-  - 提案内容[ワード](https://docs.google.com/document/d/1iOXe2HvbE4c_RuIA8tAag0DFJTq999ee/edit?usp=sharing&ouid=112649010121225112271&rtpof=true&sd=true)
+- 提案内容[スライド](https://drive.google.com/file/d/1cFyclfRFjlko0yR2bxrQbyiefKc_DqI8/view?usp=sharing)
+- 提案内容[ワード](https://docs.google.com/document/d/1iOXe2HvbE4c_RuIA8tAag0DFJTq999ee/edit?usp=sharing&ouid=112649010121225112271&rtpof=true&sd=true)
 
-- [チャレンジ！！オープンガバナンス](https://park.itc.u-tokyo.ac.jp/padit/cog2022/)
-- [チャレンジ！！オープンガバナンス](https://park.itc.u-tokyo.ac.jp/padit/cog2022/)（COG）とは
+### [チャレンジ！！オープンガバナンス](https://park.itc.u-tokyo.ac.jp/padit/cog2022/)
 
-- 高砂市の課題
-  [ワクワクするサイクリングライフをもっと効果的に発信したい](http://park.itc.u-tokyo.ac.jp/padit/cog2022/area/kinki.html#takarazuka-list)
+[チャレンジ！！オープンガバナンス](https://park.itc.u-tokyo.ac.jp/padit/cog2022/)（COG）とは
 
-- 課題
-  - サイクルツーリズムの効果的なPRができていない
-  - 様々な観光資源が点在しており、それぞれを結ぶ交通機関が少ない
-  - 人身事故に占める自転車関係事故の割合が30％以上（県内ワースト）
-  - 高砂市は平坦で自転車が乗りやすい
+### 高砂市の課題
 
-- ミッション
-  - サイクリング安全マップを作製し、レンタサイクル事業者と連携して配布等を行い、高砂市内の観光施設の利用等の推進を図っていますが、更なるPRが必要である
+[ワクワクするサイクリングライフをもっと効果的に発信したい](http://park.itc.u-tokyo.ac.jp/padit/cog2022/area/kinki.html#takarazuka-list)
 
-- 審査のスケジュール（1）書類審査（2023年1月）市民／学生から応募のあったアイデアについて書類審査をおこない、以下に分類しますファイナリスト・セミファイナリスト・ポスター展・ウェブサイトアップのみ
+### 課題
 
-  （2）ファイナリストヘの追加質問（2023年2月）ファイナリストに選ばれたアイデアを応募した市民／学生とその自治体を対象に、市民／学生と自治体との連携状況を追加調査し、最終公開審査の材料とします
+- サイクルツーリズムの効果的なPRができていない
+- 様々な観光資源が点在しており、それぞれを結ぶ交通機関が少ない
+- 人身事故に占める自転車関係事故の割合が30％以上（県内ワースト）
+- 高砂市は平坦で自転車が乗りやすい
 
-  （3）最終公開審査・表彰（2023年3月5日　以下6まで同日です）開催方式については最終プログラムの発表とともに、2023年2月にお知らせしますファイナリストに選ばれた各チームのプレゼンと審査委員による公開質疑を行って審査・表彰しますまた、それぞれの協賛団体が選定する協賛団体賞の発表・表彰もいたします
+### ミッション
 
-  （4）並行イベント：セミファイナリストミニプレゼンとポスター展並行イベントでは、セミファイナリストに選ばれた各チームのミニプレゼンとポスター展も開催します
+サイクリング安全マップを作製し、レンタサイクル事業者と連携して配布等を行い、高砂市内の観光施設の利用等の推進を図っていますが、更なるPRが必要である
 
-  （5）視聴者によるオンライン投票ファイナリスト・セミファイナリスト・ポスター展対象チームの視聴者オンライン投票も実施します
+###  審査のスケジュール
 
-  （6）アフターコンテストイベント視聴者によるオンライン投票結果の発表などの催しを実施します
-
-  （7）結果の公表最終公開審査の終了後、COGのウェブサイト上でも速やかに結果を公開します
+- （1）書類審査（2023年1月）
+  - 市民／学生から応募のあったアイデアについて書類審査をおこない、以下に分類します。ファイナリスト・セミファイナリスト・ポスター展・ウェブサイトアップのみ
+- （2）ファイナリストヘの追加質問（2023年2月）
+  - ファイナリストに選ばれたアイデアを応募した市民／学生とその自治体を対象に、市民／学生と自治体との連携状況を追加調査し、最終公開審査の材料とします
+- （3）最終公開審査・表彰（2023年3月5日　以下6まで同日です）
+  - 開催方式については最終プログラムの発表とともに、2023年2月にお知らせします。ファイナリストに選ばれた各チームのプレゼンと審査委員による公開質疑を行って審査・表彰します。また、それぞれの協賛団体が選定する協賛団体賞の発表・表彰もいたします
+- （4）並行イベント：セミファイナリストミニプレゼンとポスター展
+  - 並行イベントでは、セミファイナリストに選ばれた各チームのミニプレゼンとポスター展も開催します
+- （5）視聴者によるオンライン投票
+  - ファイナリスト・セミファイナリスト・ポスター展対象チームの視聴者オンライン投票も実施します
+- （6）アフターコンテストイベント
+  - 視聴者によるオンライン投票結果の発表などの催しを実施します
+- （7）結果の公表
+  - 最終公開審査の終了後、COGのウェブサイト上でも速やかに結果を公開します
 
 - 3月4日、5日の東大での賞を狙って、体を開けておきましょう！！
   - イベント実施予定が既にあると審査でPRポイントになる
@@ -166,12 +178,13 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
   - 予算は石本さんが割り振る
   - HARIMAは電源とWi―fiくらいかな？
   - 石本さん、こたつ提供
-    [こたつdeマッピングとは？](https://drive.google.com/file/d/108-X0UqE8u2kKIlG_o8gI9qZ9OC6e4bm/view?usp=sharing)
+        [こたつdeマッピングとは？](https://drive.google.com/file/d/108-X0UqE8u2kKIlG_o8gI9qZ9OC6e4bm/view?usp=sharing)
   - たき火deマッピングとこたつのコラボも可能性あり
-  - 危険個所マップの近くをOSMでマッピングするか、危険個所をオープンデータで表現してみる？\* いろんな人が来るので、ハードルを下げる
+  - 危険個所マップの近くをOSMでマッピングするか、危険個所をオープンデータで表現してみる？
+        - いろんな人が来るので、ハードルを下げる
   - パネル展示で活動PRができるようにしたい
 
-### Notionでドキュメントやメモの話など（城東）
+## Notionでドキュメントやメモの話など（城東）
 
 - japanは最近Notionに全部乗り換えましたね
   - ayuki Joto の発言: <https://s.c4j.jp/1y7V>
@@ -180,6 +193,7 @@ robots: noindex, nofollow lang: ja breaks: true tags: code for harima
     - DB → 表計算的にも使えるし機能もあるけど…
     - JSベースなのでパフォーマンスは厳しいかも
 
-### State of the MAP の動画がおおむね公開されました（福田）
+## State of the MAP の動画がおおむね公開されました（福田）
 
-- WebサイトURL <https://stateofthemap.jp/>
+- WebサイトURL
+  - <https://stateofthemap.jp/>
