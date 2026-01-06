@@ -1,11 +1,11 @@
 Title: SotM JP2022 当日役割・機材・消耗品
 Date: 2022
 Category: events
-Tags: sotmjp
+Tags: sotmjp2022
 Summary:
 lang: ja
-Slug: sotmjp2022-staff-and-equipments
-Save_as: events/sotmjp2022-staff-and-equipments.html
+Slug: staff-and-equipments
+Save_as: events/sotmjp2022/staff-and-equipments.html
 Template: page
 
 ## 参考情報
@@ -14,7 +14,7 @@ Template: page
 
 ### 会場レイアウト
 
-![](https://i.imgur.com/yKHs4Il.png)
+![会場レイアウト](https://i.imgur.com/yKHs4Il.png)
 
 ## 仕事内容（氏名は敬称略）
 
@@ -23,9 +23,9 @@ Template: page
 - 各部屋にビデオカメラとマイクを設置
 - 各部屋の有線LANを敷設
 - プロジェクター設置
-  - 型番: LV-WX310ST(各部屋共通)
+    - 型番: LV-WX310ST(各部屋共通)
 - 受付チームへの説明(北光社)
-  - 名札/ケースの配布、回収、ペンの調達（）
+    - 名札/ケースの配布、回収、ペンの調達（）
 
 ### 配信
 
@@ -37,17 +37,17 @@ Template: page
 - 担当者：北光社、萬谷、青木、倉田（OIC）、受付（OIC）
 - 役割：来場者確認・登録案内、スポンサー案内、質問受付
 - 来場者の確認
-  - 消毒案内、検温
-  - 参加者リストの照合(坂ノ下が印刷予定)
-  - 未登録者への登録案内
-    - PeatixのQRコード(坂ノ下印刷): <https://docs.google.com/document/d/1oFvK68qU6aAYylnWPK5KTfTqSFvt0dRs8Kl_jRFrRoM/edit?usp=sharing>
-  - 名刺&ケース配布/ケース回収
-    - ペンの貸出/回収
+    - 消毒案内、検温
+    - 参加者リストの照合(坂ノ下が印刷予定)
+    - 未登録者への登録案内
+        - PeatixのQRコード(坂ノ下印刷): <https://docs.google.com/document/d/1oFvK68qU6aAYylnWPK5KTfTqSFvt0dRs8Kl_jRFrRoM/edit?usp=sharing>
+    - 名刺&ケース配布/ケース回収
+        - ペンの貸出/回収
 - スポンサー対応
-  - イベント登録していないスポンサーは数名いる模様
-  - イベント開始までの控室(受付後ろ)を案内
+    - イベント登録していないスポンサーは数名いる模様
+    - イベント開始までの控室(受付後ろ)を案内
 - 講演者対応
-  - 講演10分前までには控室でZoom設定確認を行うよう案内
+    - 講演10分前までには控室でZoom設定確認を行うよう案内
 
 ### 会議室A(午後・パネル展示&コーヒー)
 
@@ -79,16 +79,16 @@ Template: page
 ## 必要機材・消耗品
 
 - 設営用
-  - 映像/音声ケーブル
-  - LANケーブル、Hub
+    - 映像/音声ケーブル
+    - LANケーブル、Hub
 - 受付用
-  - 名札用意(坂ノ下)
-  - 名札ケース用意(Code for Harima用意)
-  - 油性マジック(要調整)
-  - 検温機械（ガン型*3 Ikiyaさん用意）
-  - 消毒液(Code for Harima用意)
-  - 個包装のマスク
+    - 名札用意(坂ノ下)
+    - 名札ケース用意(Code for Harima用意)
+    - 油性マジック(要調整)
+    - 検温機械（ガン型*3 Ikiyaさん用意）
+    - 消毒液(Code for Harima用意)
+    - 個包装のマスク
 - 会議室A&B/特別会議室
-  - 消毒液(Code for Harima用意)
+    - 消毒液(Code for Harima用意)
 - 交流会用
-  - ケータリング調達
+    - ケータリング調達

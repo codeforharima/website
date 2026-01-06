@@ -1,11 +1,11 @@
 Title: SotM JP2022 採択通知
 Date: 2022
 Category: events
-Tags: sotmjp
+Tags: sotmjp2022
 Summary:
 lang: ja
-Slug: sotmjp2022-acceptance-letter
-Save_as: events/sotmjp2022-acceptance-letter.html
+Slug: acceptance-letter
+Save_as: events/sotmjp2022/acceptance-letter.html
 Template: page
 
 ```text

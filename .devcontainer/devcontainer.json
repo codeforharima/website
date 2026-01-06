@@ -138,6 +138,9 @@
         // markdownlint
         "markdownlint.config": {
           "MD041": false,
+          "MD007": {
+            "indent": 4
+          }
         },
         // notebookの出力を折り返す
         "notebook.output.wordWrap": true,
@@ -209,7 +212,7 @@
         },
         // Markdown拡張機能設定
         "[markdown]": {
-          "editor.defaultFormatter": "yzhang.markdown-all-in-one",
+          "editor.defaultFormatter": "DavidAnson.vscode-markdownlint",
           "editor.tabSize": 4
         },
         // JavaScript拡張機能設定

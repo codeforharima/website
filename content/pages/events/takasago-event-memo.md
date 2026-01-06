@@ -8,8 +8,6 @@ Slug: takasago-traffic-memo
 Save_as: events/takasago-traffic-memo.html
 Template: page
 
-# 高砂市イベント作業メモ
-
 ## 兵庫県オープンデータから高砂市の自転車事故を洗い出し
 
 兵庫県ホームページ「オープンデータカタログページ」: <https://web.pref.hyogo.lg.jp/opendata/index.php>

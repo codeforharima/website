@@ -1,0 +1,35 @@
+Title: 観光ガイドブックと観光協会で場所が違う
+Date: 2021-12-08
+Category: documents
+Tags: openstreetmap, kakogawa60
+Summary:
+lang: ja
+Slug: 202112-different-tourist-guidebook-and-tourism-association
+Save_as: history/202112-different-tourist-guidebook-and-tourism-association.html
+Template: page
+
+## リンク
+
+- 参考: 観光ガイドブック「わがまち加古川60選」
+    - <https://www.hyogo-ebooks.jp/bookinfo/%E3%82%8F%E3%81%8C%E3%81%BE%E3%81%A1%E5%8A%A0%E5%8F%A4%E5%B7%9D60%E9%81%B8/>
+    - 知らずに見てたけど、これ、勝手にPDF化してる?
+- わがまち加古川60選
+    - <https://www.city.kakogawa.lg.jp/soshikikarasagasu/chiikishinkobu/kankoka/kanko_ibento/1418977120863.html>
+- 加古川観光協会
+    - <http://kako-navi.jp/>
+
+## 違う場所
+
+- 1. 五ケ井用水
+    - <http://kako-navi.jp/spot/spot/purpose/history/777>
+- 1. 新井緑道
+    - <http://kako-navi.jp/spot/spot/purpose/history/855>
+- 1. 平木橋
+    - オーストラリアになっている
+    - <http://kako-navi.jp/spot/spot/purpose/history/943>
+- 1. 中西廃寺
+    - オーストラリアになっている
+    - <http://kako-navi.jp/spot/spot/purpose/history/876>
+- 1. 宮山遊歩道
+    - オーストラリアになっている
+    - <http://kako-navi.jp/spot/spot/purpose/park/681>

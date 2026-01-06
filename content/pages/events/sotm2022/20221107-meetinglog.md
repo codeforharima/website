@@ -1,14 +1,12 @@
 Title: SotMJP2022 2022/11/7
 Date: 2022-11-07
 Category: events
-Tags: sotmjp
+Tags: sotmjp2022
 Summary:
 lang: ja
-Slug: sotmjp2022-20221107-meeting_log
-Save_as: events/sotmjp2022-20221107-meeting_log.html
+Slug: 20221107-meeting_log
+Save_as: events/sotmjp2022/20221107-meeting_log.html
 Template: page
-
-# SotMJP2022 2022/11/7
 
 ## リンク
 
