@@ -1,12 +1,14 @@
+---
 Title: SotM JP2022 採択通知
 Date: 2022
-Category: events
-Tags: sotmjp2022
+Category: sotmjp2022
+Tags:
 Summary:
 lang: ja
 Slug: acceptance-letter
 Save_as: events/sotmjp2022/acceptance-letter.html
 Template: page
+---
 
 ```text
 State of the Map Japan 2022講演者各位

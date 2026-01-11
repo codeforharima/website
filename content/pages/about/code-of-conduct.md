@@ -1,3 +1,4 @@
+---
 Title: Code for Harima 行動規範
 Category: about
 Tags:
@@ -6,6 +7,7 @@ lang: ja
 Slug: code-of-conduct
 Save_as: about/code-of-conduct.html
 Template: page
+---
 
 ## Code for Harima の行動規範
 

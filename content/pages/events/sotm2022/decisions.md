@@ -1,12 +1,14 @@
+---
 Title: SotM JP 2022 決定事項
 Date: 2022
-Category: events
-Tags: sotmjp2022
+Category: sotmjp2022
+Tags:
 Summary:
 lang: ja
 Slug: decisions
 Save_as: events/sotmjp2022/decisions.html
 Template: page
+---
 
 ## (参考)事前検討内容
 

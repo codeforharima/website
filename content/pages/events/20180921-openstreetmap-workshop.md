@@ -1,3 +1,4 @@
+---
 Title: オープンストリートマップ(OpenStreetMap)講座
 Date: 2018-09-21 18:00:00
 Category: events
@@ -7,6 +8,7 @@ lang: ja
 Slug: openstreetmap-workshop
 Save_as: history/20180921-openstreetmap-workshop.html
 Template: page
+---
 
 - 日時: 2018/09/21 18:00-21:00
 - 場所: 加古川 00. Workspace

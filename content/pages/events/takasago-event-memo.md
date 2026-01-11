@@ -1,3 +1,4 @@
+---
 Title: 高砂市イベント作業メモ
 Date: 2019-07-10 19:00:00
 Category: events
@@ -7,6 +8,7 @@ lang: ja
 Slug: takasago-traffic-memo
 Save_as: events/takasago-traffic-memo.html
 Template: page
+---
 
 ## 兵庫県オープンデータから高砂市の自転車事故を洗い出し
 

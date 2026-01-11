@@ -1,3 +1,4 @@
+---
 Title: 観光ガイドブックと観光協会で場所が違う
 Date: 2021-12-08
 Category: documents
@@ -7,6 +8,7 @@ lang: ja
 Slug: 202112-different-tourist-guidebook-and-tourism-association
 Save_as: history/202112-different-tourist-guidebook-and-tourism-association.html
 Template: page
+---
 
 ## リンク
 

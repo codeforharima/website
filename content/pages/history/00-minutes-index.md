@@ -1,3 +1,4 @@
+---
 Title: Code for Harima 議事録履歴
 Category: minutes
 Summary:
@@ -5,6 +6,7 @@ lang: ja
 Slug: minutes-index
 Save_as: history/minutes-index.html
 Template: page
+---
 
 ## 2026年
 

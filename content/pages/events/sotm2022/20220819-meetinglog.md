@@ -1,12 +1,14 @@
+---
 Title: SOTMJP2022 事前打ち合わせ 2022年8月19日
 Date: 2022-08-19
-Category: events
-Tags: sotmjp2022
+Category: sotmjp2022
+Tags:
 Summary:
 lang: ja
 Slug: 20220819-meeting_log
 Save_as: events/sotmjp2022/20220819-meeting_log.html
 Template: page
+---
 
 ## SOTM　事前打ち合わせ　2022年8月19日　21:00-
 
