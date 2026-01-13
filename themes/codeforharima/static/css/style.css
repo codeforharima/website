@@ -139,6 +139,12 @@ a:hover {
   margin-top: 2.25rem;
 }
 
+/* ページ内の画像はレスポンシブ */
+.content img {
+  max-width: 100%;
+  height: auto;
+}
+
 /* Card Image Aspect Ratio */
 .recent .card-img-top {
   object-fit: cover;
